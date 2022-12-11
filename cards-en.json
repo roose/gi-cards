@@ -2,19 +2,18 @@
   {
     "id": 1101,
     "name": "Ganyu",
-    "element_type": "ETIce",
-    "rank_id": 1101,
-    "role_skill_infos": [
+    "element": "cryo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "11"
+            "num": "1",
+            "icon": "11"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -26,15 +25,15 @@
         "id": "11011"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIce Lotus\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIce Lotus\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -46,15 +45,15 @@
         "id": "11012"
       },
       {
-        "skill_text": "Deals 2 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e2 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e2 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
+        "costs": [
           {
-            "cost_num": "5",
-            "cost_icon": "11"
+            "num": "5",
+            "icon": "11"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -66,15 +65,15 @@
         "id": "11013"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e1 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby, summons 1 \u003ccolor=#FFFFFFFF\u003eSacred Cryo Pearl\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e1 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby, summons 1 \u003ccolor=#FFFFFFFF\u003eSacred Cryo Pearl\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -98,19 +97,18 @@
   {
     "id": 1102,
     "name": "Diona",
-    "element_type": "ETIce",
-    "rank_id": 1102,
-    "role_skill_infos": [
+    "element": "cryo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "11"
+            "num": "1",
+            "icon": "11"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -122,15 +120,15 @@
         "id": "11021"
       },
       {
-        "skill_text": "Deals 2 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eCat-Claw Shield\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eCat-Claw Shield\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -142,15 +140,15 @@
         "id": "11022"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, heals this character for 2 HP, summons 1 \u003ccolor=#FFFFFFFF\u003eDrunken Mist\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, heals this character for 2 HP, summons 1 \u003ccolor=#FFFFFFFF\u003eDrunken Mist\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -174,19 +172,18 @@
   {
     "id": 1103,
     "name": "Kaeya",
-    "element_type": "ETIce",
-    "rank_id": 1103,
-    "role_skill_infos": [
+    "element": "cryo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "11"
+            "num": "1",
+            "icon": "11"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -198,15 +195,15 @@
         "id": "11031"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -218,15 +215,15 @@
         "id": "11032"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIcicle\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIcicle\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "4",
-            "cost_icon": "11"
+            "num": "4",
+            "icon": "11"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -250,19 +247,18 @@
   {
     "id": 1104,
     "name": "Chongyun",
-    "element_type": "ETIce",
-    "rank_id": 1104,
-    "role_skill_infos": [
+    "element": "cryo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "11"
+            "num": "1",
+            "icon": "11"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -274,15 +270,15 @@
         "id": "11041"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eChonghua Frost Field\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eChonghua Frost Field\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -294,15 +290,15 @@
         "id": "11042"
       },
       {
-        "skill_text": "Deals 7 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 7 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -326,19 +322,18 @@
   {
     "id": 1105,
     "name": "Kamisato Ayaka",
-    "element_type": "ETIce",
-    "rank_id": 1105,
-    "role_skill_infos": [
+    "element": "cryo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "11"
+            "num": "1",
+            "icon": "11"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -350,15 +345,15 @@
         "id": "11051"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -370,15 +365,15 @@
         "id": "11052"
       },
       {
-        "skill_text": "Deals 4 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eFrostflake Seki no To\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 4 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eFrostflake Seki no To\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -390,15 +385,15 @@
         "id": "11053"
       },
       {
-        "skill_text": "(Passive) When switched to be the active character, this character gains \u003ccolor=#FFFFFFFF\u003eCryo Elemental Infusion\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "(Passive) When switched to be the active character, this character gains \u003ccolor=#FFFFFFFF\u003eCryo Elemental Infusion\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -422,19 +417,18 @@
   {
     "id": 1201,
     "name": "Barbara",
-    "element_type": "ETWater",
-    "rank_id": 1201,
-    "role_skill_infos": [
+    "element": "hydro",
+    "skills": [
       {
-        "skill_text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "12"
+            "num": "1",
+            "icon": "12"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -446,15 +440,15 @@
         "id": "12011"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eMelody Loop\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eMelody Loop\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -466,15 +460,15 @@
         "id": "12012"
       },
       {
-        "skill_text": "Heals all of your characters for 4 HP.",
-        "skill_costs": [
+        "text": "Heals all of your characters for 4 HP.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -498,19 +492,18 @@
   {
     "id": 1202,
     "name": "Xingqiu",
-    "element_type": "ETWater",
-    "rank_id": 1202,
-    "role_skill_infos": [
+    "element": "hydro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "12"
+            "num": "1",
+            "icon": "12"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -522,15 +515,15 @@
         "id": "12021"
       },
       {
-        "skill_text": "Deals 2 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, grants this character \u003ccolor=#80C0FFFF\u003eHydro Application\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eRain Sword\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, grants this character \u003ccolor=#80C0FFFF\u003eHydro Application\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eRain Sword\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -542,15 +535,15 @@
         "id": "12022"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, grants this character \u003ccolor=#80C0FFFF\u003eHydro Application\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eRainbow Bladework\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, grants this character \u003ccolor=#80C0FFFF\u003eHydro Application\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eRainbow Bladework\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -574,19 +567,18 @@
   {
     "id": 1203,
     "name": "Mona",
-    "element_type": "ETWater",
-    "rank_id": 1203,
-    "role_skill_infos": [
+    "element": "hydro",
+    "skills": [
       {
-        "skill_text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "12"
+            "num": "1",
+            "icon": "12"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -598,15 +590,15 @@
         "id": "12031"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eReflection\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eReflection\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -618,15 +610,15 @@
         "id": "12032"
       },
       {
-        "skill_text": "Deals 4 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIllusory Bubble\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 4 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIllusory Bubble\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -638,15 +630,15 @@
         "id": "12033"
       },
       {
-        "skill_text": "(Passive) \u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\" while Mona is your active character:\u003c/color\u003e This switch is considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e. (Once per Round)",
-        "skill_costs": [
+        "text": "(Passive) \u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\" while Mona is your active character:\u003c/color\u003e This switch is considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e. (Once per Round)",
+        "costs": [
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -670,19 +662,18 @@
   {
     "id": 1301,
     "name": "Diluc",
-    "element_type": "ETFire",
-    "rank_id": 1301,
-    "role_skill_infos": [
+    "element": "pyro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "13"
+            "num": "1",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -694,15 +685,15 @@
         "id": "13011"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. For the third use of this Skill each Round, deals +2 DMG.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. For the third use of this Skill each Round, deals +2 DMG.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "13"
+            "num": "3",
+            "icon": "13"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -714,15 +705,15 @@
         "id": "13012"
       },
       {
-        "skill_text": "Deals 8 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003ePyro Infusion\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 8 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003ePyro Infusion\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "4",
-            "cost_icon": "13"
+            "num": "4",
+            "icon": "13"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -746,19 +737,18 @@
   {
     "id": 1302,
     "name": "Xiangling",
-    "element_type": "ETFire",
-    "rank_id": 1302,
-    "role_skill_infos": [
+    "element": "pyro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "13"
+            "num": "1",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -770,15 +760,15 @@
         "id": "13021"
       },
       {
-        "skill_text": "Summons 1 \u003ccolor=#FFFFFFFF\u003eGuoba\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Summons 1 \u003ccolor=#FFFFFFFF\u003eGuoba\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "13"
+            "num": "3",
+            "icon": "13"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -790,15 +780,15 @@
         "id": "13022"
       },
       {
-        "skill_text": "Deals 2 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003ePyronado\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003ePyronado\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "4",
-            "cost_icon": "13"
+            "num": "4",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -822,19 +812,18 @@
   {
     "id": 1303,
     "name": "Bennett",
-    "element_type": "ETFire",
-    "rank_id": 1303,
-    "role_skill_infos": [
+    "element": "pyro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "13"
+            "num": "1",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -846,15 +835,15 @@
         "id": "13031"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "13"
+            "num": "3",
+            "icon": "13"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -866,15 +855,15 @@
         "id": "13032"
       },
       {
-        "skill_text": "Deals 2 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eInspiration Field\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eInspiration Field\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "4",
-            "cost_icon": "13"
+            "num": "4",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -898,19 +887,18 @@
   {
     "id": 1305,
     "name": "Yoimiya",
-    "element_type": "ETFire",
-    "rank_id": 1305,
-    "role_skill_infos": [
+    "element": "pyro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "13"
+            "num": "1",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -922,15 +910,15 @@
         "id": "13051"
       },
       {
-        "skill_text": "This character gains \u003ccolor=#FFFFFFFF\u003eNiwabi Enshou\u003c/color\u003e. (This Skill does not grant Energy)",
-        "skill_costs": [
+        "text": "This character gains \u003ccolor=#FFFFFFFF\u003eNiwabi Enshou\u003c/color\u003e. (This Skill does not grant Energy)",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "13"
+            "num": "1",
+            "icon": "13"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -942,15 +930,15 @@
         "id": "13052"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eAurous Blaze\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eAurous Blaze\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "13"
+            "num": "3",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -974,19 +962,18 @@
   {
     "id": 1401,
     "name": "Fischl",
-    "element_type": "ETThunder",
-    "rank_id": 1401,
-    "role_skill_infos": [
+    "element": "electro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "14"
+            "num": "1",
+            "icon": "14"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -998,15 +985,15 @@
         "id": "14011"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eOz\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eOz\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "14"
+            "num": "3",
+            "icon": "14"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1018,15 +1005,15 @@
         "id": "14012"
       },
       {
-        "skill_text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, deals 2 \u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
-        "skill_costs": [
+        "text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, deals 2 \u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "14"
+            "num": "3",
+            "icon": "14"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1050,19 +1037,18 @@
   {
     "id": 1402,
     "name": "Razor",
-    "element_type": "ETThunder",
-    "rank_id": 1402,
-    "role_skill_infos": [
+    "element": "electro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "14"
+            "num": "1",
+            "icon": "14"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1074,15 +1060,15 @@
         "id": "14021"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "14"
+            "num": "3",
+            "icon": "14"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1094,15 +1080,15 @@
         "id": "14022"
       },
       {
-        "skill_text": "Deals 5 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eThe Wolf Within\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 5 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eThe Wolf Within\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "14"
+            "num": "3",
+            "icon": "14"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1126,19 +1112,18 @@
   {
     "id": 1403,
     "name": "Keqing",
-    "element_type": "ETThunder",
-    "rank_id": 1403,
-    "role_skill_infos": [
+    "element": "electro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "14"
+            "num": "1",
+            "icon": "14"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1150,15 +1135,15 @@
         "id": "14031"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eLightning Stiletto\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eLightning Stiletto\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "14"
+            "num": "3",
+            "icon": "14"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1170,15 +1155,15 @@
         "id": "14032"
       },
       {
-        "skill_text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e3 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
-        "skill_costs": [
+        "text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e3 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
+        "costs": [
           {
-            "cost_num": "4",
-            "cost_icon": "14"
+            "num": "4",
+            "icon": "14"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1202,19 +1187,18 @@
   {
     "id": 1404,
     "name": "Cyno",
-    "element_type": "ETThunder",
-    "rank_id": 1404,
-    "role_skill_infos": [
+    "element": "electro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "14"
+            "num": "1",
+            "icon": "14"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1226,15 +1210,15 @@
         "id": "14041"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "14"
+            "num": "3",
+            "icon": "14"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1246,15 +1230,15 @@
         "id": "14042"
       },
       {
-        "skill_text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e's Indwelling Level +2.",
-        "skill_costs": [
+        "text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e's Indwelling Level +2.",
+        "costs": [
           {
-            "cost_num": "4",
-            "cost_icon": "14"
+            "num": "4",
+            "icon": "14"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1266,15 +1250,15 @@
         "id": "14043"
       },
       {
-        "skill_text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1298,19 +1282,18 @@
   {
     "id": 1501,
     "name": "Sucrose",
-    "element_type": "ETWind",
-    "rank_id": 1501,
-    "role_skill_infos": [
+    "element": "anemo",
+    "skills": [
       {
-        "skill_text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "17"
+            "num": "1",
+            "icon": "17"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1322,15 +1305,15 @@
         "id": "15011"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, the target is forcibly switched to the previous character.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, the target is forcibly switched to the previous character.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "17"
+            "num": "3",
+            "icon": "17"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1342,15 +1325,15 @@
         "id": "15012"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eLarge Wind Spirit\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eLarge Wind Spirit\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "17"
+            "num": "3",
+            "icon": "17"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1374,19 +1357,18 @@
   {
     "id": 1502,
     "name": "Jean",
-    "element_type": "ETWind",
-    "rank_id": 1502,
-    "role_skill_infos": [
+    "element": "anemo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "17"
+            "num": "1",
+            "icon": "17"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1398,15 +1380,15 @@
         "id": "15021"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, the target is forcibly switched to the next character.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, the target is forcibly switched to the next character.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "17"
+            "num": "3",
+            "icon": "17"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1418,15 +1400,15 @@
         "id": "15022"
       },
       {
-        "skill_text": "Heals all your characters for 2 HP, summons 1 \u003ccolor=#FFFFFFFF\u003eDandelion Field\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Heals all your characters for 2 HP, summons 1 \u003ccolor=#FFFFFFFF\u003eDandelion Field\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "4",
-            "cost_icon": "17"
+            "num": "4",
+            "icon": "17"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1450,19 +1432,18 @@
   {
     "id": 1601,
     "name": "Ningguang",
-    "element_type": "ETRock",
-    "rank_id": 1601,
-    "role_skill_infos": [
+    "element": "geo",
+    "skills": [
       {
-        "skill_text": "Deals 1 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "15"
+            "num": "1",
+            "icon": "15"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1474,15 +1455,15 @@
         "id": "16011"
       },
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "15"
+            "num": "3",
+            "icon": "15"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1494,15 +1475,15 @@
         "id": "16012"
       },
       {
-        "skill_text": "Deals 6 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e. If \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e is on the field, deals +2 DMG.",
-        "skill_costs": [
+        "text": "Deals 6 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e. If \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e is on the field, deals +2 DMG.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "15"
+            "num": "3",
+            "icon": "15"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1526,19 +1507,18 @@
   {
     "id": 1602,
     "name": "Noelle",
-    "element_type": "ETRock",
-    "rank_id": 1602,
-    "role_skill_infos": [
+    "element": "geo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "15"
+            "num": "1",
+            "icon": "15"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1550,15 +1530,15 @@
         "id": "16021"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eFull Plate\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eFull Plate\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "15"
+            "num": "3",
+            "icon": "15"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1570,15 +1550,15 @@
         "id": "16022"
       },
       {
-        "skill_text": "Deals 4 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eSweeping Time\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 4 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eSweeping Time\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "4",
-            "cost_icon": "15"
+            "num": "4",
+            "icon": "15"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1602,19 +1582,18 @@
   {
     "id": 1701,
     "name": "Collei",
-    "element_type": "ETGrass",
-    "rank_id": 1701,
-    "role_skill_infos": [
+    "element": "dendro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "16"
+            "num": "1",
+            "icon": "16"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1626,15 +1605,15 @@
         "id": "17011"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "16"
+            "num": "3",
+            "icon": "16"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1646,15 +1625,15 @@
         "id": "17012"
       },
       {
-        "skill_text": "Deals 2 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eCuilein-Anbar\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eCuilein-Anbar\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "16"
+            "num": "3",
+            "icon": "16"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1678,19 +1657,18 @@
   {
     "id": 2201,
     "name": "Rhodeia of Loch",
-    "element_type": "ETWater",
-    "rank_id": 2201,
-    "role_skill_infos": [
+    "element": "hydro",
+    "skills": [
       {
-        "skill_text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "12"
+            "num": "1",
+            "icon": "12"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1702,15 +1680,15 @@
         "id": "22011"
       },
       {
-        "skill_text": "Randomly summons 1 \u003ccolor=#FFFFFFFF\u003eOceanid Mimic\u003c/color\u003e (Prioritizes summoning a different type from preexisting ones).",
-        "skill_costs": [
+        "text": "Randomly summons 1 \u003ccolor=#FFFFFFFF\u003eOceanid Mimic\u003c/color\u003e (Prioritizes summoning a different type from preexisting ones).",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1722,15 +1700,15 @@
         "id": "22012"
       },
       {
-        "skill_text": "Randomly summons 2 \u003ccolor=#FFFFFFFF\u003eOceanid Mimic\u003c/color\u003e (Prioritizes summoning different types).",
-        "skill_costs": [
+        "text": "Randomly summons 2 \u003ccolor=#FFFFFFFF\u003eOceanid Mimic\u003c/color\u003e (Prioritizes summoning different types).",
+        "costs": [
           {
-            "cost_num": "5",
-            "cost_icon": "12"
+            "num": "5",
+            "icon": "12"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1742,15 +1720,15 @@
         "id": "22013"
       },
       {
-        "skill_text": "Deals 2 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e. For each friendly Summon on the field, deals +2 additional DMG.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e. For each friendly Summon on the field, deals +2 additional DMG.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1774,19 +1752,18 @@
   {
     "id": 2202,
     "name": "Mirror Maiden",
-    "element_type": "ETWater",
-    "rank_id": 2202,
-    "role_skill_infos": [
+    "element": "hydro",
+    "skills": [
       {
-        "skill_text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "12"
+            "num": "1",
+            "icon": "12"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1798,15 +1775,15 @@
         "id": "22021"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e. The target character receives \u003ccolor=#FFFFFFFF\u003eRefraction\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e. The target character receives \u003ccolor=#FFFFFFFF\u003eRefraction\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1818,15 +1795,15 @@
         "id": "22022"
       },
       {
-        "skill_text": "Deals 5 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 5 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "12"
+            "num": "3",
+            "icon": "12"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1850,19 +1827,18 @@
   {
     "id": 2301,
     "name": "Fatui Pyro Agent",
-    "element_type": "ETFire",
-    "rank_id": 2301,
-    "role_skill_infos": [
+    "element": "pyro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "13"
+            "num": "1",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1874,15 +1850,15 @@
         "id": "23011"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "13"
+            "num": "3",
+            "icon": "13"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1894,15 +1870,15 @@
         "id": "23012"
       },
       {
-        "skill_text": "Deals 5 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 5 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "13"
+            "num": "3",
+            "icon": "13"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -1914,15 +1890,15 @@
         "id": "23013"
       },
       {
-        "skill_text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1946,19 +1922,18 @@
   {
     "id": 2501,
     "name": "Maguu Kenki",
-    "element_type": "ETWind",
-    "rank_id": 2501,
-    "role_skill_infos": [
+    "element": "anemo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "17"
+            "num": "1",
+            "icon": "17"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -1970,15 +1945,15 @@
         "id": "25011"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eShadowsword: Lone Gale\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eShadowsword: Lone Gale\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "17"
+            "num": "3",
+            "icon": "17"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -1990,15 +1965,15 @@
         "id": "25012"
       },
       {
-        "skill_text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eShadowsword: Galloping Frost\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eShadowsword: Galloping Frost\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "11"
+            "num": "3",
+            "icon": "11"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -2010,15 +1985,15 @@
         "id": "25013"
       },
       {
-        "skill_text": "Deals 4 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, triggers the effect(s) of all your \u003ccolor=#FFFFFFFF\u003eShadowsword\u003c/color\u003e Summon(s). (Does not consume their Usages)",
-        "skill_costs": [
+        "text": "Deals 4 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, triggers the effect(s) of all your \u003ccolor=#FFFFFFFF\u003eShadowsword\u003c/color\u003e Summon(s). (Does not consume their Usages)",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "17"
+            "num": "3",
+            "icon": "17"
           },
           {
-            "cost_num": "3",
-            "cost_icon": "1"
+            "num": "3",
+            "icon": "1"
           }
         ],
         "type": [
@@ -2042,19 +2017,18 @@
   {
     "id": 2601,
     "name": "Stonehide Lawachurl",
-    "element_type": "ETRock",
-    "rank_id": 2601,
-    "role_skill_infos": [
+    "element": "geo",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "15"
+            "num": "1",
+            "icon": "15"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -2066,15 +2040,15 @@
         "id": "26011"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "15"
+            "num": "3",
+            "icon": "15"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -2086,15 +2060,15 @@
         "id": "26012"
       },
       {
-        "skill_text": "Deals 5 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 5 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "15"
+            "num": "3",
+            "icon": "15"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -2106,15 +2080,15 @@
         "id": "26013"
       },
       {
-        "skill_text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eStonehide\u003c/color\u003e and \u003ccolor=#FFFFFFFF\u003eStone Force\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eStonehide\u003c/color\u003e and \u003ccolor=#FFFFFFFF\u003eStone Force\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -2138,19 +2112,18 @@
   {
     "id": 2701,
     "name": "Jadeplume Terrorshroom",
-    "element_type": "ETGrass",
-    "rank_id": 2701,
-    "role_skill_infos": [
+    "element": "dendro",
+    "skills": [
       {
-        "skill_text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "1",
-            "cost_icon": "16"
+            "num": "1",
+            "icon": "16"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "10"
+            "num": "2",
+            "icon": "10"
           }
         ],
         "type": [
@@ -2162,15 +2135,15 @@
         "id": "27011"
       },
       {
-        "skill_text": "Deals 3 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "Deals 3 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "16"
+            "num": "3",
+            "icon": "16"
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -2182,15 +2155,15 @@
         "id": "27012"
       },
       {
-        "skill_text": "Deals 4 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e, then consumes all \u003ccolor=#FFFFFFFF\u003eRadical Vitality\u003c/color\u003e stacks. For each stack consumed, this instance deals +1 DMG.",
-        "skill_costs": [
+        "text": "Deals 4 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e, then consumes all \u003ccolor=#FFFFFFFF\u003eRadical Vitality\u003c/color\u003e stacks. For each stack consumed, this instance deals +1 DMG.",
+        "costs": [
           {
-            "cost_num": "3",
-            "cost_icon": "16"
+            "num": "3",
+            "icon": "16"
           },
           {
-            "cost_num": "2",
-            "cost_icon": "1"
+            "num": "2",
+            "icon": "1"
           }
         ],
         "type": [
@@ -2202,15 +2175,15 @@
         "id": "27013"
       },
       {
-        "skill_text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eRadical Vitality\u003c/color\u003e.",
-        "skill_costs": [
+        "text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eRadical Vitality\u003c/color\u003e.",
+        "costs": [
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           },
           {
-            "cost_num": "",
-            "cost_icon": ""
+            "num": "",
+            "icon": ""
           }
         ],
         "type": [
@@ -2230,16 +2203,15 @@
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bd089cefb123e25131de1932395dde26.png"
-  }
+  },
   {
     "id": 211011,
     "name": "Undivided Heart",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eGanyu\u003c/color\u003e, equip this card.\\nAfter Ganyu equips this card, immediately use \u003ccolor=#FFD780FF\u003eFrostflake Arrow\u003c/color\u003e once.\\nWhen your Ganyu, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrostflake Arrow\u003c/color\u003e: \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e dealt by this Skill +1 if this Skill has been used before during this match, and it now deals 3 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e to all opposing characters on standby instead.\\n(You must have Ganyu in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 211011,
-    "cost_num1": "5",
+    "num1": "5",
     "cost_type1_icon": "11",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2270,10 +2242,9 @@
     "name": "Shaken, Not Purred",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eDiona\u003c/color\u003e, equip this card.\\nAfter Diona equips this card, immediately use \u003ccolor=#FFD780FF\u003eIcy Paws\u003c/color\u003e once.\\nWhen your Diona, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eCat-Claw Shield\u003c/color\u003e, its \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e points +1.\\n(You must have Diona in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 211021,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "11",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2304,10 +2275,9 @@
     "name": "Cold-Blooded Strike",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eKaeya\u003c/color\u003e, equip this card.\\nAfter Kaeya equips this card, immediately use \u003ccolor=#FFD780FF\u003eFrostgnaw\u003c/color\u003e once.\\nAfter your Kaeya, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrostgnaw\u003c/color\u003e, he heals himself for 2 HP. (Once per Round)\\n(You must have Kaeya in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 211031,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "11",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2338,10 +2308,9 @@
     "name": "Steady Breathing",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eChongyun\u003c/color\u003e, equip this card.\\nAfter Chongyun equips this card, immediately use \u003ccolor=#FFD780FF\u003eChonghua's Layered Frost\u003c/color\u003e once.\\nWhen your Chongyun, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eChonghua Frost Field\u003c/color\u003e, it will have the following effects: Starting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, will cause your Sword, Claymore, and Polearm-wielding characters' \u003ccolor=#FFFFFFFF\u003eNormal Attacks\u003c/color\u003e to deal +1 DMG.\\n(You must have Chongyun in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 211041,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "11",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2372,10 +2341,9 @@
     "name": "Kanten Senmyou Blessing",
     "content": "The \u003ccolor=#FFFFFFFF\u003eCryo Elemental Infusion\u003c/color\u003e created by your \u003ccolor=#FFFFFFFF\u003eKamisato Ayaka\u003c/color\u003e, who has this card equipped, allows the character to which it is attached to deal +1 \u003ccolor=#99FFFFFF\u003e\u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e\u003c/color\u003e.\\nWhen you switch to Kamisato Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)\\n(You must have Kamisato Ayaka in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 211051,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "11",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2406,10 +2374,9 @@
     "name": "Glorious Season",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eBarbara\u003c/color\u003e, equip this card.\\nAfter Barbara equips this card, immediately use \u003ccolor=#FFD780FF\u003eLet the Show Begin♪\u003c/color\u003e once.\\nWhen your Barbara, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eMelody Loop\u003c/color\u003e will allow you to spend 1 less Elemental Die the next time you use \"Switch Character.\" (Once per round)\\n(You must have Barbara in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 212011,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "12",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2440,10 +2407,9 @@
     "name": "The Scent Remained",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eXingqiu\u003c/color\u003e, equip this card.\\nAfter Xingqiu equips this card, immediately use \u003ccolor=#FFD780FF\u003eFatal Rainscreen\u003c/color\u003e once.\\nWhen your Xingqiu, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eRain Sword\u003c/color\u003e, its starting \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e +1.\\n(You must have Xingqiu in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 212021,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "12",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2474,10 +2440,9 @@
     "name": "Prophecy of Submersion",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMona\u003c/color\u003e, equip this card.\\nWhen Mona equips this card, immediately use \u003ccolor=#FFD780FF\u003eStellaris Phantasm\u003c/color\u003e once.\\nWhen your Mona, who has this card equipped, is the active character, the \u003ccolor=#80C0FFFF\u003eHydro-Related Reactions\u003c/color\u003e you trigger deal +2 additional DMG.\\n(You must have Mona in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 212031,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "12",
-    "cost_num2": "3",
+    "num2": "3",
     "cost_type2_icon": "1",
     "action_card_tags": [
       {
@@ -2508,10 +2473,9 @@
     "name": "Flowing Flame",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eDiluc\u003c/color\u003e, equip this card.\\nAfter Diluc equips this card, immediately use \u003ccolor=#FFD780FF\u003eSearing Onslaught\u003c/color\u003e once.\\nWhen your Diluc, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eSearing Onslaught\u003c/color\u003e for the second time in one Round, spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e.\\n(You must have Diluc in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 213011,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "13",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2542,10 +2506,9 @@
     "name": "Crossfire",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eXiangling\u003c/color\u003e, equip this card.\\nAfter Xiangling equips this card, immediately use \u003ccolor=#FFD780FF\u003eGuoba Attack\u003c/color\u003e once.\\nWhen your Xiangling, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eGuoba Attack\u003c/color\u003e, she will also deal 1 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Xiangling in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 213021,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "13",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2576,10 +2539,9 @@
     "name": "Grand Expectation",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eBennett\u003c/color\u003e, equip this card.\\nAfter Bennett equips this card, immediately use \u003ccolor=#FFD780FF\u003eFantastic Voyage\u003c/color\u003e once.\\nWhen your Bennett, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eInspiration Field\u003c/color\u003e, its DMG Bonus is now always active and will no longer have an HP restriction.\\n(You must have Bennett in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 213031,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "13",
-    "cost_num2": "2",
+    "num2": "2",
     "cost_type2_icon": "1",
     "action_card_tags": [
       {
@@ -2610,10 +2572,9 @@
     "name": "Naganohara Meteor Swarm",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eYoimiya\u003c/color\u003e, equip this card.\\nAfter Yoimiya equips this card, immediately use \u003ccolor=#FFD780FF\u003eNiwabi Fire-Dance\u003c/color\u003e once.\\nAfter your Yoimiya, who has this card equipped, triggers \u003ccolor=#FFFFFFFF\u003eNiwabi Enshou\u003c/color\u003e: Deal 1 additional \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Yoimiya in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 213051,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "13",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2644,10 +2605,9 @@
     "name": "Stellar Predator",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eFischl\u003c/color\u003e, equip this card.\\nAfter Fischl equips this card, immediately use \u003ccolor=#FFD780FF\u003eNightrider\u003c/color\u003e once.\\nWhen your Fischl, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eOz\u003c/color\u003e, and after Fischl uses a \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e: Deal 2 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e. (Consumes \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e)\\n(You must have Fischl in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 214011,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "14",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2678,10 +2638,9 @@
     "name": "Awakening",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eRazor\u003c/color\u003e, equip this card.\\nAfter Razor equips this card, immediately use \u003ccolor=#FFD780FF\u003eClaw and Thunder\u003c/color\u003e once.\\nAfter your Razor, who has this card equipped, \u003ccolor=#FFFFFFFF\u003euses Claw and Thunder\u003c/color\u003e: 1 of your Electro characters gains 1 Energy. (Active Character prioritized)\\n(You must have Razor in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 214021,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "14",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2712,10 +2671,9 @@
     "name": "Thundering Penance",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eKeqing\u003c/color\u003e, equip this card.\\nAfter Keqing equips this card, immediately use \u003ccolor=#FFD780FF\u003eStellar Restoration\u003c/color\u003e once.\\nWhen your Keqing, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eElectro Elemental Infusion\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e dealt by the attached character +1.\\n(You must have Keqing in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 214031,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "14",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2746,10 +2704,9 @@
     "name": "Featherfall Judgment",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eCyno\u003c/color\u003e, equip this card.\\nAfter Cyno equips this card, immediately use \u003ccolor=#FFD780FF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e once.\\nWhen your Cyno, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e with 3 or 5 levels of \u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e's Indwelling effect, deal +1 additional DMG.\\n(You must have Cyno in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 214041,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "14",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2780,10 +2737,9 @@
     "name": "Chaotic Entropy",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eSucrose\u003c/color\u003e, equip this card.\\nAfter Sucrose equips this card, immediately use \u003ccolor=#FFD780FF\u003eForbidden Creation - Isomer 75 / Type II\u003c/color\u003e once.\\nAfter the \u003ccolor=#FFFFFFFF\u003eLarge Wind Spirit\u003c/color\u003e created by your Sucrose, who had this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.\\n(You must have Sucrose in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 215011,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "17",
-    "cost_num2": "2",
+    "num2": "2",
     "cost_type2_icon": "1",
     "action_card_tags": [
       {
@@ -2814,10 +2770,9 @@
     "name": "Lands of Dandelion",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eJean\u003c/color\u003e, equip this card.\\nAfter Jean equips this card, immediately use \u003ccolor=#FFD780FF\u003eDandelion Breeze\u003c/color\u003e once.\\nWhen your Jean, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eDandelion Field\u003c/color\u003e will cause you to deal +1 \u003ccolor=#80FFD7FF\u003e\u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e\u003c/color\u003e.\\n(You must have Jean in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 215021,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "17",
-    "cost_num2": "3",
+    "num2": "3",
     "cost_type2_icon": "1",
     "action_card_tags": [
       {
@@ -2848,10 +2803,9 @@
     "name": "Strategic Reserve",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eNingguang\u003c/color\u003e, equip this card.\\nAfter Ningguang equips this card, immediately use \u003ccolor=#FFD780FF\u003eJade Screen\u003c/color\u003e once.\\nWhen your Ningguang, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e will cause you to deal +1 \u003ccolor=#FFE699FF\u003e\u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e\u003c/color\u003e.\\n(You must have Ningguang in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 216011,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "15",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2882,10 +2836,9 @@
     "name": "I Got Your Back",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eNoelle\u003c/color\u003e, equip this card.\\nAfter Noelle equips this card, immediately use \u003ccolor=#FFD780FF\u003eBreastplate\u003c/color\u003e once.\\nWhen your Noelle, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eFull Plate\u003c/color\u003e, it will heal all your characters for 1 HP after Noelle uses a \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e. (Once per Round)\\n(You must have Noelle in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 216021,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "15",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2916,10 +2869,9 @@
     "name": "Floral Sidewinder",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eCollei\u003c/color\u003e, equip this card.\\nAfter Collei equips this card, immediately use \u003ccolor=#FFD780FF\u003eFloral Brush\u003c/color\u003e once.\\nAfter your Collei, who has this card equipped, \u003ccolor=#FFFFFFFF\u003euses Floral Brush\u003c/color\u003e, during this Round, when your characters' Skills trigger \u003ccolor=#7EC236FF\u003eDendro-Related Reactions\u003c/color\u003e: Deal 1 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e. (Once per Round)\\n(You must have Collei in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 217011,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "16",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -2950,10 +2902,9 @@
     "name": "Streaming Surge",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eRhodeia of Loch\u003c/color\u003e, equip this card.\\nAfter Rhodeia of Loch equips this card, immediately use \u003ccolor=#FFD780FF\u003eTide and Torrent\u003c/color\u003e once.\\nWhen your Rhodeia of Loch, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eTide and Torrent\u003c/color\u003e, all of your Summon(s) gain +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.\\n(You must have Rhodeia of Loch in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 222011,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "12",
-    "cost_num2": "3",
+    "num2": "3",
     "cost_type2_icon": "1",
     "action_card_tags": [
       {
@@ -2984,10 +2935,9 @@
     "name": "Mirror Cage",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMirror Maiden\u003c/color\u003e, equip this card.\\nAfter Mirror Maiden equips this card, immediately use \u003ccolor=#FFD780FF\u003eInflux Blast\u003c/color\u003e once.\\nWhen your Mirror Maiden, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eRefraction\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, will increase the Elemental Dice Cost of switching from the character to which this is attached to another character by 1.\\n(You must have Mirror Maiden in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 222021,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "12",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3018,10 +2968,9 @@
     "name": "Paid in Full",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eFatui Pyro Agent\u003c/color\u003e, equip this card.\\nAfter Fatui Pyro Agent equips this card, immediately use \u003ccolor=#FFD780FF\u003eProwl\u003c/color\u003e once.\\nWhen your Fatui Pyro Agent, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e +1, the \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e the attached character deals will be converted to \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Fatui Pyro Agent in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 223011,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "13",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3052,10 +3001,9 @@
     "name": "Transcendent Automaton",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMaguu Kenki\u003c/color\u003e, equip this card.\\nAfter Maguu Kenki equips this card, immediately use \u003ccolor=#FFD780FF\u003eBlustering Blade\u003c/color\u003e once.\\nAfter your Maguu Kenki, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eBlustering Blade\u003c/color\u003e, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrosty Assault\u003c/color\u003e.\\n(You must have Maguu Kenki in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 225011,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "17",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3086,10 +3034,9 @@
     "name": "Stonehide Reforged",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eStonehide Lawachurl\u003c/color\u003e, equip this card.\\nAfter Stonehide Lawachurl equips this card, immediately use \u003ccolor=#FFD780FF\u003eUpa Shato\u003c/color\u003e once.\\nWhen your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach \u003ccolor=#FFFFFFFF\u003eStonehide\u003c/color\u003e and \u003ccolor=#FFFFFFFF\u003eStone Force\u003c/color\u003e.\\n(You must have Stonehide Lawachurl in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 226011,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "15",
-    "cost_num2": "2",
+    "num2": "2",
     "cost_type2_icon": "1",
     "action_card_tags": [
       {
@@ -3120,10 +3067,9 @@
     "name": "Proliferating Spores",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eJadeplume Terrorshroom\u003c/color\u003e, equip this card.\\nAfter Jadeplume Terrorshroom equips this card, immediately use \u003ccolor=#FFD780FF\u003eVolatile Spore Cloud\u003c/color\u003e once.\\nYour Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.\\n(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)",
     "action_type": "AcEquip",
-    "rank_id": 227011,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "16",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3154,10 +3100,9 @@
     "name": "Magic Guide",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311101,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3188,10 +3133,9 @@
     "name": "Sacrificial Fragments",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311102,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3222,10 +3166,9 @@
     "name": "Skyward Atlas",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311103,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3256,10 +3199,9 @@
     "name": "Raven Bow",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311201,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3290,10 +3232,9 @@
     "name": "Sacrificial Bow",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311202,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3324,10 +3265,9 @@
     "name": "Skyward Harp",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311203,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3358,10 +3298,9 @@
     "name": "White Iron Greatsword",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311301,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3392,10 +3331,9 @@
     "name": "Sacrificial Greatsword",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311302,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3426,10 +3364,9 @@
     "name": "Wolf's Gravestone",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\nDeal +2 additional DMG if the target's remaining HP is equal to or less than 6.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311303,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3460,10 +3397,9 @@
     "name": "White Tassel",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311401,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3494,10 +3430,9 @@
     "name": "Lithic Spear",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\nWhen played: For each party member from Liyue, grant \u003ccolor=#FFFFFFFF\u003e1 \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e point\u003c/color\u003e to the character to which this is attached. (Max 3 points)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311402,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3528,10 +3463,9 @@
     "name": "Skyward Spine",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311403,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3562,10 +3496,9 @@
     "name": "Traveler's Handy Sword",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311501,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3596,10 +3529,9 @@
     "name": "Sacrificial Sword",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311502,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3630,10 +3562,9 @@
     "name": "Aquila Favonia",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the opposing character uses a Skill:\u003c/color\u003e If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
     "action_type": "AcEquip",
-    "rank_id": 311503,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3664,10 +3595,9 @@
     "name": "Adventurer's Bandana",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses a Normal Attack:\u003c/color\u003e Heal self for 1 HP. (Max 3 times per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312001,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3698,10 +3628,9 @@
     "name": "Lucky Dog's Silver Circlet",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Heal self for 2 HP. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312002,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3732,10 +3661,9 @@
     "name": "Traveling Doctor's Handkerchief",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses an Elemental Burst:\u003c/color\u003e Heal all your characters for 1 HP. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312003,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3766,10 +3694,9 @@
     "name": "Gambler's Earrings",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter an opposing character is defeated:\u003c/color\u003e If the character this card is attached to is the active character, create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312004,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3800,10 +3727,9 @@
     "name": "Instructor's Cap",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character triggers an Elemental Reaction:\u003c/color\u003e Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312005,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3834,10 +3760,9 @@
     "name": "Exile's Circlet",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses an Elemental Burst:\u003c/color\u003e All your characters on standby gain 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312006,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3868,10 +3793,9 @@
     "name": "Broken Rime's Echo",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312101,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3902,10 +3826,9 @@
     "name": "Blizzard Strayer",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#99FFFFFF\u003eCryo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312102,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3936,10 +3859,9 @@
     "name": "Wine-Stained Tricorne",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312201,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -3970,10 +3892,9 @@
     "name": "Heart of Depth",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#80C0FFFF\u003eHydro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312202,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4004,10 +3925,9 @@
     "name": "Witch's Scorching Hat",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312301,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4038,10 +3958,9 @@
     "name": "Crimson Witch of Flames",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FF9999FF\u003ePyro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312302,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4072,10 +3991,9 @@
     "name": "Thunder Summoner's Crown",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312401,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4106,10 +4024,9 @@
     "name": "Thundering Fury",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FFACFFFF\u003eElectro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312402,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4140,10 +4057,9 @@
     "name": "Viridescent Venerer's Diadem",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312501,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4174,10 +4090,9 @@
     "name": "Viridescent Venerer",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#80FFD7FF\u003eAnemo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312502,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4208,10 +4123,9 @@
     "name": "Mask of Solitude Basalt",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312601,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4242,10 +4156,9 @@
     "name": "Archaic Petra",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FFE699FF\u003eGeo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312602,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4276,10 +4189,9 @@
     "name": "Laurel Coronet",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312701,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4310,10 +4222,9 @@
     "name": "Deepwood Memories",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#99FF88FF\u003eDendro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
     "action_type": "AcEquip",
-    "rank_id": 312702,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4344,10 +4255,9 @@
     "name": "Liyue Harbor Wharf",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Draw 2 cards.\\n\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2",
     "action_type": "AcSupport",
-    "rank_id": 321001,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4378,10 +4288,9 @@
     "name": "Knights of Favonius Library",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen played:\u003c/color\u003e Select any Elemental Dice to reroll.\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e Gain another chance to reroll.",
     "action_type": "AcSupport",
-    "rank_id": 321002,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4412,10 +4321,9 @@
     "name": "Jade Chamber",
     "content": "\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.",
     "action_type": "AcSupport",
-    "rank_id": 321003,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4446,10 +4354,9 @@
     "name": "Dawn Winery",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\":\u003c/color\u003e Spend 1 less Elemental Die. (Once per Round)",
     "action_type": "AcSupport",
-    "rank_id": 321004,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4480,10 +4387,9 @@
     "name": "Wangshu Inn",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Heal the most injured character on standby for 2 HP.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
     "action_type": "AcSupport",
-    "rank_id": 321005,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4514,10 +4420,9 @@
     "name": "Favonius Cathedral",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Heal your active character for 2 HP.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
     "action_type": "AcSupport",
-    "rank_id": 321006,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4548,10 +4453,9 @@
     "name": "Paimon",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen Action Phase begins:\u003c/color\u003e Create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
     "action_type": "AcSupport",
-    "rank_id": 322001,
-    "cost_num1": "3",
+    "num1": "3",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4582,10 +4486,9 @@
     "name": "Katheryne",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\":\u003c/color\u003e This switch is considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e. (Once per Round)",
     "action_type": "AcSupport",
-    "rank_id": 322002,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4616,10 +4519,9 @@
     "name": "Timaeus",
     "content": "Comes with 2 Transmutation Materials when played.\\n\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Gain 1 Transmutation Material.\\n\u003ccolor=#FFFFFFFF\u003eWhen playing an Artifact Card:\u003c/color\u003e If possible, spend Transmutation Materials equal to the total cost of the Artifact and equip this Artifact for free. (Once per Round)",
     "action_type": "AcSupport",
-    "rank_id": 322003,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4650,10 +4552,9 @@
     "name": "Wagner",
     "content": "Comes with 2 Forging Billets when played.\\n\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Gain 1 Forging Billet.\\n\u003ccolor=#FFFFFFFF\u003eWhen playing a Weapon Card:\u003c/color\u003e If possible, spend Forging Billets equal to the total cost of the Weapon and equip this Weapon for free. (Once per Round)",
     "action_type": "AcSupport",
-    "rank_id": 322004,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4684,10 +4585,9 @@
     "name": "Chef Mao",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter playing a Food Event Card:\u003c/color\u003e Create 1 random Elemental Die. (Once per Round)",
     "action_type": "AcSupport",
-    "rank_id": 322005,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4718,10 +4618,9 @@
     "name": "Tubby",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen playing a Location Support Card:\u003c/color\u003e Spend 2 less Elemental Dice. (Once per Round)",
     "action_type": "AcSupport",
-    "rank_id": 322006,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4752,10 +4651,9 @@
     "name": "Timmie",
     "content": "\u003ccolor=#FFFFFFFF\u003eTriggers automatically once per Round:\u003c/color\u003e This card gains \u003ccolor=#FFFFFFFF\u003e1 Pigeon\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Pigeons\u003c/color\u003e, discard this card, then draw 1 card and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1.",
     "action_type": "AcSupport",
-    "rank_id": 322007,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4786,10 +4684,9 @@
     "name": "Liben",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Collect your unused Elemental Dice (Max 1 of each Elemental Type).\\n\u003ccolor=#FFFFFFFF\u003eWhen Action Phase begins:\u003c/color\u003e If this card has collected 3 Elemental Dice, draw 2 cards and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2, then discard this card.",
     "action_type": "AcSupport",
-    "rank_id": 322008,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4820,10 +4717,9 @@
     "name": "Chang the Ninth",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen either side uses a Skill:\u003c/color\u003e If \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e or \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e was dealt, or an \u003ccolor=#FFFFFFFF\u003eElemental Reaction\u003c/color\u003e was triggered, this card gains \u003ccolor=#FFFFFFFF\u003e1 Inspiration\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Inspiration\u003c/color\u003e, discard this card, then draw 2 cards.",
     "action_type": "AcSupport",
-    "rank_id": 322009,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4854,10 +4750,9 @@
     "name": "Ellin",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen you use a Skill that has already been used in this Round:\u003c/color\u003e Spend 1 less Elemental Die. (Once per Round)",
     "action_type": "AcSupport",
-    "rank_id": 322010,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4888,10 +4783,9 @@
     "name": "Iron Tongue Tian",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e One of your characters without maximum Energy gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Active Character prioritized)\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
     "action_type": "AcSupport",
-    "rank_id": 322011,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4922,10 +4816,9 @@
     "name": "Liu Su",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter you switch characters:\u003c/color\u003e If the character you switched to does not have \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e, they will gain 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
     "action_type": "AcSupport",
-    "rank_id": 322012,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4956,10 +4849,9 @@
     "name": "Parametric Transformer",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen either side uses a Skill:\u003c/color\u003e If Elemental DMG was dealt, this card gains \u003ccolor=#FFFFFFFF\u003e1 Qualitative Progress\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Qualitative Progress\u003c/color\u003e, discard this card, then create 3 different Basic Elemental Dice.",
     "action_type": "AcSupport",
-    "rank_id": 323001,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -4990,10 +4882,9 @@
     "name": "NRE",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen played:\u003c/color\u003e Draw 1 Food Event Card from your deck.\\n\u003ccolor=#FFFFFFFF\u003eWhen you play a Food Event Card:\u003c/color\u003e Draw 1 Food Event Card from your deck. (Once per Round)",
     "action_type": "AcSupport",
-    "rank_id": 323002,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5024,10 +4915,9 @@
     "name": "Elemental Resonance: Woven Ice",
     "content": "Create 1 \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331101,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5058,10 +4948,9 @@
     "name": "Elemental Resonance: Shattering Ice",
     "content": "During this Round, your current active character will deal +2 DMG for the next instance.\\n(You must have at least 2 \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331102,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "11",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5092,10 +4981,9 @@
     "name": "Elemental Resonance: Woven Waters",
     "content": "Create 1 \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331201,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5126,10 +5014,9 @@
     "name": "Elemental Resonance: Soothing Water",
     "content": "Heal your active character for 2 HP and all your characters on standby for 1 HP.\\n(You must have at least 2 \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331202,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "12",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5160,10 +5047,9 @@
     "name": "Elemental Resonance: Woven Flames",
     "content": "Create 1 \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331301,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5194,10 +5080,9 @@
     "name": "Elemental Resonance: Fervent Flames",
     "content": "During this round, the next instance of \u003ccolor=#FF9999FF\u003ePyro-Related Reactions\u003c/color\u003e your current active character triggers deals +3 DMG.\\n(You must have at least 2 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331302,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "13",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5228,10 +5113,9 @@
     "name": "Elemental Resonance: Woven Thunder",
     "content": "Create 1 \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331401,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5262,10 +5146,9 @@
     "name": "Elemental Resonance: High Voltage",
     "content": "One of your characters without maximum Energy gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Active Character prioritized)\\n(You must have at least 2 \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331402,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "14",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5296,10 +5179,9 @@
     "name": "Elemental Resonance: Woven Winds",
     "content": "Create 1 \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#80FFD7FF\u003eAnemo\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331501,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5330,10 +5212,9 @@
     "name": "Elemental Resonance: Impetuous Winds",
     "content": "Switch to the target character and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1.\\n(You must have at least 2 \u003ccolor=#80FFD7FF\u003eAnemo\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331502,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "17",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5364,10 +5245,9 @@
     "name": "Elemental Resonance: Woven Stone",
     "content": "Create 1 \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331601,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5398,10 +5278,9 @@
     "name": "Elemental Resonance: Enduring Rock",
     "content": "During this round, after your character deals \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e next time: Should there be any Combat Status on your side that provides \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e, grant one such Status with 3 \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e points. \\n(You must have at least 2 \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331602,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "15",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5432,10 +5311,9 @@
     "name": "Elemental Resonance: Woven Weeds",
     "content": "Create 1 \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FF88FF\u003eDendro\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331701,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5466,10 +5344,9 @@
     "name": "Elemental Resonance: Sprawling Greenery",
     "content": "During this round, the next Elemental Reaction your active character triggers deals +2 DMG.\\nYour \u003ccolor=#FFFFFFFF\u003eBurning Flame, Dendro Core, and Catalyzing Field\u003c/color\u003e gain +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FF88FF\u003eDendro\u003c/color\u003e characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 331702,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "16",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5500,10 +5377,9 @@
     "name": "The Bestest Travel Companion!",
     "content": "Convert the Elemental Dice spent to \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.",
     "action_type": "AcEvent",
-    "rank_id": 332001,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5534,10 +5410,9 @@
     "name": "Changing Shifts",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you perform \"Switch Character\":\u003c/color\u003e Spend 1 less Elemental Die.",
     "action_type": "AcEvent",
-    "rank_id": 332002,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5568,10 +5443,9 @@
     "name": "Toss-Up",
     "content": "Select any Elemental Die to \u003ccolor=#FFFFFFFF\u003ereroll\u003c/color\u003e. Can reroll 2 times.",
     "action_type": "AcEvent",
-    "rank_id": 332003,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5602,10 +5476,9 @@
     "name": "Strategize",
     "content": "Draw 2 cards.",
     "action_type": "AcEvent",
-    "rank_id": 332004,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5636,10 +5509,9 @@
     "name": "I Haven't Lost Yet!",
     "content": "Only playable if one of your characters is defeated this Round:\\nCreate \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1 and your current active character gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e.",
     "action_type": "AcEvent",
-    "rank_id": 332005,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5670,10 +5542,9 @@
     "name": "Leave It to Me!",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you perform \"Switch Character\":\u003c/color\u003e This switch will be considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e.",
     "action_type": "AcEvent",
-    "rank_id": 332006,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5704,10 +5575,9 @@
     "name": "When the Crane Returned",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you use a Skill:\u003c/color\u003e Switch your next character in to be the active character.",
     "action_type": "AcEvent",
-    "rank_id": 332007,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5738,10 +5608,9 @@
     "name": "Starsigns",
     "content": "Your current Active Character \u003ccolor=#FFFFFFFF\u003egains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e\u003c/color\u003e.",
     "action_type": "AcEvent",
-    "rank_id": 332008,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5772,10 +5641,9 @@
     "name": "Calx's Arts",
     "content": "Shift 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e from at most 2 of your characters on standby to your active character.",
     "action_type": "AcEvent",
-    "rank_id": 332009,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5806,10 +5674,9 @@
     "name": "Master of Weaponry",
     "content": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type.",
     "action_type": "AcEvent",
-    "rank_id": 332010,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5840,10 +5707,9 @@
     "name": "Blessing of the Divine Relic's Installation",
     "content": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters.",
     "action_type": "AcEvent",
-    "rank_id": 332011,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5874,10 +5740,9 @@
     "name": "Quick Knit",
     "content": "Choose one Summon on your side and grant it +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.",
     "action_type": "AcEvent",
-    "rank_id": 332012,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5908,10 +5773,9 @@
     "name": "Send Off",
     "content": "Choose one Summon on the opposing side and destroy it.",
     "action_type": "AcEvent",
-    "rank_id": 332013,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5942,10 +5806,9 @@
     "name": "Guardian's Oath",
     "content": "Destroy all Summons. (Affects both you and your opponent!)",
     "action_type": "AcEvent",
-    "rank_id": 332014,
-    "cost_num1": "4",
+    "num1": "4",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -5976,10 +5839,9 @@
     "name": "Abyssal Summons",
     "content": "Summon 1 \u003ccolor=#FFFFFFFF\u003eRandom Hilichurl Summon\u003c/color\u003e!\\n(You must have at least 2 Monster characters in your deck to add this card to your deck.)",
     "action_type": "AcEvent",
-    "rank_id": 332015,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -6010,10 +5872,9 @@
     "name": "Jueyun Guoba",
     "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e deals +1 DMG.\\n(A character can consume at most 1 Food per Round)",
     "action_type": "AcEvent",
-    "rank_id": 333001,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -6044,10 +5905,9 @@
     "name": "Adeptus' Temptation",
     "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eElemental Burst\u003c/color\u003e deals +3 DMG.\\n(A character can consume at most 1 Food per Round)",
     "action_type": "AcEvent",
-    "rank_id": 333002,
-    "cost_num1": "2",
+    "num1": "2",
     "cost_type1_icon": "10",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -6078,10 +5938,9 @@
     "name": "Lotus Flower Crisp",
     "content": "During this Round, the target character takes -3 DMG the next time.\\n(A character can consume at most 1 Food per Round)",
     "action_type": "AcEvent",
-    "rank_id": 333003,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -6112,10 +5971,9 @@
     "name": "Northern Smoked Chicken",
     "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e costs 1 less \u003ccolor=#FFFFFFFF\u003eUnaligned Element\u003c/color\u003e.\\n(A character can consume at most 1 Food per Round)",
     "action_type": "AcEvent",
-    "rank_id": 333004,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -6146,10 +6004,9 @@
     "name": "Sweet Madame",
     "content": "Heal the target character for 1 HP.\\n(A character can consume at most 1 Food per Round)",
     "action_type": "AcEvent",
-    "rank_id": 333005,
-    "cost_num1": "",
+    "num1": "",
     "cost_type1_icon": "",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -6180,10 +6037,9 @@
     "name": "Mondstadt Hash Brown",
     "content": "Heal the target character for 2 HP.\\n(A character can consume at most 1 Food per Round)",
     "action_type": "AcEvent",
-    "rank_id": 333006,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -6214,10 +6070,9 @@
     "name": "Mushroom Pizza",
     "content": "Heal the target character for 1 HP. For the next two Rounds, heal this character for 1 HP again at the End Phase.\\n(A character can consume at most 1 Food per Round)",
     "action_type": "AcEvent",
-    "rank_id": 333007,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
@@ -6248,10 +6103,9 @@
     "name": "Minty Meat Rolls",
     "content": "Before this Round ends, the target character's \u003ccolor=#FFFFFFFF\u003eNormal Attacks\u003c/color\u003e cost 1 less \u003ccolor=#FFFFFFFF\u003eUnaligned Element\u003c/color\u003e.\\n(A character can consume at most 1 Food per Round)",
     "action_type": "AcEvent",
-    "rank_id": 333008,
-    "cost_num1": "1",
+    "num1": "1",
     "cost_type1_icon": "3",
-    "cost_num2": "",
+    "num2": "",
     "cost_type2_icon": "",
     "action_card_tags": [
       {
