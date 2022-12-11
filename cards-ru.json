@@ -3,7 +3,8 @@
     "id": 1101,
     "name": "Гань Юй",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -17,8 +18,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Небесная стрела",
@@ -30,15 +30,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/80d61bdb70eef0d57ca877bb39dbb0d9.png",
         "name": "След цилиня",
@@ -50,15 +45,10 @@
           {
             "num": "5",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Ледяная стрела-цветок",
@@ -77,8 +67,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/fcda5c89f7d783e8bff69719c0d30692.png",
         "name": "Небесный дождь",
@@ -87,9 +76,7 @@
     ],
     "weapon": "Стрелковое",
     "belong_to": [
-      "Ли Юэ",
-      "",
-      ""
+      "Ли Юэ"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/dec5ba575fc5720ec15b8964a826f2b5.png"
@@ -98,7 +85,8 @@
     "id": 1102,
     "name": "Диона",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -112,8 +100,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Стиль котёнка",
@@ -125,15 +112,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/90c513d6b26cc20a6ce30fb82750f2e7.png",
         "name": "Морозные коготочки",
@@ -152,8 +134,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6ab5e0c2e95117950515b23a875006c0.png",
         "name": "Авторский коктейль",
@@ -162,9 +143,7 @@
     ],
     "weapon": "Стрелковое",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7c8b166b3254b11d33a5bc1b78fb3034.png"
@@ -173,7 +152,8 @@
     "id": 1103,
     "name": "Кэйа",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -187,8 +167,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Ритуальное фехтование",
@@ -200,15 +179,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/de0abe0fb5f2904c8695d4207f472cdb.png",
         "name": "Выпад холода",
@@ -227,8 +201,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f9e5cb46ba3bf6d4ec2f9e4455dc6238.png",
         "name": "Ледниковый вальс",
@@ -237,9 +210,7 @@
     ],
     "weapon": "Одноручное",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/877beb9d2fa9201737f43b12b68a7c41.png"
@@ -248,7 +219,8 @@
     "id": 1104,
     "name": "Чун Юнь",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -262,8 +234,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1f2774a0570701e52f573952cd3436ce.png",
         "name": "Искоренение зла",
@@ -275,15 +246,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e023be3e82b38b50202ecf4d4fb0fa81.png",
         "name": "Холод Чунхуа",
@@ -302,8 +268,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/153a77400dc95c9b51733d0d0d9a4ac0.png",
         "name": "Падение с небес",
@@ -312,9 +277,7 @@
     ],
     "weapon": "Двуручное",
     "belong_to": [
-      "Ли Юэ",
-      "",
-      ""
+      "Ли Юэ"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5e61c140b9a2e5bed18c09c8d1115150.png"
@@ -323,7 +286,8 @@
     "id": 1105,
     "name": "Камисато Аяка",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -337,8 +301,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Искусство Камисато: Нанамэ",
@@ -350,15 +313,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7b59308313512c3c7350eb6a92b3ea27.png",
         "name": "Искусство Камисато: Хёка",
@@ -377,8 +335,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3668bb20f0b7fb4cfb1fb4162d6fa28f.png",
         "name": "Искусство Камисато: Сомэцу",
@@ -390,15 +347,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Пассивный навык",
-          ""
+          "Пассивный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/959584488f20484942c1403df073f954.png",
         "name": "Искусство Камисато: Сэнхо",
@@ -407,9 +359,7 @@
     ],
     "weapon": "Одноручное",
     "belong_to": [
-      "Инадзума",
-      "",
-      ""
+      "Инадзума"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3c864f3a914d0de0a416e25f0234fe89.png"
@@ -418,7 +368,8 @@
     "id": 1201,
     "name": "Барбара",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#80C0FFFF\u003eГидро урон\u003c/color\u003e, 1 ед.",
         "costs": [
@@ -432,8 +383,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Шёпот воды",
@@ -445,15 +395,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/63c2345902423b25788f104985348cfd.png",
         "name": "Да начнётся шоу♪",
@@ -472,8 +417,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/8da9eff0a67380b83cb6c3360e509695.png",
         "name": "Чудесное сияние♪",
@@ -482,9 +426,7 @@
     ],
     "weapon": "Катализатор",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9e4098dbdaac941957fb3af0e34bac6e.png"
@@ -493,7 +435,8 @@
     "id": 1202,
     "name": "Син Цю",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -507,8 +450,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Стиль Гухуа",
@@ -520,15 +462,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5578cdac2dd8187149544e0898ddf1fd.png",
         "name": "Завеса дождя",
@@ -547,8 +484,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/41d0bb68b4558ff4583b48268b5ecb1b.png",
         "name": "Радужная стойка",
@@ -557,9 +493,7 @@
     ],
     "weapon": "Одноручное",
     "belong_to": [
-      "Ли Юэ",
-      "",
-      ""
+      "Ли Юэ"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4fed2d8054aa757b8081d5cfc8dbc5e5.png"
@@ -568,7 +502,8 @@
     "id": 1203,
     "name": "Мона",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#80C0FFFF\u003eГидро урон\u003c/color\u003e, 1 ед.",
         "costs": [
@@ -582,8 +517,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Круги на воде",
@@ -595,15 +529,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/c821ff150eb08b2512e3bfa39c19b20d.png",
         "name": "Отражение фатума",
@@ -622,8 +551,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bd9c6c5db4f7cfd3ce555aaa00a4a1dd.png",
         "name": "Звёздный фантазм",
@@ -635,15 +563,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Пассивный навык",
-          ""
+          "Пассивный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6c924aed33d3b0cbdcd6b280c2b52631.png",
         "name": "Иллюзорный поток",
@@ -652,9 +575,7 @@
     ],
     "weapon": "Катализатор",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e6031f667a1da4f83bc75ab5a5e868a0.png"
@@ -663,7 +584,8 @@
     "id": 1301,
     "name": "Дилюк",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -677,8 +599,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1f2774a0570701e52f573952cd3436ce.png",
         "name": "Закалённый меч",
@@ -690,15 +611,10 @@
           {
             "num": "3",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/31863c524d54277f038d60c77c8a85ef.png",
         "name": "Огненный натиск",
@@ -717,8 +633,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/441499b2202e58aa6df0ebbd21bb4f67.png",
         "name": "Рассвет",
@@ -727,9 +642,7 @@
     ],
     "weapon": "Двуручное",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/c00f19ba52c4497b81f1654c705240b8.png"
@@ -738,7 +651,8 @@
     "id": 1302,
     "name": "Сян Лин",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -752,8 +666,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/eff1794fed54da5f9132873f84b6f41c.png",
         "name": "Кунг-Тесто",
@@ -765,15 +678,10 @@
           {
             "num": "3",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5a6d6002064487f449b61a96300a79b8.png",
         "name": "Атака Гобы",
@@ -792,8 +700,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4a5ced0f3db7bd4a0553f837544ecb99.png",
         "name": "Огневихрь",
@@ -802,9 +709,7 @@
     ],
     "weapon": "Древковое",
     "belong_to": [
-      "Ли Юэ",
-      "",
-      ""
+      "Ли Юэ"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f6f310d5276e6d7656eb5b42913ec8b0.png"
@@ -813,7 +718,8 @@
     "id": 1303,
     "name": "Беннет",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -827,8 +733,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Счастливый меч",
@@ -840,15 +745,10 @@
           {
             "num": "3",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3b102a63444d271b250d9b199568bd79.png",
         "name": "Чрезмерные стремления",
@@ -867,8 +767,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a0063dea821a2e70e3ad6d8731e65c44.png",
         "name": "Волнительное приключение",
@@ -877,9 +776,7 @@
     ],
     "weapon": "Одноручное",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6d539b8c4ec001cf0e651bf2af3b828d.png"
@@ -888,7 +785,8 @@
     "id": 1305,
     "name": "Ёимия",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -902,8 +800,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Вспышка фейерверка",
@@ -915,15 +812,10 @@
           {
             "num": "1",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bd53cae9bde22c0efae9e696adf58b3b.png",
         "name": "Огненный танец Ниваби",
@@ -942,8 +834,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a7ce012f5ae1e409862e6b98c3367391.png",
         "name": "Камнеломка Рюкин",
@@ -952,9 +843,7 @@
     ],
     "weapon": "Стрелковое",
     "belong_to": [
-      "Инадзума",
-      "",
-      ""
+      "Инадзума"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/55c408c3b086c396d35a734e0ac61691.png"
@@ -963,7 +852,8 @@
     "id": 1401,
     "name": "Фишль",
     "element": "electro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -977,8 +867,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Стрела возмездия",
@@ -990,15 +879,10 @@
           {
             "num": "3",
             "icon": "14"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4b4b654a14e8ca726e105af1666f4fc4.png",
         "name": "Тень расправленных крыльев",
@@ -1017,8 +901,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51f354b2f813bfc1de68460be40d435.png",
         "name": "Ночная иллюзия",
@@ -1027,9 +910,7 @@
     ],
     "weapon": "Стрелковое",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/b9dbb5a2cf9c0ceb63443f7409d19fe7.png"
@@ -1038,7 +919,8 @@
     "id": 1402,
     "name": "Рэйзор",
     "element": "electro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -1052,8 +934,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1f2774a0570701e52f573952cd3436ce.png",
         "name": "Стальной клык",
@@ -1065,15 +946,10 @@
           {
             "num": "3",
             "icon": "14"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/efb029187262b0892b0a85a7be3c81c6.png",
         "name": "Гром и когти",
@@ -1092,8 +968,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/43720b9540661d37f397adddc08f984d.png",
         "name": "Громовой клык",
@@ -1102,9 +977,7 @@
     ],
     "weapon": "Двуручное",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/00e87c7e7518713e3bc65c12068c598a.png"
@@ -1113,7 +986,8 @@
     "id": 1403,
     "name": "Кэ Цин",
     "element": "electro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -1127,8 +1001,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Грозовое фехтование",
@@ -1140,15 +1013,10 @@
           {
             "num": "3",
             "icon": "14"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/eb94518489d930ab5fa02434b64b206e.png",
         "name": "Возвращение звезды",
@@ -1167,8 +1035,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4caa9b938cb1e72fa2cf4dca79b51fb8.png",
         "name": "Меч небесного тракта",
@@ -1177,9 +1044,7 @@
     ],
     "weapon": "Одноручное",
     "belong_to": [
-      "Ли Юэ",
-      "",
-      ""
+      "Ли Юэ"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f6f3d3d3b183e676f9912dfec572b237.png"
@@ -1188,7 +1053,8 @@
     "id": 1404,
     "name": "Сайно",
     "element": "electro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -1202,8 +1068,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/eff1794fed54da5f9132873f84b6f41c.png",
         "name": "Копьё призывателя",
@@ -1215,15 +1080,10 @@
           {
             "num": "3",
             "icon": "14"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/70d35fde5a93ea9706b5c82e223ed57c.png",
         "name": "Тайный обряд: Переправляющий души",
@@ -1242,8 +1102,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/df77d411c3039ab4c7455f62aa0fe43c.png",
         "name": "Священный обряд: Проворство шакала",
@@ -1255,15 +1114,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Пассивный навык",
-          ""
+          "Пассивный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3fee355d6f0090f9079b6a8bd15dd839.png",
         "name": "Исполнение наказания",
@@ -1272,9 +1126,7 @@
     ],
     "weapon": "Древковое",
     "belong_to": [
-      "Сумеру",
-      "",
-      ""
+      "Сумеру"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1c0359bdc24635a0808ca2046f00793f.png"
@@ -1283,7 +1135,8 @@
     "id": 1501,
     "name": "Сахароза",
     "element": "anemo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#80FFD7FF\u003eАнемо урон\u003c/color\u003e, 1 ед.",
         "costs": [
@@ -1297,8 +1150,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Базовая эссенция ветра",
@@ -1310,15 +1162,10 @@
           {
             "num": "3",
             "icon": "17"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6c091fa8a5b6e71ad8b876dd1e45e407.png",
         "name": "Эксперимент №6308",
@@ -1337,8 +1184,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/38cc0d7de9627cf89d3f19c326d2e890.png",
         "name": "Запретно! Изомер 75 / Тип II",
@@ -1347,9 +1193,7 @@
     ],
     "weapon": "Катализатор",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0bef56ba7c462ad8c593096ba6e3af81.png"
@@ -1358,7 +1202,8 @@
     "id": 1502,
     "name": "Джинн",
     "element": "anemo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -1372,8 +1217,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Фехтовальный стиль Фавония",
@@ -1385,15 +1229,10 @@
           {
             "num": "3",
             "icon": "17"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/906be849304f62b87b34122e050333b8.png",
         "name": "Клинок ветра",
@@ -1412,8 +1251,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/dfc823559c0cfa4f6febda9d9ea32d60.png",
         "name": "Одуванчиковый бриз",
@@ -1422,9 +1260,7 @@
     ],
     "weapon": "Одноручное",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1a51029f206394310232b449839464be.png"
@@ -1433,7 +1269,8 @@
     "id": 1601,
     "name": "Нин Гуан",
     "element": "geo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFE699FF\u003eГео урон\u003c/color\u003e, 1 ед.",
         "costs": [
@@ -1447,8 +1284,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Сверкающий дождь",
@@ -1460,15 +1296,10 @@
           {
             "num": "3",
             "icon": "15"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/2bd0da27a460a5cd1b552c13180ecb5e.png",
         "name": "Нефритовая ширма",
@@ -1487,8 +1318,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e7fcd17292e0f2c5c3aa10434f454f0a.png",
         "name": "Осколки звёзд",
@@ -1497,9 +1327,7 @@
     ],
     "weapon": "Катализатор",
     "belong_to": [
-      "Ли Юэ",
-      "",
-      ""
+      "Ли Юэ"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/be2f95433c64c62c9788b081f8115ec5.png"
@@ -1508,7 +1336,8 @@
     "id": 1602,
     "name": "Ноэлль",
     "element": "geo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -1522,8 +1351,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1f2774a0570701e52f573952cd3436ce.png",
         "name": "Фехтовальный стиль Фавония: Горничная",
@@ -1535,15 +1363,10 @@
           {
             "num": "3",
             "icon": "15"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/46096c958f0cce3073cac75e540eec9d.png",
         "name": "Бронефартук",
@@ -1562,8 +1385,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/2a78695dc2147234a2bb70c6fa13543c.png",
         "name": "Генеральная уборка",
@@ -1572,9 +1394,7 @@
     ],
     "weapon": "Двуручное",
     "belong_to": [
-      "Мондштадт",
-      "",
-      ""
+      "Мондштадт"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5f52fdb0a80066e8ba65578962fc305e.png"
@@ -1583,7 +1403,8 @@
     "id": 1701,
     "name": "Коллеи",
     "element": "dendro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -1597,8 +1418,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Лук молельщицы",
@@ -1610,15 +1430,10 @@
           {
             "num": "3",
             "icon": "16"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/31c6bae6d30b2389e9717f5aa00bb617.png",
         "name": "Сметающие цветы",
@@ -1637,8 +1452,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/aeb8db26f8f3fe637353801bdf1407c7.png",
         "name": "Кошачье сокровище",
@@ -1647,9 +1461,7 @@
     ],
     "weapon": "Стрелковое",
     "belong_to": [
-      "Сумеру",
-      "",
-      ""
+      "Сумеру"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/efddc4c03c5f0997fbe5ef31ac70a505.png"
@@ -1658,7 +1470,8 @@
     "id": 2201,
     "name": "Родия",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#80C0FFFF\u003eГидро урон\u003c/color\u003e, 1 ед.",
         "costs": [
@@ -1672,8 +1485,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Прилив",
@@ -1685,15 +1497,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f25ce524e9fb01340a45dcf85c72b6f2.png",
         "name": "Иллюзорный океанид",
@@ -1705,15 +1512,10 @@
           {
             "num": "5",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/62bc1e938e36a78b18a85f7b2f7ed3b0.png",
         "name": "Лесное многообразие",
@@ -1732,8 +1534,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0f148384285f60cf949d5d9b34f8fa92.png",
         "name": "Приливы и течения",
@@ -1742,9 +1543,7 @@
     ],
     "weapon": "Прочее",
     "belong_to": [
-      "Монстр",
-      "",
-      ""
+      "Монстр"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/90422150d3267bdf9ec9a6535a7b001f.png"
@@ -1753,7 +1552,8 @@
     "id": 2202,
     "name": "Зеркальная дева Фатуи",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#80C0FFFF\u003eГидро урон\u003c/color\u003e, 1 ед.",
         "costs": [
@@ -1767,8 +1567,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Водяной снаряд",
@@ -1780,15 +1579,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/02e8a759adb9dd6f7862f18a638cefcb.png",
         "name": "Водяной хлопок",
@@ -1807,8 +1601,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e968bcf122be55187bd11a6bc3ce8c7f.png",
         "name": "Сверкающее преломление",
@@ -1817,9 +1610,7 @@
     ],
     "weapon": "Прочее",
     "belong_to": [
-      "Фатуи",
-      "",
-      ""
+      "Фатуи"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9ffdee8d345bec9dca1946902df5969a.png"
@@ -1828,7 +1619,8 @@
     "id": 2301,
     "name": "Фатуи: Пиро агент",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -1842,8 +1634,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f667af23ed9c0f26bd5b1cf676dae52c.png",
         "name": "Укол",
@@ -1855,15 +1646,10 @@
           {
             "num": "3",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4b3d7470c2443c3438fcc7e86ff69dcc.png",
         "name": "Подходящий момент",
@@ -1882,8 +1668,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f58850c0fa15b11271c164ae7e249785.png",
         "name": "Испепеляющий кинжал",
@@ -1895,15 +1680,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Пассивный навык",
-          ""
+          "Пассивный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/52db57120e52fb2584a696c34b38aac9.png",
         "name": "Мастер скрытности",
@@ -1912,9 +1692,7 @@
     ],
     "weapon": "Прочее",
     "belong_to": [
-      "Фатуи",
-      "",
-      ""
+      "Фатуи"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/95bd6d63973f827cf93db1ca11886b44.png"
@@ -1923,7 +1701,8 @@
     "id": 2501,
     "name": "Магу кэнки",
     "element": "anemo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -1937,8 +1716,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f667af23ed9c0f26bd5b1cf676dae52c.png",
         "name": "Итимондзи",
@@ -1950,15 +1728,10 @@
           {
             "num": "3",
             "icon": "17"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/697861409887f41bf4b5c90f2f3815ff.png",
         "name": "Одинокий шторм",
@@ -1970,15 +1743,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/95c0d647c78c6058bfbd352a44fd4911.png",
         "name": "Морозная тень",
@@ -1997,8 +1765,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/51a851b66792a160e211ff84020d3610.png",
         "name": "Ложный тэнгу",
@@ -2007,9 +1774,7 @@
     ],
     "weapon": "Прочее",
     "belong_to": [
-      "Монстр",
-      "",
-      ""
+      "Монстр"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/efad8cd6d5bd6907341115e050f69b86.png"
@@ -2018,7 +1783,8 @@
     "id": 2601,
     "name": "Лавачурл с каменным панцирем",
     "element": "geo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -2032,8 +1798,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f667af23ed9c0f26bd5b1cf676dae52c.png",
         "name": "Plama Lawa",
@@ -2045,15 +1810,10 @@
           {
             "num": "3",
             "icon": "15"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/dba642d3d9f4dc42820168db15b95de2.png",
         "name": "Movo Lawa",
@@ -2072,8 +1832,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/418ae77cc4622a67d6286b4be44ff910.png",
         "name": "Upa Shato",
@@ -2085,15 +1844,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Пассивный навык",
-          ""
+          "Пассивный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/058b86d139526b2518ce20e3badbb4ef.png",
         "name": "Каменная кожа",
@@ -2103,8 +1857,7 @@
     "weapon": "Прочее",
     "belong_to": [
       "Монстр",
-      "Хиличурл",
-      ""
+      "Хиличурл"
     ],
     "hp": "8",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/721a409699b498d66b64bdc212a21c74.png"
@@ -2113,7 +1866,8 @@
     "id": 2701,
     "name": "Пернатый плесенник",
     "element": "dendro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Наносит \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, 2 ед.",
         "costs": [
@@ -2127,8 +1881,7 @@
           }
         ],
         "type": [
-          "Обычная атака",
-          ""
+          "Обычная атака"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f667af23ed9c0f26bd5b1cf676dae52c.png",
         "name": "Танец плесенников",
@@ -2140,15 +1893,10 @@
           {
             "num": "3",
             "icon": "16"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Элементальный навык",
-          ""
+          "Элементальный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/121e09032218105e54a51cbd1c2ce731.png",
         "name": "Облако нестабильных спор",
@@ -2167,8 +1915,7 @@
           }
         ],
         "type": [
-          "Взрыв стихии",
-          ""
+          "Взрыв стихии"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f7843567c0056ab7fe1132d9875d2c26.png",
         "name": "Величественное оперение",
@@ -2180,15 +1927,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Пассивный навык",
-          ""
+          "Пассивный навык"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/fc3e95c05191996151a572a15b3a99fb.png",
         "name": "Сила оживления",
@@ -2197,9 +1939,7 @@
     ],
     "weapon": "Прочее",
     "belong_to": [
-      "Монстр",
-      "",
-      ""
+      "Монстр"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bd089cefb123e25131de1932395dde26.png"
@@ -2208,12 +1948,12 @@
     "id": 211011,
     "name": "Неразделённое сердце",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eГань Юй\u003c/color\u003e.\\nКогда Гань Юй экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eЛедяная стрела-цветок\u003c/color\u003e (1 раз).\\nКогда Гань Юй с этой картой использует \u003ccolor=#FFFFFFFF\u003eЛедяная стрела-цветок\u003c/color\u003e: если навык уже использовался в этой дуэли, Крио урон +1, а неактивные персонажи противника будут получать \u003ccolor=#FFFFFFFF\u003eПроникающий урон\u003c/color\u003e, 3 ед.\\nУ вас в колоде должна быть карта Гань Юй, чтобы добавить эту карту в колоду.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "5",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2221,18 +1961,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/47c8e7895ae24c822873f185b6b30384.png"
@@ -2241,12 +1969,12 @@
     "id": 211021,
     "name": "Взболтать, но не мурлыкать",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eДиона\u003c/color\u003e.\\nКогда Диона экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eМорозные коготочки\u003c/color\u003e (1 раз).\\nКогда Диона с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eЩит кошачьих коготочков\u003c/color\u003e, начальное \u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e увеличивается на 1 ед.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Диона.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2254,18 +1982,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e1416b5c54b9b65004dc783c8757522f.png"
@@ -2274,12 +1990,12 @@
     "id": 211031,
     "name": "Клинок холодной крови",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eКэйа\u003c/color\u003e.\\nКогда Кэйа экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eВыпад холода\u003c/color\u003e (1 раз).\\nКогда Кэйа с этой картой использует \u003ccolor=#FFFFFFFF\u003eВыпад холода\u003c/color\u003e, восстанавливается 2 HP. Только 1 раз за раунд.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Кэйа.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2287,18 +2003,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e8c4d2e639de2d80c164ef19a9510f15.png"
@@ -2307,12 +2011,12 @@
     "id": 211041,
     "name": "Ровное дыхание",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eЧун Юнь\u003c/color\u003e.\\nКогда Чун Юнь экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eХолод Чунхуа\u003c/color\u003e (1 раз).\\nЧун Юнь с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eОбласть холода Чунхуа\u003c/color\u003e и получит следующие эффекты:\\nНачальная \u003ccolor=#FFFFFFFF\u003eПродолжительность (в раундах)\u003c/color\u003e +1, усиливает \u003ccolor=#FFFFFFFF\u003eобычную атаку\u003c/color\u003e персонажа с Одноручным, Двуручным или Древковым оружием на 1 ед. урона.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Чун Юнь.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2320,18 +2024,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/d2f6adf65b19c503957cdfd5197bf6c7.png"
@@ -2340,31 +2032,15 @@
     "id": 211051,
     "name": "Благословение кантэн сэммё",
     "content": "\u003ccolor=#FFFFFFFF\u003eЭлементальная Крио инфузия\u003c/color\u003e, которую создаёт \u003ccolor=#FFFFFFFF\u003eКамисато Аяка\u003c/color\u003e с этой картой, увеличивает \u003ccolor=#99FFFFFF\u003e\u003ccolor=#99FFFFFF\u003eКрио урон\u003c/color\u003e\u003c/color\u003e на 1 ед. всем персонажам под её воздействием.\\nКогда вы делаете активным Камисато Аяка с этой картой: расходуется на 1 Элементальный дайс меньше (1 раз за раунд).\\nЭту карту можно добавить в колоду, только если в колоде уже есть Камисато Аяка.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4d6cf66cc2bd1fea199439dc424a131f.png"
@@ -2373,12 +2049,12 @@
     "id": 212011,
     "name": "Урожайный сезон",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eБарбара\u003c/color\u003e.\\nКогда Барбара экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eДа начнётся шоу♪\u003c/color\u003e (1 раз).\\nКогда Син Цю с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eКольцо мелодии\u003c/color\u003e, смена персонажа для вас обойдётся на 1 дайс дешевле (1 раз за раунд).\\nЭту карту можно добавить в колоду, только если в колоде уже есть Барбара.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2386,18 +2062,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/c7ae77e556eb0f61f0980b2732c45c06.png"
@@ -2406,12 +2070,12 @@
     "id": 212021,
     "name": "Запах утреннего дождя",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eСин Цю\u003c/color\u003e.\\nКогда Син Цю экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eЗавеса дождя\u003c/color\u003e (1 раз).\\nКогда Син Цю с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eМеч дождя\u003c/color\u003e, начальное \u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e увеличивается на 1 ед.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Син Цю.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2419,18 +2083,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/72dc8e77ccb94c82b0477fe54b2f3f7b.png"
@@ -2439,12 +2091,12 @@
     "id": 212031,
     "name": "Пророчество потопа",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eМона\u003c/color\u003e.\\nКогда Мона экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eЗвёздный фантазм\u003c/color\u003e (1 раз).\\nПока эта карта у активного персонажа Мона, \u003ccolor=#80C0FFFF\u003eГидро реакция\u003c/color\u003e, которую вы можете вызывать, получает +2 ед. урона.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Мона.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "12",
     "num2": "3",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2452,18 +2104,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/954255e33d91711e15f70e2a5fc4d471.png"
@@ -2472,12 +2112,12 @@
     "id": 213011,
     "name": "Палящая комета",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eДилюк\u003c/color\u003e.\\nКогда Дилюк экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eОгненный натиск\u003c/color\u003e (1 раз).\\nКогда Дилюк с этой картой использует \u003ccolor=#FFFFFFFF\u003eОгненный натиск\u003c/color\u003e во второй раз за раунд, расходуется на 1 \u003ccolor=#FF9999FF\u003eПиро дайс\u003c/color\u003e меньше.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Дилюк.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2485,18 +2125,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/b0684cc862916abb8de607a51b30146e.png"
@@ -2505,12 +2133,12 @@
     "id": 213021,
     "name": "Перекрёстный огонь",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eСян Лин\u003c/color\u003e.\\nКогда Сян Лин экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eАтака Гобы\u003c/color\u003e (1 раз).\\nКогда Сян Лин с этой картой использует \u003ccolor=#FFFFFFFF\u003eАтака Гобы\u003c/color\u003e, будет нанесён \u003ccolor=#FF9999FF\u003eПиро урон\u003c/color\u003e, 1 ед.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Сян Лин.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2518,18 +2146,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/d8117eeed0f9d0b6a643edab827a9660.png"
@@ -2538,12 +2154,12 @@
     "id": 213031,
     "name": "Мечты о приключениях",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eБеннет\u003c/color\u003e.\\nКогда Беннет экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eВолнительное приключение\u003c/color\u003e (1 раз).\\nКогда Беннет с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eКруг вдохновения\u003c/color\u003e, бонус урона действует постоянно и не требует определённых значений HP.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Беннет.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "13",
     "num2": "2",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2551,18 +2167,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/38b3de96a59d907de002fc3945eac139.png"
@@ -2571,12 +2175,12 @@
     "id": 213051,
     "name": "Падающие звёзды Наганохары",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eЁимия\u003c/color\u003e.\\nКогда Ёимия экипирует эту карту, сразу используется \u003ccolor=#FFD780FF\u003eОгненный танец Ниваби\u003c/color\u003e (1 раз).\\nКогда Ёимия с этой картой вызовет \u003ccolor=#FFFFFFFF\u003eНиваби энсё\u003c/color\u003e: ещё раз наносит \u003ccolor=#FF9999FF\u003eПиро урон\u003c/color\u003e, 1 ед.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Ёимия.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2584,18 +2188,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/8c94946ce10566dbac8e3b9f8e940bb3.png"
@@ -2604,12 +2196,12 @@
     "id": 214011,
     "name": "Ворон, клюющий звёзды",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eФишль\u003c/color\u003e.\\nКогда Фишль экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eТень расправленных крыльев\u003c/color\u003e (1 раз).\\nФишль с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eОз\u003c/color\u003e, а когда Фишль использует \u003ccolor=#FFFFFFFF\u003eобычную атаку\u003c/color\u003e, наносит \u003ccolor=#FFACFFFF\u003eЭлектро урон\u003c/color\u003e, 2 ед. (расходует \u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e)\\nЭту карту можно добавить в колоду, только если в колоде уже есть Фишль.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2617,18 +2209,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/ab875a421d04f1d478710a0d008d7c4a.png"
@@ -2637,12 +2217,12 @@
     "id": 214021,
     "name": "Пробуждение",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eРэйзор\u003c/color\u003e.\\nКогда Рэйзор экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eГром и когти\u003c/color\u003e (1 раз).\\nКогда Рэйзор с этой картой \u003ccolor=#FFFFFFFF\u003eиспользует Гром и когти\u003c/color\u003e: один из ваших Электро персонажей получит 1 ед. энергии (в первую очередь - активный персонаж).\\nЭту карту можно добавить в колоду, только если в колоде уже есть Рэйзор.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2650,18 +2230,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/2c5bc5400e8a57a1112520f18ad7321b.png"
@@ -2670,12 +2238,12 @@
     "id": 214031,
     "name": "Небесное покаяние",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eКэ Цин\u003c/color\u003e.\\nКогда Кэ Цин экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eВозвращение звезды\u003c/color\u003e (1 раз).\\nКогда Кэ Цин с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eЭлектро инфузия\u003c/color\u003e, получает следующие эффекты:\\nНачальная \u003ccolor=#FFFFFFFF\u003eПродолжительность (в раундах)\u003c/color\u003e +1, а \u003ccolor=#FFACFFFF\u003eЭлектро урон\u003c/color\u003e увеличивается на 1 ед.\\nЧтобы добавить эту карту в колоду, там уже должна быть карта Кэ Цин.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2683,18 +2251,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/52c1de49129738f61d8e0eff7ec47cff.png"
@@ -2703,12 +2259,12 @@
     "id": 214041,
     "name": "Суд пера",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eСайно\u003c/color\u003e.\\nКогда Сайно экипирует эту карту, сразу используется \u003ccolor=#FFD780FF\u003eТайный обряд: Переправляющий души\u003c/color\u003e 1 раз.\\nВаш персонаж Сайно с этой картой может использовать \u003ccolor=#FFFFFFFF\u003eТайный обряд: Переправляющий души\u003c/color\u003e, когда останется 3 или 5 уровней [состояния] Зависимости карты \u003ccolor=#FFFFFFFF\u003eПоклявшийся прокладывать путь\u003c/color\u003e, наносит дополнительно 1 ед. урона.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Сайно.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2716,18 +2272,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9236fbf043df960137c91ab99340e312.png"
@@ -2736,12 +2280,12 @@
     "id": 215011,
     "name": "Энтропия хаоса",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eСахароза\u003c/color\u003e.\\nКогда Сахароза экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eЗапретно! Изомер 75 / Тип II\u003c/color\u003e (1 раз).\\nКогда Сахароза с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eБольшой Воздушный дух\u003c/color\u003e и эта карта уже конвертирована в другой элемент, вы нанесёте на 1 ед. урона этого элемента больше.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Сахароза.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "17",
     "num2": "2",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2749,18 +2293,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a5aac435470025e43269160f96bc7c9e.png"
@@ -2769,12 +2301,12 @@
     "id": 215021,
     "name": "Королевство Одуванчиков",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если активным персонажем является \u003ccolor=#FFFFFFFF\u003eДжинн\u003c/color\u003e.\\nКогда Джинн экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eОдуванчиковый бриз\u003c/color\u003e (1 раз).\\nДжинн с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eПоле одуванчиков\u003c/color\u003e, ваш \u003ccolor=#80FFD7FF\u003e\u003ccolor=#80FFD7FF\u003eАнемо урон\u003c/color\u003e\u003c/color\u003e увеличивается на 1 ед.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Джинн.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "17",
     "num2": "3",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2782,18 +2314,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/ed539a5fe7e48519126c935b0c0140c4.png"
@@ -2802,12 +2322,12 @@
     "id": 216011,
     "name": "Стратегические запасы",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eНин Гуан\u003c/color\u003e.\\nКогда Нин Гуан экипирует эту карту, сразу используется \u003ccolor=#FFD780FF\u003eНефритовая ширма\u003c/color\u003e (1 раз).\\nНин Гуан с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eНефритовая ширма\u003c/color\u003e, ваш \u003ccolor=#FFE699FF\u003e\u003ccolor=#FFE699FF\u003eГео урон\u003c/color\u003e\u003c/color\u003e увеличивается на 1 ед.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Нин Гуан.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "15",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2815,18 +2335,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a5ecda6e325efb344e7e077352cbe834.png"
@@ -2835,12 +2343,12 @@
     "id": 216021,
     "name": "Я прикрою!",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eНоэлль\u003c/color\u003e.\\nКогда Ноэлль экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eБронефартук\u003c/color\u003e (1 раз).\\nНоэлль с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eПолная броня\u003c/color\u003e. Когда Ноэлль использует \u003ccolor=#FFFFFFFF\u003eобычную атаку\u003c/color\u003e, все ваши герои восстановят 1 HP (1 раз за раунд).\\nЭту карту можно добавить в колоду, только если в колоде уже есть Ноэлль.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "15",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2848,18 +2356,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9d7e1c7e174103ef69610f30a4eef269.png"
@@ -2868,12 +2364,12 @@
     "id": 217011,
     "name": "Возвращение цветов",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eКоллеи\u003c/color\u003e.\\nКогда Коллеи экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eСметающие цветы\u003c/color\u003e, 1 раз.\\nКогда Коллеи с этой картой \u003ccolor=#FFFFFFFF\u003eиспользует Сметающие цветы\u003c/color\u003e в этом раунде, и когда навык персонажа вызывает \u003ccolor=#7EC236FF\u003eДендро реакция\u003c/color\u003e: наносит \u003ccolor=#7EC236FF\u003eДендро урон\u003c/color\u003e, 1 ед. (1 раз за раунд).\\nЭту карту можно добавить в колоду, только если в колоде уже есть Коллеи.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "16",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2881,18 +2377,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a388c8bdf22b02b1bb1d2e2fbc94cb2b.png"
@@ -2901,12 +2385,12 @@
     "id": 222011,
     "name": "Взрывной поток",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eРодия\u003c/color\u003e.\\nКогда Родия экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eПриливы и течения\u003c/color\u003e (1 раз).\\nКогда Родия с этой картой использует \u003ccolor=#FFFFFFFF\u003eПриливы и течения\u003c/color\u003e, все ваши помощники получают +1 ед. \u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Родия.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
     "num2": "3",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2914,18 +2398,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/580a01c97ddb6f0a7c13b4979811a076.png"
@@ -2934,12 +2406,12 @@
     "id": 222021,
     "name": "Зеркальная клетка",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eЗеркальная дева Фатуи\u003c/color\u003e.\\nКогда Зеркальная дева Фатуи экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eВодяной хлопок\u003c/color\u003e (1 раз).\\nКогда Зеркальная дева Фатуи с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eМеч дождя\u003c/color\u003e, получит следующие эффекты:\\nНачальная \u003ccolor=#FFFFFFFF\u003eПродолжительность (в раундах)\u003c/color\u003e +1, увеличивает стоимость переключения персонажа с этой картой на 1 Элементальный дайс.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Зеркальная дева Фатуи.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2947,18 +2419,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/70bdb94530bd142767e4e27e555e4eed.png"
@@ -2967,12 +2427,12 @@
     "id": 223011,
     "name": "Расплата",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eФатуи: Пиро агент\u003c/color\u003e.\\nКогда Фатуи: Пиро агент экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eПодходящий момент\u003c/color\u003e (1 раз).\\nКогда ваш персонаж Фатуи: Пиро агент с этой картой создаёт \u003ccolor=#FFFFFFFF\u003eСкрытность\u003c/color\u003e, получит следующие эффекты:\\nНачальное \u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e увеличивается на 1 ед., а \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e этого персонажа превращается в \u003ccolor=#FF9999FF\u003eПиро урон\u003c/color\u003e.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Фатуи: Пиро агент.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -2980,18 +2440,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/79de5814ae7ce1faafd337cc6aacbf07.png"
@@ -3000,12 +2448,12 @@
     "id": 225011,
     "name": "Трансцендентный автоматон",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eМагу кэнки\u003c/color\u003e.\\nКогда Магу кэнки экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eОдинокий шторм\u003c/color\u003e (1 раз).\\nКогда ваш Магу кэнки с этой картой использует \u003ccolor=#FFFFFFFF\u003eОдинокий шторм\u003c/color\u003e, вы переключитесь на следующего персонажа. Вы переключитесь на предыдущего персонажа, когда Магу кэнки с этой картой использует \u003ccolor=#FFFFFFFF\u003eМорозная тень\u003c/color\u003e.\\nЧтобы добавить эту карту, у вас в колоде уже должна быть карта Магу кэнки.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "17",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -3013,18 +2461,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/fa52163556a9b026ab8eb53cb7b9045c.png"
@@ -3033,12 +2469,12 @@
     "id": 226011,
     "name": "Восстановленная камнекожа",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eЛавачурл с каменным панцирем\u003c/color\u003e.\\nКогда Лавачурл с каменным панцирем экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eUpa Shato\u003c/color\u003e (1 раз).\\nКогда Лавачурл с каменным панцирем с этой картой побеждает персонажа противника, Лавачурл с каменным панцирем повторно получает \u003ccolor=#FFFFFFFF\u003eКаменный панцирь\u003c/color\u003e и \u003ccolor=#FFFFFFFF\u003eСила камня\u003c/color\u003e.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Лавачурл с каменным панцирем.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "15",
     "num2": "2",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -3046,18 +2482,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a8101906389983db75c167dac16dec21.png"
@@ -3066,12 +2490,12 @@
     "id": 227011,
     "name": "Живучие споры",
     "content": "\u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e: Эта карта экипируется, если вашим активным персонажем является \u003ccolor=#FFFFFFFF\u003eПернатый плесенник\u003c/color\u003e.\\nКогда Пернатый плесенник экипирует эту карту, сразу же используется \u003ccolor=#FFD780FF\u003eОблако нестабильных спор\u003c/color\u003e (1 раз).\\nПернатый плесенник с этой картой может получить больше одного уровня Силы оживления.\\nЭту карту можно добавить в колоду, только если в колоде уже есть Пернатый плесенник.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "16",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Талант"
@@ -3079,18 +2503,6 @@
       {
         "id": "2",
         "text": "Боевое действие"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7681527ff3e18426f275347b2d4817b2.png"
@@ -3099,12 +2511,12 @@
     "id": 311101,
     "name": "Руководство по магии",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи с катализатором\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3112,18 +2524,6 @@
       {
         "id": "202",
         "text": "Катализатор"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a85e24e19d8d895f5cf51ddab9212c87.png"
@@ -3132,12 +2532,12 @@
     "id": 311102,
     "name": "Церемониальные мемуары",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует элементальный навык:\u003c/color\u003e создаётся один дайс, соответствующий элементу персонажа (1 раз за раунд).\\n\u003ccolor=#FFFFFFFF\u003eТолько персонажи с катализатором\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3145,18 +2545,6 @@
       {
         "id": "202",
         "text": "Катализатор"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/d1c5794631a2e19c1aa985d102f546e5.png"
@@ -3165,12 +2553,12 @@
     "id": 311103,
     "name": "Небесный атлас",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eОдин раз за раунд:\u003c/color\u003e обычная атака персонажа наносит дополнительно 1 ед. урона.\\n\u003ccolor=#FFFFFFFF\u003eТолько персонажи с катализатором\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3178,18 +2566,6 @@
       {
         "id": "202",
         "text": "Катализатор"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6ec96e78504a0fb3292721d480cbed42.png"
@@ -3198,12 +2574,12 @@
     "id": 311201,
     "name": "Лук Ворона",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи со стрелковым оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3211,18 +2587,6 @@
       {
         "id": "204",
         "text": "Стрелковое"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0939061540227e749fdcb03bdd3770cf.png"
@@ -3231,12 +2595,12 @@
     "id": 311202,
     "name": "Церемониальный лук",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует элементальный навык:\u003c/color\u003e создаётся один дайс, соответствующий элементу персонажа (только 1 раз за раунд).\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи со стрелковым оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3244,18 +2608,6 @@
       {
         "id": "204",
         "text": "Стрелковое"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/98a95d057ec93e97e0e90c3a2e9985c3.png"
@@ -3264,12 +2616,12 @@
     "id": 311203,
     "name": "Небесное крыло",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eОдин раз за раунд:\u003c/color\u003e обычная атака персонажа наносит дополнительно 1 ед. урона.\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи со стрелковым оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3277,18 +2629,6 @@
       {
         "id": "204",
         "text": "Стрелковое"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/eb1c1b8d7bb8df363633b272f366b794.png"
@@ -3297,12 +2637,12 @@
     "id": 311301,
     "name": "Меч из белого железа",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи с двуручным оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3310,18 +2650,6 @@
       {
         "id": "203",
         "text": "Двуручное"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bf3c1abdc800510f40f1819ff5365c3c.png"
@@ -3330,12 +2658,12 @@
     "id": 311302,
     "name": "Церемониальный двуручный меч",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует элементальный навык:\u003c/color\u003e создаётся один дайс, соответствующий элементу персонажа (только 1 раз за раунд).\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи с двуручным оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3343,18 +2671,6 @@
       {
         "id": "203",
         "text": "Двуручное"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/8a879e5d756a07a0cde3ba42311f9790.png"
@@ -3363,12 +2679,12 @@
     "id": 311303,
     "name": "Волчья погибель",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\nЕсли у цели 6 HP или меньше, наносит дополнительно 2 ед. урона.\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи с двуручным оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3376,18 +2692,6 @@
       {
         "id": "203",
         "text": "Двуручное"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9fc2fb800874212c3cce32b28ee6de5f.png"
@@ -3396,12 +2700,12 @@
     "id": 311401,
     "name": "Белая кисть",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи с древковым оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3409,18 +2713,6 @@
       {
         "id": "205",
         "text": "Древковое"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6f37ed4fbb3f495f94396f2ba51cc292.png"
@@ -3429,12 +2721,12 @@
     "id": 311402,
     "name": "Каменное копьё",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\nПри розыгрыше: за каждого персонажа из Ли Юэ персонаж с этой картой получает \u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eЩит\u003c/color\u003e, 1 ед.\u003c/color\u003e (но не более ×3).\\n(\u003ccolor=#FFFFFFFF\u003eТолько для персонажей  с Древковым оружием\u003c/color\u003e. Персонаж может экипировать только одну карту оружия).",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3442,18 +2734,6 @@
       {
         "id": "205",
         "text": "Древковое"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a00bc7daebd6a3fbb05981e7c4fde8e7.png"
@@ -3462,12 +2742,12 @@
     "id": 311403,
     "name": "Небесная ось",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eОдин раз за раунд:\u003c/color\u003e нормальная атака персонажа наносит 1 дополнительную единицу урона..\\n(\u003ccolor=#FFFFFFFF\u003eМожет экипировать только персонаж с Древковым оружием\u003c/color\u003e. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3475,18 +2755,6 @@
       {
         "id": "205",
         "text": "Древковое"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/65849e70884e45188e0658abf44caa7f.png"
@@ -3495,12 +2763,12 @@
     "id": 311501,
     "name": "Меч путешественника",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи с одноручным оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3508,18 +2776,6 @@
       {
         "id": "201",
         "text": "Одноручное"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9dbbcddd4d69ae1683ba8b62ae50bb6a.png"
@@ -3528,12 +2784,12 @@
     "id": 311502,
     "name": "Церемониальный меч",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует элементальный навык:\u003c/color\u003e создаётся один дайс, соответствующий элементу персонажа (1 раз за раунд).\\n(\u003ccolor=#FFFFFFFF\u003eТолько персонажи с одноручным оружием\u003c/color\u003e могут экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3541,18 +2797,6 @@
       {
         "id": "201",
         "text": "Одноручное"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bc60d80dfa83f779b01845ec46ad636e.png"
@@ -3561,12 +2805,12 @@
     "id": 311503,
     "name": "Меч Сокола",
     "content": "\u003ccolor=#FFFFFFFF\u003eПерсонаж наносит на 1 ед. урона больше.\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eКогда противник использует навык:\u003c/color\u003e если персонаж с этой картой является активным, восстанавливает 1 HP этого персонажа (до 2 раз за раунд).\\n(\u003ccolor=#FFFFFFFF\u003eтолько персонаж с одноручным оружием\u003c/color\u003e может экипировать эту карту. Персонаж может иметь только 1 оружие)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Оружие"
@@ -3574,18 +2818,6 @@
       {
         "id": "201",
         "text": "Одноручное"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/dbecaf6c9c38016aa04dc1ad090de10a.png"
@@ -3594,31 +2826,15 @@
     "id": 312001,
     "name": "Повязка искателя приключений",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует обычную атаку: \u003c/color\u003e восстанавливает 1 HP (до 3 раз за раунд).\\nПерсонаж может иметь только 1 артефакт.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/537d9c9398945da9a85bc5d3bfd7c00a.png"
@@ -3627,31 +2843,15 @@
     "id": 312002,
     "name": "Серебряная корона везунчика",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует элементальный навык: \u003c/color\u003e восстанавливает 2 HP (1 раз за раунд).\\nПерсонаж может иметь только 1 артефакт.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4ecb7e631b9faa929d538dfdcba97892.png"
@@ -3660,31 +2860,15 @@
     "id": 312003,
     "name": "Платок целителя",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует взрыв стихии: \u003c/color\u003e восстанавливает всем персонажам 1 HP (1 раз за раунд).\\nПерсонаж может иметь только 1 артефакт.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/34da5173304f9d8162cf29792a29c314.png"
@@ -3693,31 +2877,15 @@
     "id": 312004,
     "name": "Серёжки азартного игрока",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж противника побеждён:\u003c/color\u003e если персонаж с этой картой является активным персонажем, создаёт \u003ccolor=#FFFFFFFF\u003eУниверсальный элемент\u003c/color\u003e ×2.\\nПерсонаж может иметь только 1 артефакт.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5375d721bee781f8a1c7189134631bde.png"
@@ -3726,31 +2894,15 @@
     "id": 312005,
     "name": "Кепка инструктора",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж вызывает элементальную реакцию: \u003c/color\u003e создаёт 1 Элементальный дайс соответствующего персонажу элемента (до 3 раз за раунд).\\nПерсонаж может иметь только 1 артефакт.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/db71657f341ea66c63cce583306697e0.png"
@@ -3759,31 +2911,15 @@
     "id": 312006,
     "name": "Корона изгнанника",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует взрыв стихии:\u003c/color\u003e \u003ccolor=#FFFFFFFF\u003eЭнергия\u003c/color\u003e (1 ед.) для всех ваших неактивных персонажей (1 раз за раунд).\\nПерсонаж может экипировать только 1 артефакт.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/07f949af51f955188f7a76868afec4d2.png"
@@ -3792,31 +2928,15 @@
     "id": 312101,
     "name": "Эхо осколков инея",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#99FFFFFF\u003eКрио дайс\u003c/color\u003e меньше (один раз за раунд).\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0a87ecadbc664295b0a6d8887a0245e4.png"
@@ -3825,31 +2945,15 @@
     "id": 312102,
     "name": "Заблудший в метели",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#99FFFFFF\u003eКрио дайс\u003c/color\u003e меньше (1 раз за раунд).\\n\u003ccolor=#FFFFFFFF\u003eФаза броска:\u003c/color\u003e два из брошенных дайсов обязательно будут \u003ccolor=#99FFFFFF\u003eКрио\u003c/color\u003e. Персонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4ac494b7dabb571ba3175c97e133efca.png"
@@ -3858,31 +2962,15 @@
     "id": 312201,
     "name": "Треуголка в пятнах вина",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#80C0FFFF\u003eГидро дайс\u003c/color\u003e меньше (один раз за раунд).\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/d330bf2e825d0611adbd31165a2988a3.png"
@@ -3891,31 +2979,15 @@
     "id": 312202,
     "name": "Сердце глубин",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#80C0FFFF\u003eГидро дайс\u003c/color\u003e меньше (один раз за раунд).\\n\u003ccolor=#FFFFFFFF\u003eФаза броска:\u003c/color\u003e два из брошенных дайсов обязательно будут \u003ccolor=#80C0FFFF\u003eГидро\u003c/color\u003e.\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/94f5da40c8f4dabec67094c9ba33f398.png"
@@ -3924,31 +2996,15 @@
     "id": 312301,
     "name": "Тлеющая ведьмина шляпа",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#FF9999FF\u003eПиро дайс\u003c/color\u003e меньше (один раз за раунд).\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/414e93b5089718722e2c754c328017cb.png"
@@ -3957,31 +3013,15 @@
     "id": 312302,
     "name": "Горящая алая ведьма",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#FF9999FF\u003eПиро дайс\u003c/color\u003e меньше (1 раз за раунд).\\n\u003ccolor=#FFFFFFFF\u003eФаза броска:\u003c/color\u003e два из брошенных дайсов обязательно будут \u003ccolor=#FF9999FF\u003eПиро\u003c/color\u003e.\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/072a95811cce4b7cde82b7125f948153.png"
@@ -3990,31 +3030,15 @@
     "id": 312401,
     "name": "Корона призывателя грома",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#FFACFFFF\u003eЭлектро дайс\u003c/color\u003e меньше (один раз за раунд).\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/aa14c1d68f06aee6e56af6c5561d5c62.png"
@@ -4023,31 +3047,15 @@
     "id": 312402,
     "name": "Громогласный рёв ярости",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#FFACFFFF\u003eЭлектро дайс\u003c/color\u003e меньше (1 раз за раунд).\\n\u003ccolor=#FFFFFFFF\u003eФаза броска:\u003c/color\u003e два из брошенных дайсов обязательно будут \u003ccolor=#FFACFFFF\u003eЭлектро\u003c/color\u003e.\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d0a4bac703c65e7cc7760e251e6bfcb.png"
@@ -4056,31 +3064,15 @@
     "id": 312501,
     "name": "Венок изумрудного охотника",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#80FFD7FF\u003eАнемо дайс\u003c/color\u003e меньше (один раз за раунд).\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/17b36e554ad3b25234313228f7cf0697.png"
@@ -4089,31 +3081,15 @@
     "id": 312502,
     "name": "Изумрудная тень",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#80FFD7FF\u003eАнемо дайс\u003c/color\u003e меньше (один раз за раунд).\\n\u003ccolor=#FFFFFFFF\u003eФаза броска:\u003c/color\u003e два из брошенных дайсов обязательно будут \u003ccolor=#80FFD7FF\u003eАнемо\u003c/color\u003e.\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/74f346d6221d9c06b40677177706dcd8.png"
@@ -4122,31 +3098,15 @@
     "id": 312601,
     "name": "Маска из одинокого базальта",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#FFE699FF\u003eГео дайс\u003c/color\u003e меньше (один раз за раунд).\\n(Персонаж может экипировать не более 1 артефакта).",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/cee410a612a0951dff5f7998ee221742.png"
@@ -4155,31 +3115,15 @@
     "id": 312602,
     "name": "Архаичный камень",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#FFE699FF\u003eГео дайс\u003c/color\u003e меньше (1 раз за раунд).\\n\u003ccolor=#FFFFFFFF\u003eФаза броска:\u003c/color\u003e два из брошенных дайсов обязательно будут \u003ccolor=#FFE699FF\u003eГео\u003c/color\u003e.\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f3b570dda5890b6660abc11f8091ade0.png"
@@ -4188,31 +3132,15 @@
     "id": 312701,
     "name": "Лавровый венец",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#99FF88FF\u003eДендро дайс\u003c/color\u003e меньше (один раз за раунд).\\nПерсонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/db4f9b3efc9976dbfc872086b8d88cbc.png"
@@ -4221,31 +3149,15 @@
     "id": 312702,
     "name": "Воспоминания дремучего леса",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж использует навык или экипирует талант:\u003c/color\u003e, расходуется на 1 \u003ccolor=#99FF88FF\u003eДендро дайс\u003c/color\u003e меньше (1 раз за раунд).\\n\u003ccolor=#FFFFFFFF\u003eФаза броска:\u003c/color\u003e два из брошенных дайсов обязательно будут \u003ccolor=#99FF88FF\u003eДендро\u003c/color\u003e. Персонаж может экипировать не более 1 артефакта.",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Артефакт"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/84842576ae51a40f7447ff943ef5e1ca.png"
@@ -4254,31 +3166,15 @@
     "id": 321001,
     "name": "Гавань Ли Юэ",
     "content": "\u003ccolor=#FFFFFFFF\u003eФинальная фаза:\u003c/color\u003e возьмите 2 карты.\\n\u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e: 2",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Место"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/b845964f3adbb8985b3185de51121e6a.png"
@@ -4287,31 +3183,15 @@
     "id": 321002,
     "name": "Библиотека Ордо Фавониус",
     "content": "\u003ccolor=#FFFFFFFF\u003eПри розыгрыше:\u003c/color\u003e Выберите дайсы для повторного броска.\\n\u003ccolor=#FFFFFFFF\u003eФаза броска:\u003c/color\u003e Получите ещё один шанс перебросить дайсы.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Место"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/38c552f8de603be63d73fd2b79091206.png"
@@ -4320,31 +3200,15 @@
     "id": 321003,
     "name": "Нефритовый дворец",
     "content": "\u003ccolor=#FFFFFFFF\u003eФаза броска\u003c/color\u003e: обязательно выпадет 2 дайса, соответствующих элементу вашего активного персонажа.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Место"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3e19d5c01bf6d0d9ef6e6282be5fc440.png"
@@ -4353,31 +3217,15 @@
     "id": 321004,
     "name": "Винокурня «Рассвет»",
     "content": "\u003ccolor=#FFFFFFFF\u003eСледующая смена вашего персонажа\u003c/color\u003e расходует на 1 дайс меньше (1 раз за раунд).",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Место"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7867c76111398c7f6345c5429778eee1.png"
@@ -4386,31 +3234,15 @@
     "id": 321005,
     "name": "Постоялый двор «Ваншу»",
     "content": "\u003ccolor=#FFFFFFFF\u003eФинальная фаза:\u003c/color\u003e восстанавливает 2 HP ожидающему персонажу, получившему наибольший урон.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Место"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7f3bc4a66a1f9972d6b1f02bcfe425da.png"
@@ -4419,31 +3251,15 @@
     "id": 321006,
     "name": "Собор Фавония",
     "content": "\u003ccolor=#FFFFFFFF\u003eФинальная фаза:\u003c/color\u003e восстанавливает 2 HP активному персонажу.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Место"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/b44c09e722a0c411553a070eca10a159.png"
@@ -4452,31 +3268,15 @@
     "id": 322001,
     "name": "Паймон",
     "content": "\u003ccolor=#FFFFFFFF\u003eФаза ходов:\u003c/color\u003e создаёт \u003ccolor=#FFFFFFFF\u003eУниверсальный элемент\u003c/color\u003e ×2.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/db7d26573b704b6505679e4f8d74eb07.png"
@@ -4485,31 +3285,15 @@
     "id": 322002,
     "name": "Катерина",
     "content": "\u003ccolor=#FFFFFFFF\u003eСмена персонажа:\u003c/color\u003e смена персонажей считается как \u003ccolor=#FFFFFFFF\u003eБыстрое действие\u003c/color\u003e, а не как \u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e. Только 1 раз за раунд.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/fb7562041775d44f9b874a657d71c238.png"
@@ -4518,31 +3302,15 @@
     "id": 322003,
     "name": "Тимей",
     "content": "При разыгрывании даёт материалы алхимии ×2.\\n\u003ccolor=#FFFFFFFF\u003eФинальная фаза:\u003c/color\u003e даёт материалы алхимии ×1.\\n\u003ccolor=#FFFFFFFF\u003eПри разыгрывании карты артефакта:\u003c/color\u003e если возможно, расходует материалы алхимии, равные общей стоимости артефакта, и экипирует артефакт бесплатно. Только 1 раз за раунд.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/992692db4e9bcf92b0571e73313b6714.png"
@@ -4551,31 +3319,15 @@
     "id": 322004,
     "name": "Вагнер",
     "content": "При разыгрывании даёт заготовки для ковки ×2.\\n\u003ccolor=#FFFFFFFF\u003eФинальная фаза:\u003c/color\u003e даёт заготовку для ковки ×1.\\n\u003ccolor=#FFFFFFFF\u003eПри разыгрывании карты оружия:\u003c/color\u003e если возможно, расходует заготовки для ковки, равные общей стоимости оружия, и экипирует оружие бесплатно. Только 1 раз за раунд.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3fd5f4a8a3e92f7254e832e119728e96.png"
@@ -4584,31 +3336,15 @@
     "id": 322005,
     "name": "Шеф-повар Мао",
     "content": "\u003ccolor=#FFFFFFFF\u003eПосле разыгрывания карты еды события:\u003c/color\u003e создаёт 1 случайный Элементальный дайс. Только 1 раз за раунд.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/af07ead58a533d3a60868c713c27fca4.png"
@@ -4617,31 +3353,15 @@
     "id": 322006,
     "name": "Пухляш",
     "content": "\u003ccolor=#FFFFFFFF\u003eПосле разыгрывания карты поддержки локации:\u003c/color\u003e расходуется на 2 дайса меньше. Только 1 раз за раунд.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0c1afc4b96fda2d052a09ca364da79e3.png"
@@ -4650,31 +3370,15 @@
     "id": 322007,
     "name": "Тимми",
     "content": "\u003ccolor=#FFFFFFFF\u003eАктивируется 1 раз в каждом раунде:\u003c/color\u003e эта карта даёт \u003ccolor=#FFFFFFFF\u003e1 голубя\u003c/color\u003e.\\nПосле получения \u003ccolor=#FFFFFFFF\u003e3 голубей\u003c/color\u003e сбросьте карту: при этом выдаётся новая карта и создаётся \u003ccolor=#FFFFFFFF\u003eУниверсальный элемент\u003c/color\u003e.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/94dbfc0531ac4e258940a9c6e0950a28.png"
@@ -4683,31 +3387,15 @@
     "id": 322008,
     "name": "Ли Бэнь",
     "content": "\u003ccolor=#FFFFFFFF\u003eФинальная фаза:\u003c/color\u003e собирает неиспользованные вами Элементальные дайсы (не более 1 дайса каждого элемента).\\nВ начале \u003ccolor=#FFFFFFFF\u003eфазы ходов\u003c/color\u003e: если эта карта уже накопила 3 дайса, сбросьте карту: вам даются 2 карты и создаётся \u003ccolor=#FFFFFFFF\u003eУниверсальный элемент\u003c/color\u003e ×2.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9ea108ce4cc9b11ad65573ad2d507196.png"
@@ -4716,31 +3404,15 @@
     "id": 322009,
     "name": "Чан Девятый",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда персонаж любого из противников использует навык:\u003c/color\u003e если нанесён \u003ccolor=#FFFFFFFF\u003eФизический урон\u003c/color\u003e, \u003ccolor=#FFFFFFFF\u003eПроникающий урон\u003c/color\u003e или вызвана \u003ccolor=#FFFFFFFF\u003eэлементальная реакция\u003c/color\u003e, эта карта накапливает \u003ccolor=#FFFFFFFF\u003e1 вдохновение\u003c/color\u003e.\\nЕсли накоплено \u003ccolor=#FFFFFFFF\u003e3 вдохновения\u003c/color\u003e, карта сбрасывается, вы берёте 2 карты.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/92b3cf38a18c2314dbec4c46a629ba42.png"
@@ -4749,31 +3421,15 @@
     "id": 322010,
     "name": "Айлин",
     "content": "\u003ccolor=#FFFFFFFF\u003eПри использовании навыка, который уже был использован в этом раунде:\u003c/color\u003e расходуется на 1 дайс меньше. Только 1 раз за раунд.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/18200092294453a833bbeefb64ba511e.png"
@@ -4782,31 +3438,15 @@
     "id": 322011,
     "name": "Тянь Железный Язык",
     "content": "\u003ccolor=#FFFFFFFF\u003eФинальная фаза:\u003c/color\u003e одному из ваших персонажей с неполной энергией добавляется \u003ccolor=#FFFFFFFF\u003eЭнергия\u003c/color\u003e ×1 (активному персонажу в первую очередь).\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/2fd219ef9d68a9d15a1ba5965233ffdc.png"
@@ -4815,31 +3455,15 @@
     "id": 322012,
     "name": "Лю Су",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда вы меняете активного персонажа:\u003c/color\u003e если у нового активного персонажа отсутствует \u003ccolor=#FFFFFFFF\u003eЭнергия\u003c/color\u003e, ему прибавится \u003ccolor=#FFFFFFFF\u003eЭнергия\u003c/color\u003e ×1 (один раз за раунд)\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Друзья"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/260f8abb74f2760962aefc8ea932f143.png"
@@ -4848,31 +3472,15 @@
     "id": 323001,
     "name": "Параметрический преобразователь",
     "content": "\u003ccolor=#FFFFFFFF\u003eПосле того как персонажи с обеих сторон используют навыки:\u003c/color\u003e если был нанесён элементальный урон, эта карта получает \u003ccolor=#FFFFFFFF\u003e1 заряд трансмутации.\u003c/color\u003e\\nКогда эта карта накопит \u003ccolor=#FFFFFFFF\u003e3 заряда трансмутации\u003c/color\u003e, карта сбрасывается: при этом создаются 3 разных базовых Элементальных дайса.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "102",
         "text": "Предмет"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/07ab70e19810c449f0b5d99e09081861.png"
@@ -4881,31 +3489,15 @@
     "id": 323002,
     "name": "Сухпаёк",
     "content": "\u003ccolor=#FFFFFFFF\u003eПри розыгрыше:\u003c/color\u003e вы берёте 1 случайную карту еды события.\\n\u003ccolor=#FFFFFFFF\u003eКогда вы разыгрываете карту еды: \u003c/color\u003eвы берёте 1 случайную карту еды (1 раз за раунд).",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "102",
         "text": "Предмет"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a70e9287dde09182a722b812f4714766.png"
@@ -4914,31 +3506,15 @@
     "id": 331101,
     "name": "Элементальный резонанс: Переплетение Крио",
     "content": "Создаёт 1 \u003ccolor=#99FFFFFF\u003eКрио дайс\u003c/color\u003e.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#99FFFFFF\u003eКрио\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e3ab100c8ca4d73035f9895b53d50993.png"
@@ -4947,31 +3523,15 @@
     "id": 331102,
     "name": "Элементальный резонанс: Расколотый лёд",
     "content": "Следующий урон, который нанесёт ваш активный персонаж в текущем раунде, будет увеличен на 2 ед.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#99FFFFFF\u003eКрио\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/52779dcfcc6ba6a05b10d3ef133863f4.png"
@@ -4980,31 +3540,15 @@
     "id": 331201,
     "name": "Элементальный резонанс: Переплетение Гидро",
     "content": "Создаёт 1 \u003ccolor=#80C0FFFF\u003eГидро дайс\u003c/color\u003e.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#80C0FFFF\u003eГидро\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/77defc79598f6bccce1bb572cc2bb2bc.png"
@@ -5013,31 +3557,15 @@
     "id": 331202,
     "name": "Элементальный резонанс: Успокаивающая вода",
     "content": "Восстанавливает 2 HP вашему активному персонажу, а затем восстанавливает 1 HP вашим остальным персонажам.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#80C0FFFF\u003eГидро\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "12",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/901d5c47b4ad3b43fa0532d2211003bf.png"
@@ -5046,31 +3574,15 @@
     "id": 331301,
     "name": "Элементальный резонанс: Переплетение Пиро",
     "content": "Создаёт 1 \u003ccolor=#FF9999FF\u003eПиро дайс\u003c/color\u003e.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#FF9999FF\u003eПиро\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/ac8ad60bf5dd362cbc8463f0313b7ac2.png"
@@ -5079,31 +3591,15 @@
     "id": 331302,
     "name": "Элементальный резонанс: Пылающий огонь",
     "content": "В текущем раунде, когда вашим активным персонаже в следующий раз будет вызвана \u003ccolor=#FF9999FF\u003eПиро реакция\u003c/color\u003e, увеличивает урон на 3 ед.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#FF9999FF\u003eПиро\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/cd9cf0223ca3f3f701a7cc0872aba1b8.png"
@@ -5112,31 +3608,15 @@
     "id": 331401,
     "name": "Элементальный резонанс: Переплетение Электро",
     "content": "Создаёт 1 \u003ccolor=#FFACFFFF\u003eЭлектро дайс\u003c/color\u003e.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#FFACFFFF\u003eЭлектро\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9c459bb91099364db76d6341a28d711a.png"
@@ -5145,31 +3625,15 @@
     "id": 331402,
     "name": "Элементальный резонанс: Высокое напряжение",
     "content": "Вашим персонажам с неполной энергией дообавляется \u003ccolor=#FFFFFFFF\u003eЭнергия\u003c/color\u003e ×1 (активные персонажи в первую очередь).\\nМожно добавить только тогда, когда у вас есть хотя бы 2 \u003ccolor=#FFACFFFF\u003eЭлектро\u003c/color\u003e персонажа.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5704ca82488fdcf936a92fbe43dab3a7.png"
@@ -5178,31 +3642,15 @@
     "id": 331501,
     "name": "Элементальный резонанс: Переплетение Анемо",
     "content": "Создаёт 1 \u003ccolor=#80FFD7FF\u003eАнемо дайс\u003c/color\u003e.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#80FFD7FF\u003eАнемо\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5cb623640ce25ffad3139b700e16742b.png"
@@ -5211,31 +3659,15 @@
     "id": 331502,
     "name": "Элементальный резонанс: Проворный ветер",
     "content": "Переключает на выбранного персонажа и создаёт \u003ccolor=#FFFFFFFF\u003eУниверсальный элемент\u003c/color\u003e ×1.\\nМожно добавить только тогда, когда у вас есть хотя бы 2 \u003ccolor=#80FFD7FF\u003eАнемо\u003c/color\u003e персонажа.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "17",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/62e6bff59dfed1727f9d6ab5dc17dfc5.png"
@@ -5244,31 +3676,15 @@
     "id": 331601,
     "name": "Элементальный резонанс: Переплетение Гео",
     "content": "Создаёт 1 \u003ccolor=#FFE699FF\u003eГео дайс\u003c/color\u003e.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#FFE699FF\u003eГео\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/68143fb2321cfd0e825507644bddfbd0.png"
@@ -5277,31 +3693,15 @@
     "id": 331602,
     "name": "Элементальный резонанс: Несокрушимый камень",
     "content": "Когда ваш персонаж нанесёт \u003ccolor=#FFE699FF\u003eГео урон\u003c/color\u003e в следующий раз в течение этого раунда: если у вас есть любой боевой статус, которы даёт \u003ccolor=#FFFFFFFF\u003eЩит\u003c/color\u003e, то \u003ccolor=#FFFFFFFF\u003eЩит\u003c/color\u003e пополняется на 3 ед.\\nМожно добавить только тогда, когда у вас есть хотя бы 2 \u003ccolor=#FFE699FF\u003eГео\u003c/color\u003e персонажа.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "15",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/030d866b1d04c66dac181f348afe5277.png"
@@ -5310,31 +3710,15 @@
     "id": 331701,
     "name": "Элементальный резонанс: Переплетение Дендро",
     "content": "Создаёт 1 \u003ccolor=#99FF88FF\u003eДендро дайс\u003c/color\u003e.\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#99FF88FF\u003eДендро\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e277fb9bd8666758b95a2db4fb460f19.png"
@@ -5343,31 +3727,15 @@
     "id": 331702,
     "name": "Элементальный резонанс: Ползучая зелень",
     "content": "В этом раунде увеличивает урон следующей элементальной реакции, которую вызовет ваш персонаж, на 2 ед.\\nЕсли у вас активны \u003ccolor=#FFFFFFFF\u003eЯркое пламя, Дендро ядро или Область катализа\u003c/color\u003e, их \u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e +1 .\\nМожно добавить в колоду, только если там уже есть не менее 2 персонажей \u003ccolor=#99FF88FF\u003eДендро\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "16",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Элементальный резонанс"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9451d0edf2f7683db502955bf0083f6a.png"
@@ -5376,28 +3744,12 @@
     "id": 332001,
     "name": "Самый лучший компаньон!",
     "content": "Превращает все потраченные дайсы в \u003ccolor=#FFFFFFFF\u003eУниверсальный элемент\u003c/color\u003e ×2.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5409,28 +3761,12 @@
     "id": 332002,
     "name": "Смена дежурства",
     "content": "\u003ccolor=#FFFFFFFF\u003eСледующая смена вашего персонажа\u003c/color\u003e расходует на 1 дайс меньше.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5442,28 +3778,12 @@
     "id": 332003,
     "name": "Бросок",
     "content": "Выберите любые дайсы и \u003ccolor=#FFFFFFFF\u003eперебросьте\u003c/color\u003e их. Даётся две попытки.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5475,28 +3795,12 @@
     "id": 332004,
     "name": "Стратег",
     "content": "Возьмите 2 карты.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5508,28 +3812,12 @@
     "id": 332005,
     "name": "Это ещё не конец!",
     "content": "Сработает, только если один из ваших персонажей был повержен в этом раунде:\\nсоздаёт \u003ccolor=#FFFFFFFF\u003eУниверсальный элемент\u003c/color\u003e ×1, активному персонажу добавляется \u003ccolor=#FFFFFFFF\u003eЭнергия\u003c/color\u003e ×1.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5541,28 +3829,12 @@
     "id": 332006,
     "name": "Поручи это мне!",
     "content": "\u003ccolor=#FFFFFFFF\u003eПри вашей следующей смене персонажа:\u003c/color\u003e смена персонажа будет считаться как \u003ccolor=#FFFFFFFF\u003eБыстрое действие\u003c/color\u003e, а не как \u003ccolor=#FFFFFFFF\u003eБоевое действие\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5574,28 +3846,12 @@
     "id": 332007,
     "name": "Журавль после возвращенья",
     "content": "\u003ccolor=#FFFFFFFF\u003eКогда вы используете навык в следующий раз: \u003c/color\u003eваш следующий персонаж становится активным персонажем.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5607,28 +3863,12 @@
     "id": 332008,
     "name": "Звёздные знамения",
     "content": "Ваш текущий активный персонаж \u003ccolor=#FFFFFFFF\u003eполучает 1 ед. \u003ccolor=#FFFFFFFF\u003eЭнергия\u003c/color\u003e\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5640,28 +3880,12 @@
     "id": 332009,
     "name": "Искусство Альбедо",
     "content": "\u003ccolor=#FFFFFFFF\u003eЭнергия\u003c/color\u003e (по 1 ед.) перемещается с двух неактивных персонажей к активному персонажу.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5673,28 +3897,12 @@
     "id": 332010,
     "name": "Мастерское владение оружием",
     "content": "Передаёт карту оружия у текущего персонажа следующему персонажу с таким же типом оружия.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5706,28 +3914,12 @@
     "id": 332011,
     "name": "Благословение установки божественной реликвии",
     "content": "Перемещает артефакт с одного персонажа на другого.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5739,28 +3931,12 @@
     "id": 332012,
     "name": "Быстрое вязание",
     "content": "У выбранного помощника \u003ccolor=#FFFFFFFF\u003eКол-во применений\u003c/color\u003e +1.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5772,28 +3948,12 @@
     "id": 332013,
     "name": "Последний путь",
     "content": "Выберите помощника противника и уничтожьте его.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5805,28 +3965,12 @@
     "id": 332014,
     "name": "Клятва стража",
     "content": "Уничтожает всех помощников (не только вражеских, но и ваших!)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "4",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5838,28 +3982,12 @@
     "id": 332015,
     "name": "Призыв Бездны",
     "content": "\u003ccolor=#FFFFFFFF\u003eПризыв случайного хиличурла\u003c/color\u003e!\\nЧтобы добавить эту карту, в колоде уже должны быть 2 карты персонажей-монстров.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5871,31 +3999,15 @@
     "id": 333001,
     "name": "Заоблачный гоба",
     "content": "Следующая \u003ccolor=#FFFFFFFF\u003eобычная атака\u003c/color\u003e цели нанесёт на 1 ед. урона больше в этом раунде.\\n(Персонаж может съесть не более 1 блюда за 1 раунд)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Блюдо"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/c2414b928eaa3e09abe0d922f72dfc69.png"
@@ -5904,31 +4016,15 @@
     "id": 333002,
     "name": "Искушение Адепта",
     "content": "Следующий \u003ccolor=#FFFFFFFF\u003eвзрыв стихии\u003c/color\u003e цели нанесёт на 3 ед. урона больше в этом раунде.\\n(Персонаж может съесть не более 1 блюда за 1 раунд)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Блюдо"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/01a88b782c2833e2860913027b24346c.png"
@@ -5937,31 +4033,15 @@
     "id": 333003,
     "name": "Печенье лотоса",
     "content": "Цель получит на 3 ед. урона меньше при следующей атаке в этом раунде.\\n(Персонаж может съесть не более 1 блюда за 1 раунд)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Блюдо"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/ebab50237f2b856ea33401a2b06999f7.png"
@@ -5970,31 +4050,15 @@
     "id": 333004,
     "name": "Копчёный цыплёночек",
     "content": "Следующая \u003ccolor=#FFFFFFFF\u003eобычная атака\u003c/color\u003e цели будет стоить на 1 \u003ccolor=#FFFFFFFF\u003eНеопределённый элемент\u003c/color\u003e меньше.\\n(Персонаж может съесть не более 1 блюда за 1 раунд)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Блюдо"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/987a5e903a720cd5ec8024f88bd299df.png"
@@ -6003,31 +4067,15 @@
     "id": 333005,
     "name": "Цыплёнок в медовом соусе",
     "content": "Восстанавливает 1 HP цели.\\n(Персонаж может съесть не более 1 блюда за 1 раунд)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Блюдо"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/195564a6365bdfcd05e5858cdcf8f276.png"
@@ -6036,31 +4084,15 @@
     "id": 333006,
     "name": "Мондштадтские оладушки",
     "content": "Восстанавливает 2 HP цели.\\nЗа раунд персонаж может не более 1 блюда.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Блюдо"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7bf2632305786051e53fa5d1ed5c373a.png"
@@ -6069,31 +4101,15 @@
     "id": 333007,
     "name": "Грибная пицца",
     "content": "Восстанавливает 1 HP цели. В финальных фазах следующих 2 раундов восстанавливает персонажу по 1 HP.\\n(Персонаж может съесть не более 1 блюда за 1 раунд)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Блюдо"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/db557ed89fa84667f8c02c6b3a97a910.png"
@@ -6102,31 +4118,15 @@
     "id": 333008,
     "name": "Мясные рулетики с мятой",
     "content": "Все \u003ccolor=#FFFFFFFF\u003eобычные атаки\u003c/color\u003e цели стоят на 1 \u003ccolor=#FFFFFFFF\u003eНеопределённый элемент\u003c/color\u003e меньше до конца текущего раунда.\\n(Персонаж может съесть не более 1 блюда за 1 раунд)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Блюдо"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bc693d751427336349b8726589546c26.png"

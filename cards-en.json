@@ -3,7 +3,8 @@
     "id": 1101,
     "name": "Ganyu",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -17,8 +18,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Liutian Archery",
@@ -30,15 +30,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/80d61bdb70eef0d57ca877bb39dbb0d9.png",
         "name": "Trail of the Qilin",
@@ -50,15 +45,10 @@
           {
             "num": "5",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Frostflake Arrow",
@@ -77,8 +67,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/fcda5c89f7d783e8bff69719c0d30692.png",
         "name": "Celestial Shower",
@@ -87,9 +76,7 @@
     ],
     "weapon": "Bow",
     "belong_to": [
-      "Liyue",
-      "",
-      ""
+      "Liyue"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/dec5ba575fc5720ec15b8964a826f2b5.png"
@@ -98,7 +85,8 @@
     "id": 1102,
     "name": "Diona",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -112,8 +100,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Kätzlein Style",
@@ -125,15 +112,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/90c513d6b26cc20a6ce30fb82750f2e7.png",
         "name": "Icy Paws",
@@ -152,8 +134,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6ab5e0c2e95117950515b23a875006c0.png",
         "name": "Signature Mix",
@@ -162,9 +143,7 @@
     ],
     "weapon": "Bow",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7c8b166b3254b11d33a5bc1b78fb3034.png"
@@ -173,7 +152,8 @@
     "id": 1103,
     "name": "Kaeya",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -187,8 +167,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Ceremonial Bladework",
@@ -200,15 +179,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/de0abe0fb5f2904c8695d4207f472cdb.png",
         "name": "Frostgnaw",
@@ -227,8 +201,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f9e5cb46ba3bf6d4ec2f9e4455dc6238.png",
         "name": "Glacial Waltz",
@@ -237,9 +210,7 @@
     ],
     "weapon": "Sword",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/877beb9d2fa9201737f43b12b68a7c41.png"
@@ -248,7 +219,8 @@
     "id": 1104,
     "name": "Chongyun",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -262,8 +234,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1f2774a0570701e52f573952cd3436ce.png",
         "name": "Demonbane",
@@ -275,15 +246,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e023be3e82b38b50202ecf4d4fb0fa81.png",
         "name": "Chonghua's Layered Frost",
@@ -302,8 +268,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/153a77400dc95c9b51733d0d0d9a4ac0.png",
         "name": "Cloud-Parting Star",
@@ -312,9 +277,7 @@
     ],
     "weapon": "Claymore",
     "belong_to": [
-      "Liyue",
-      "",
-      ""
+      "Liyue"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5e61c140b9a2e5bed18c09c8d1115150.png"
@@ -323,7 +286,8 @@
     "id": 1105,
     "name": "Kamisato Ayaka",
     "element": "cryo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -337,8 +301,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Kamisato Art: Kabuki",
@@ -350,15 +313,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7b59308313512c3c7350eb6a92b3ea27.png",
         "name": "Kamisato Art: Hyouka",
@@ -377,8 +335,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3668bb20f0b7fb4cfb1fb4162d6fa28f.png",
         "name": "Kamisato Art: Soumetsu",
@@ -390,15 +347,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Passive Skill",
-          ""
+          "Passive Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/959584488f20484942c1403df073f954.png",
         "name": "Kamisato Art: Senho",
@@ -407,9 +359,7 @@
     ],
     "weapon": "Sword",
     "belong_to": [
-      "Inazuma",
-      "",
-      ""
+      "Inazuma"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3c864f3a914d0de0a416e25f0234fe89.png"
@@ -418,7 +368,8 @@
     "id": 1201,
     "name": "Barbara",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
         "costs": [
@@ -432,8 +383,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Whisper of Water",
@@ -445,15 +395,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/63c2345902423b25788f104985348cfd.png",
         "name": "Let the Show Begin♪",
@@ -472,8 +417,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/8da9eff0a67380b83cb6c3360e509695.png",
         "name": "Shining Miracle♪",
@@ -482,9 +426,7 @@
     ],
     "weapon": "Catalyst",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9e4098dbdaac941957fb3af0e34bac6e.png"
@@ -493,7 +435,8 @@
     "id": 1202,
     "name": "Xingqiu",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -507,8 +450,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Guhua Style",
@@ -520,15 +462,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5578cdac2dd8187149544e0898ddf1fd.png",
         "name": "Fatal Rainscreen",
@@ -547,8 +484,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/41d0bb68b4558ff4583b48268b5ecb1b.png",
         "name": "Raincutter",
@@ -557,9 +493,7 @@
     ],
     "weapon": "Sword",
     "belong_to": [
-      "Liyue",
-      "",
-      ""
+      "Liyue"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4fed2d8054aa757b8081d5cfc8dbc5e5.png"
@@ -568,7 +502,8 @@
     "id": 1203,
     "name": "Mona",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
         "costs": [
@@ -582,8 +517,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Ripple of Fate",
@@ -595,15 +529,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/c821ff150eb08b2512e3bfa39c19b20d.png",
         "name": "Mirror Reflection of Doom",
@@ -622,8 +551,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bd9c6c5db4f7cfd3ce555aaa00a4a1dd.png",
         "name": "Stellaris Phantasm",
@@ -635,15 +563,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Passive Skill",
-          ""
+          "Passive Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6c924aed33d3b0cbdcd6b280c2b52631.png",
         "name": "Illusory Torrent",
@@ -652,9 +575,7 @@
     ],
     "weapon": "Catalyst",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e6031f667a1da4f83bc75ab5a5e868a0.png"
@@ -663,7 +584,8 @@
     "id": 1301,
     "name": "Diluc",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -677,8 +599,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1f2774a0570701e52f573952cd3436ce.png",
         "name": "Tempered Sword",
@@ -690,15 +611,10 @@
           {
             "num": "3",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/31863c524d54277f038d60c77c8a85ef.png",
         "name": "Searing Onslaught",
@@ -717,8 +633,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/441499b2202e58aa6df0ebbd21bb4f67.png",
         "name": "Dawn",
@@ -727,9 +642,7 @@
     ],
     "weapon": "Claymore",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/c00f19ba52c4497b81f1654c705240b8.png"
@@ -738,7 +651,8 @@
     "id": 1302,
     "name": "Xiangling",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -752,8 +666,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/eff1794fed54da5f9132873f84b6f41c.png",
         "name": "Dough-Fu",
@@ -765,15 +678,10 @@
           {
             "num": "3",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5a6d6002064487f449b61a96300a79b8.png",
         "name": "Guoba Attack",
@@ -792,8 +700,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4a5ced0f3db7bd4a0553f837544ecb99.png",
         "name": "Pyronado",
@@ -802,9 +709,7 @@
     ],
     "weapon": "Polearm",
     "belong_to": [
-      "Liyue",
-      "",
-      ""
+      "Liyue"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f6f310d5276e6d7656eb5b42913ec8b0.png"
@@ -813,7 +718,8 @@
     "id": 1303,
     "name": "Bennett",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -827,8 +733,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Strike of Fortune",
@@ -840,15 +745,10 @@
           {
             "num": "3",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3b102a63444d271b250d9b199568bd79.png",
         "name": "Passion Overload",
@@ -867,8 +767,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a0063dea821a2e70e3ad6d8731e65c44.png",
         "name": "Fantastic Voyage",
@@ -877,9 +776,7 @@
     ],
     "weapon": "Sword",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6d539b8c4ec001cf0e651bf2af3b828d.png"
@@ -888,7 +785,8 @@
     "id": 1305,
     "name": "Yoimiya",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -902,8 +800,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Firework Flare-Up",
@@ -915,15 +812,10 @@
           {
             "num": "1",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bd53cae9bde22c0efae9e696adf58b3b.png",
         "name": "Niwabi Fire-Dance",
@@ -942,8 +834,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a7ce012f5ae1e409862e6b98c3367391.png",
         "name": "Ryuukin Saxifrage",
@@ -952,9 +843,7 @@
     ],
     "weapon": "Bow",
     "belong_to": [
-      "Inazuma",
-      "",
-      ""
+      "Inazuma"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/55c408c3b086c396d35a734e0ac61691.png"
@@ -963,7 +852,8 @@
     "id": 1401,
     "name": "Fischl",
     "element": "electro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -977,8 +867,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Bolts of Downfall",
@@ -990,15 +879,10 @@
           {
             "num": "3",
             "icon": "14"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4b4b654a14e8ca726e105af1666f4fc4.png",
         "name": "Nightrider",
@@ -1017,8 +901,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51f354b2f813bfc1de68460be40d435.png",
         "name": "Midnight Phantasmagoria",
@@ -1027,9 +910,7 @@
     ],
     "weapon": "Bow",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/b9dbb5a2cf9c0ceb63443f7409d19fe7.png"
@@ -1038,7 +919,8 @@
     "id": 1402,
     "name": "Razor",
     "element": "electro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -1052,8 +934,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1f2774a0570701e52f573952cd3436ce.png",
         "name": "Steel Fang",
@@ -1065,15 +946,10 @@
           {
             "num": "3",
             "icon": "14"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/efb029187262b0892b0a85a7be3c81c6.png",
         "name": "Claw and Thunder",
@@ -1092,8 +968,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/43720b9540661d37f397adddc08f984d.png",
         "name": "Lightning Fang",
@@ -1102,9 +977,7 @@
     ],
     "weapon": "Claymore",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/00e87c7e7518713e3bc65c12068c598a.png"
@@ -1113,7 +986,8 @@
     "id": 1403,
     "name": "Keqing",
     "element": "electro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -1127,8 +1001,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Yunlai Swordsmanship",
@@ -1140,15 +1013,10 @@
           {
             "num": "3",
             "icon": "14"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/eb94518489d930ab5fa02434b64b206e.png",
         "name": "Stellar Restoration",
@@ -1167,8 +1035,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4caa9b938cb1e72fa2cf4dca79b51fb8.png",
         "name": "Starward Sword",
@@ -1177,9 +1044,7 @@
     ],
     "weapon": "Sword",
     "belong_to": [
-      "Liyue",
-      "",
-      ""
+      "Liyue"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f6f3d3d3b183e676f9912dfec572b237.png"
@@ -1188,7 +1053,8 @@
     "id": 1404,
     "name": "Cyno",
     "element": "electro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -1202,8 +1068,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/eff1794fed54da5f9132873f84b6f41c.png",
         "name": "Invoker's Spear",
@@ -1215,15 +1080,10 @@
           {
             "num": "3",
             "icon": "14"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/70d35fde5a93ea9706b5c82e223ed57c.png",
         "name": "Secret Rite: Chasmic Soulfarer",
@@ -1242,8 +1102,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/df77d411c3039ab4c7455f62aa0fe43c.png",
         "name": "Sacred Rite: Wolf's Swiftness",
@@ -1255,15 +1114,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Passive Skill",
-          ""
+          "Passive Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3fee355d6f0090f9079b6a8bd15dd839.png",
         "name": "Lawful Enforcer",
@@ -1272,9 +1126,7 @@
     ],
     "weapon": "Polearm",
     "belong_to": [
-      "Sumeru",
-      "",
-      ""
+      "Sumeru"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1c0359bdc24635a0808ca2046f00793f.png"
@@ -1283,7 +1135,8 @@
     "id": 1501,
     "name": "Sucrose",
     "element": "anemo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e.",
         "costs": [
@@ -1297,8 +1150,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Wind Spirit Creation",
@@ -1310,15 +1162,10 @@
           {
             "num": "3",
             "icon": "17"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6c091fa8a5b6e71ad8b876dd1e45e407.png",
         "name": "Astable Anemohypostasis Creation - 6308",
@@ -1337,8 +1184,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/38cc0d7de9627cf89d3f19c326d2e890.png",
         "name": "Forbidden Creation - Isomer 75 / Type II",
@@ -1347,9 +1193,7 @@
     ],
     "weapon": "Catalyst",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0bef56ba7c462ad8c593096ba6e3af81.png"
@@ -1358,7 +1202,8 @@
     "id": 1502,
     "name": "Jean",
     "element": "anemo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -1372,8 +1217,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d73149ed08fc08529476d7f1b4a5db2.png",
         "name": "Favonius Bladework",
@@ -1385,15 +1229,10 @@
           {
             "num": "3",
             "icon": "17"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/906be849304f62b87b34122e050333b8.png",
         "name": "Gale Blade",
@@ -1412,8 +1251,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/dfc823559c0cfa4f6febda9d9ea32d60.png",
         "name": "Dandelion Breeze",
@@ -1422,9 +1260,7 @@
     ],
     "weapon": "Sword",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1a51029f206394310232b449839464be.png"
@@ -1433,7 +1269,8 @@
     "id": 1601,
     "name": "Ningguang",
     "element": "geo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 1 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e.",
         "costs": [
@@ -1447,8 +1284,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Sparkling Scatter",
@@ -1460,15 +1296,10 @@
           {
             "num": "3",
             "icon": "15"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/2bd0da27a460a5cd1b552c13180ecb5e.png",
         "name": "Jade Screen",
@@ -1487,8 +1318,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e7fcd17292e0f2c5c3aa10434f454f0a.png",
         "name": "Starshatter",
@@ -1497,9 +1327,7 @@
     ],
     "weapon": "Catalyst",
     "belong_to": [
-      "Liyue",
-      "",
-      ""
+      "Liyue"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/be2f95433c64c62c9788b081f8115ec5.png"
@@ -1508,7 +1336,8 @@
     "id": 1602,
     "name": "Noelle",
     "element": "geo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -1522,8 +1351,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/1f2774a0570701e52f573952cd3436ce.png",
         "name": "Favonius Bladework - Maid",
@@ -1535,15 +1363,10 @@
           {
             "num": "3",
             "icon": "15"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/46096c958f0cce3073cac75e540eec9d.png",
         "name": "Breastplate",
@@ -1562,8 +1385,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/2a78695dc2147234a2bb70c6fa13543c.png",
         "name": "Sweeping Time",
@@ -1572,9 +1394,7 @@
     ],
     "weapon": "Claymore",
     "belong_to": [
-      "Mondstadt",
-      "",
-      ""
+      "Mondstadt"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5f52fdb0a80066e8ba65578962fc305e.png"
@@ -1583,7 +1403,8 @@
     "id": 1701,
     "name": "Collei",
     "element": "dendro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -1597,8 +1418,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5d510bb74d2c14e2fe53edbdfc955ba4.png",
         "name": "Supplicant's Bowmanship",
@@ -1610,15 +1430,10 @@
           {
             "num": "3",
             "icon": "16"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/31c6bae6d30b2389e9717f5aa00bb617.png",
         "name": "Floral Brush",
@@ -1637,8 +1452,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/aeb8db26f8f3fe637353801bdf1407c7.png",
         "name": "Trump-Card Kitty",
@@ -1647,9 +1461,7 @@
     ],
     "weapon": "Bow",
     "belong_to": [
-      "Sumeru",
-      "",
-      ""
+      "Sumeru"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/efddc4c03c5f0997fbe5ef31ac70a505.png"
@@ -1658,7 +1470,8 @@
     "id": 2201,
     "name": "Rhodeia of Loch",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
         "costs": [
@@ -1672,8 +1485,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Surge",
@@ -1685,15 +1497,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f25ce524e9fb01340a45dcf85c72b6f2.png",
         "name": "Oceanid Mimic Summoning",
@@ -1705,15 +1512,10 @@
           {
             "num": "5",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/62bc1e938e36a78b18a85f7b2f7ed3b0.png",
         "name": "The Myriad Wilds",
@@ -1732,8 +1534,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0f148384285f60cf949d5d9b34f8fa92.png",
         "name": "Tide and Torrent",
@@ -1742,9 +1543,7 @@
     ],
     "weapon": "Other Weapons",
     "belong_to": [
-      "Monster",
-      "",
-      ""
+      "Monster"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/90422150d3267bdf9ec9a6535a7b001f.png"
@@ -1753,7 +1552,8 @@
     "id": 2202,
     "name": "Mirror Maiden",
     "element": "hydro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
         "costs": [
@@ -1767,8 +1567,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a51c9140615f7682c79e6dd2af3366e4.png",
         "name": "Water Ball",
@@ -1780,15 +1579,10 @@
           {
             "num": "3",
             "icon": "12"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/02e8a759adb9dd6f7862f18a638cefcb.png",
         "name": "Influx Blast",
@@ -1807,8 +1601,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e968bcf122be55187bd11a6bc3ce8c7f.png",
         "name": "Rippled Reflection",
@@ -1817,9 +1610,7 @@
     ],
     "weapon": "Other Weapons",
     "belong_to": [
-      "Fatui",
-      "",
-      ""
+      "Fatui"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9ffdee8d345bec9dca1946902df5969a.png"
@@ -1828,7 +1619,8 @@
     "id": 2301,
     "name": "Fatui Pyro Agent",
     "element": "pyro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -1842,8 +1634,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f667af23ed9c0f26bd5b1cf676dae52c.png",
         "name": "Thrust",
@@ -1855,15 +1646,10 @@
           {
             "num": "3",
             "icon": "13"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4b3d7470c2443c3438fcc7e86ff69dcc.png",
         "name": "Prowl",
@@ -1882,8 +1668,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f58850c0fa15b11271c164ae7e249785.png",
         "name": "Blade Ablaze",
@@ -1895,15 +1680,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Passive Skill",
-          ""
+          "Passive Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/52db57120e52fb2584a696c34b38aac9.png",
         "name": "Stealth Master",
@@ -1912,9 +1692,7 @@
     ],
     "weapon": "Other Weapons",
     "belong_to": [
-      "Fatui",
-      "",
-      ""
+      "Fatui"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/95bd6d63973f827cf93db1ca11886b44.png"
@@ -1923,7 +1701,8 @@
     "id": 2501,
     "name": "Maguu Kenki",
     "element": "anemo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -1937,8 +1716,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f667af23ed9c0f26bd5b1cf676dae52c.png",
         "name": "Ichimonji",
@@ -1950,15 +1728,10 @@
           {
             "num": "3",
             "icon": "17"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/697861409887f41bf4b5c90f2f3815ff.png",
         "name": "Blustering Blade",
@@ -1970,15 +1743,10 @@
           {
             "num": "3",
             "icon": "11"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/95c0d647c78c6058bfbd352a44fd4911.png",
         "name": "Frosty Assault",
@@ -1997,8 +1765,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/51a851b66792a160e211ff84020d3610.png",
         "name": "Pseudo Tengu Sweeper",
@@ -2007,9 +1774,7 @@
     ],
     "weapon": "Other Weapons",
     "belong_to": [
-      "Monster",
-      "",
-      ""
+      "Monster"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/efad8cd6d5bd6907341115e050f69b86.png"
@@ -2018,7 +1783,8 @@
     "id": 2601,
     "name": "Stonehide Lawachurl",
     "element": "geo",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -2032,8 +1798,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f667af23ed9c0f26bd5b1cf676dae52c.png",
         "name": "Plama Lawa",
@@ -2045,15 +1810,10 @@
           {
             "num": "3",
             "icon": "15"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/dba642d3d9f4dc42820168db15b95de2.png",
         "name": "Movo Lawa",
@@ -2072,8 +1832,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/418ae77cc4622a67d6286b4be44ff910.png",
         "name": "Upa Shato",
@@ -2085,15 +1844,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Passive Skill",
-          ""
+          "Passive Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/058b86d139526b2518ce20e3badbb4ef.png",
         "name": "Infused Stonehide",
@@ -2103,8 +1857,7 @@
     "weapon": "Other Weapons",
     "belong_to": [
       "Monster",
-      "Hilichurl",
-      ""
+      "Hilichurl"
     ],
     "hp": "8",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/721a409699b498d66b64bdc212a21c74.png"
@@ -2113,7 +1866,8 @@
     "id": 2701,
     "name": "Jadeplume Terrorshroom",
     "element": "dendro",
-    "skills": [
+    "type": "character",
+		"skills": [
       {
         "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
         "costs": [
@@ -2127,8 +1881,7 @@
           }
         ],
         "type": [
-          "Normal Attack",
-          ""
+          "Normal Attack"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f667af23ed9c0f26bd5b1cf676dae52c.png",
         "name": "Majestic Dance",
@@ -2140,15 +1893,10 @@
           {
             "num": "3",
             "icon": "16"
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Elemental Skill",
-          ""
+          "Elemental Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/121e09032218105e54a51cbd1c2ce731.png",
         "name": "Volatile Spore Cloud",
@@ -2167,8 +1915,7 @@
           }
         ],
         "type": [
-          "Elemental Burst",
-          ""
+          "Elemental Burst"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f7843567c0056ab7fe1132d9875d2c26.png",
         "name": "Feather Spreading",
@@ -2180,15 +1927,10 @@
           {
             "num": "",
             "icon": ""
-          },
-          {
-            "num": "",
-            "icon": ""
           }
         ],
         "type": [
-          "Passive Skill",
-          ""
+          "Passive Skill"
         ],
         "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/fc3e95c05191996151a572a15b3a99fb.png",
         "name": "Radical Vitality",
@@ -2197,9 +1939,7 @@
     ],
     "weapon": "Other Weapons",
     "belong_to": [
-      "Monster",
-      "",
-      ""
+      "Monster"
     ],
     "hp": "10",
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bd089cefb123e25131de1932395dde26.png"
@@ -2208,12 +1948,12 @@
     "id": 211011,
     "name": "Undivided Heart",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eGanyu\u003c/color\u003e, equip this card.\\nAfter Ganyu equips this card, immediately use \u003ccolor=#FFD780FF\u003eFrostflake Arrow\u003c/color\u003e once.\\nWhen your Ganyu, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrostflake Arrow\u003c/color\u003e: \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e dealt by this Skill +1 if this Skill has been used before during this match, and it now deals 3 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e to all opposing characters on standby instead.\\n(You must have Ganyu in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "5",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2221,18 +1961,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/47c8e7895ae24c822873f185b6b30384.png"
@@ -2241,12 +1969,12 @@
     "id": 211021,
     "name": "Shaken, Not Purred",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eDiona\u003c/color\u003e, equip this card.\\nAfter Diona equips this card, immediately use \u003ccolor=#FFD780FF\u003eIcy Paws\u003c/color\u003e once.\\nWhen your Diona, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eCat-Claw Shield\u003c/color\u003e, its \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e points +1.\\n(You must have Diona in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2254,18 +1982,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e1416b5c54b9b65004dc783c8757522f.png"
@@ -2274,12 +1990,12 @@
     "id": 211031,
     "name": "Cold-Blooded Strike",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eKaeya\u003c/color\u003e, equip this card.\\nAfter Kaeya equips this card, immediately use \u003ccolor=#FFD780FF\u003eFrostgnaw\u003c/color\u003e once.\\nAfter your Kaeya, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrostgnaw\u003c/color\u003e, he heals himself for 2 HP. (Once per Round)\\n(You must have Kaeya in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2287,18 +2003,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e8c4d2e639de2d80c164ef19a9510f15.png"
@@ -2307,12 +2011,12 @@
     "id": 211041,
     "name": "Steady Breathing",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eChongyun\u003c/color\u003e, equip this card.\\nAfter Chongyun equips this card, immediately use \u003ccolor=#FFD780FF\u003eChonghua's Layered Frost\u003c/color\u003e once.\\nWhen your Chongyun, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eChonghua Frost Field\u003c/color\u003e, it will have the following effects: Starting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, will cause your Sword, Claymore, and Polearm-wielding characters' \u003ccolor=#FFFFFFFF\u003eNormal Attacks\u003c/color\u003e to deal +1 DMG.\\n(You must have Chongyun in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2320,18 +2024,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/d2f6adf65b19c503957cdfd5197bf6c7.png"
@@ -2340,31 +2032,15 @@
     "id": 211051,
     "name": "Kanten Senmyou Blessing",
     "content": "The \u003ccolor=#FFFFFFFF\u003eCryo Elemental Infusion\u003c/color\u003e created by your \u003ccolor=#FFFFFFFF\u003eKamisato Ayaka\u003c/color\u003e, who has this card equipped, allows the character to which it is attached to deal +1 \u003ccolor=#99FFFFFF\u003e\u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e\u003c/color\u003e.\\nWhen you switch to Kamisato Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)\\n(You must have Kamisato Ayaka in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4d6cf66cc2bd1fea199439dc424a131f.png"
@@ -2373,12 +2049,12 @@
     "id": 212011,
     "name": "Glorious Season",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eBarbara\u003c/color\u003e, equip this card.\\nAfter Barbara equips this card, immediately use \u003ccolor=#FFD780FF\u003eLet the Show Begin♪\u003c/color\u003e once.\\nWhen your Barbara, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eMelody Loop\u003c/color\u003e will allow you to spend 1 less Elemental Die the next time you use \"Switch Character.\" (Once per round)\\n(You must have Barbara in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2386,18 +2062,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/c7ae77e556eb0f61f0980b2732c45c06.png"
@@ -2406,12 +2070,12 @@
     "id": 212021,
     "name": "The Scent Remained",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eXingqiu\u003c/color\u003e, equip this card.\\nAfter Xingqiu equips this card, immediately use \u003ccolor=#FFD780FF\u003eFatal Rainscreen\u003c/color\u003e once.\\nWhen your Xingqiu, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eRain Sword\u003c/color\u003e, its starting \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e +1.\\n(You must have Xingqiu in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2419,18 +2083,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/72dc8e77ccb94c82b0477fe54b2f3f7b.png"
@@ -2439,12 +2091,12 @@
     "id": 212031,
     "name": "Prophecy of Submersion",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMona\u003c/color\u003e, equip this card.\\nWhen Mona equips this card, immediately use \u003ccolor=#FFD780FF\u003eStellaris Phantasm\u003c/color\u003e once.\\nWhen your Mona, who has this card equipped, is the active character, the \u003ccolor=#80C0FFFF\u003eHydro-Related Reactions\u003c/color\u003e you trigger deal +2 additional DMG.\\n(You must have Mona in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "12",
     "num2": "3",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2452,18 +2104,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/954255e33d91711e15f70e2a5fc4d471.png"
@@ -2472,12 +2112,12 @@
     "id": 213011,
     "name": "Flowing Flame",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eDiluc\u003c/color\u003e, equip this card.\\nAfter Diluc equips this card, immediately use \u003ccolor=#FFD780FF\u003eSearing Onslaught\u003c/color\u003e once.\\nWhen your Diluc, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eSearing Onslaught\u003c/color\u003e for the second time in one Round, spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e.\\n(You must have Diluc in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2485,18 +2125,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/b0684cc862916abb8de607a51b30146e.png"
@@ -2505,12 +2133,12 @@
     "id": 213021,
     "name": "Crossfire",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eXiangling\u003c/color\u003e, equip this card.\\nAfter Xiangling equips this card, immediately use \u003ccolor=#FFD780FF\u003eGuoba Attack\u003c/color\u003e once.\\nWhen your Xiangling, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eGuoba Attack\u003c/color\u003e, she will also deal 1 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Xiangling in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2518,18 +2146,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/d8117eeed0f9d0b6a643edab827a9660.png"
@@ -2538,12 +2154,12 @@
     "id": 213031,
     "name": "Grand Expectation",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eBennett\u003c/color\u003e, equip this card.\\nAfter Bennett equips this card, immediately use \u003ccolor=#FFD780FF\u003eFantastic Voyage\u003c/color\u003e once.\\nWhen your Bennett, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eInspiration Field\u003c/color\u003e, its DMG Bonus is now always active and will no longer have an HP restriction.\\n(You must have Bennett in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "13",
     "num2": "2",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2551,18 +2167,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/38b3de96a59d907de002fc3945eac139.png"
@@ -2571,12 +2175,12 @@
     "id": 213051,
     "name": "Naganohara Meteor Swarm",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eYoimiya\u003c/color\u003e, equip this card.\\nAfter Yoimiya equips this card, immediately use \u003ccolor=#FFD780FF\u003eNiwabi Fire-Dance\u003c/color\u003e once.\\nAfter your Yoimiya, who has this card equipped, triggers \u003ccolor=#FFFFFFFF\u003eNiwabi Enshou\u003c/color\u003e: Deal 1 additional \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Yoimiya in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2584,18 +2188,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/8c94946ce10566dbac8e3b9f8e940bb3.png"
@@ -2604,12 +2196,12 @@
     "id": 214011,
     "name": "Stellar Predator",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eFischl\u003c/color\u003e, equip this card.\\nAfter Fischl equips this card, immediately use \u003ccolor=#FFD780FF\u003eNightrider\u003c/color\u003e once.\\nWhen your Fischl, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eOz\u003c/color\u003e, and after Fischl uses a \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e: Deal 2 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e. (Consumes \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e)\\n(You must have Fischl in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2617,18 +2209,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/ab875a421d04f1d478710a0d008d7c4a.png"
@@ -2637,12 +2217,12 @@
     "id": 214021,
     "name": "Awakening",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eRazor\u003c/color\u003e, equip this card.\\nAfter Razor equips this card, immediately use \u003ccolor=#FFD780FF\u003eClaw and Thunder\u003c/color\u003e once.\\nAfter your Razor, who has this card equipped, \u003ccolor=#FFFFFFFF\u003euses Claw and Thunder\u003c/color\u003e: 1 of your Electro characters gains 1 Energy. (Active Character prioritized)\\n(You must have Razor in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2650,18 +2230,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/2c5bc5400e8a57a1112520f18ad7321b.png"
@@ -2670,12 +2238,12 @@
     "id": 214031,
     "name": "Thundering Penance",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eKeqing\u003c/color\u003e, equip this card.\\nAfter Keqing equips this card, immediately use \u003ccolor=#FFD780FF\u003eStellar Restoration\u003c/color\u003e once.\\nWhen your Keqing, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eElectro Elemental Infusion\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e dealt by the attached character +1.\\n(You must have Keqing in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2683,18 +2251,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/52c1de49129738f61d8e0eff7ec47cff.png"
@@ -2703,12 +2259,12 @@
     "id": 214041,
     "name": "Featherfall Judgment",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eCyno\u003c/color\u003e, equip this card.\\nAfter Cyno equips this card, immediately use \u003ccolor=#FFD780FF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e once.\\nWhen your Cyno, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e with 3 or 5 levels of \u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e's Indwelling effect, deal +1 additional DMG.\\n(You must have Cyno in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2716,18 +2272,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9236fbf043df960137c91ab99340e312.png"
@@ -2736,12 +2280,12 @@
     "id": 215011,
     "name": "Chaotic Entropy",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eSucrose\u003c/color\u003e, equip this card.\\nAfter Sucrose equips this card, immediately use \u003ccolor=#FFD780FF\u003eForbidden Creation - Isomer 75 / Type II\u003c/color\u003e once.\\nAfter the \u003ccolor=#FFFFFFFF\u003eLarge Wind Spirit\u003c/color\u003e created by your Sucrose, who had this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.\\n(You must have Sucrose in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "17",
     "num2": "2",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2749,18 +2293,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a5aac435470025e43269160f96bc7c9e.png"
@@ -2769,12 +2301,12 @@
     "id": 215021,
     "name": "Lands of Dandelion",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eJean\u003c/color\u003e, equip this card.\\nAfter Jean equips this card, immediately use \u003ccolor=#FFD780FF\u003eDandelion Breeze\u003c/color\u003e once.\\nWhen your Jean, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eDandelion Field\u003c/color\u003e will cause you to deal +1 \u003ccolor=#80FFD7FF\u003e\u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e\u003c/color\u003e.\\n(You must have Jean in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "17",
     "num2": "3",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2782,18 +2314,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/ed539a5fe7e48519126c935b0c0140c4.png"
@@ -2802,12 +2322,12 @@
     "id": 216011,
     "name": "Strategic Reserve",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eNingguang\u003c/color\u003e, equip this card.\\nAfter Ningguang equips this card, immediately use \u003ccolor=#FFD780FF\u003eJade Screen\u003c/color\u003e once.\\nWhen your Ningguang, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e will cause you to deal +1 \u003ccolor=#FFE699FF\u003e\u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e\u003c/color\u003e.\\n(You must have Ningguang in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "15",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2815,18 +2335,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a5ecda6e325efb344e7e077352cbe834.png"
@@ -2835,12 +2343,12 @@
     "id": 216021,
     "name": "I Got Your Back",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eNoelle\u003c/color\u003e, equip this card.\\nAfter Noelle equips this card, immediately use \u003ccolor=#FFD780FF\u003eBreastplate\u003c/color\u003e once.\\nWhen your Noelle, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eFull Plate\u003c/color\u003e, it will heal all your characters for 1 HP after Noelle uses a \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e. (Once per Round)\\n(You must have Noelle in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "15",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2848,18 +2356,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9d7e1c7e174103ef69610f30a4eef269.png"
@@ -2868,12 +2364,12 @@
     "id": 217011,
     "name": "Floral Sidewinder",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eCollei\u003c/color\u003e, equip this card.\\nAfter Collei equips this card, immediately use \u003ccolor=#FFD780FF\u003eFloral Brush\u003c/color\u003e once.\\nAfter your Collei, who has this card equipped, \u003ccolor=#FFFFFFFF\u003euses Floral Brush\u003c/color\u003e, during this Round, when your characters' Skills trigger \u003ccolor=#7EC236FF\u003eDendro-Related Reactions\u003c/color\u003e: Deal 1 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e. (Once per Round)\\n(You must have Collei in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "16",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2881,18 +2377,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a388c8bdf22b02b1bb1d2e2fbc94cb2b.png"
@@ -2901,12 +2385,12 @@
     "id": 222011,
     "name": "Streaming Surge",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eRhodeia of Loch\u003c/color\u003e, equip this card.\\nAfter Rhodeia of Loch equips this card, immediately use \u003ccolor=#FFD780FF\u003eTide and Torrent\u003c/color\u003e once.\\nWhen your Rhodeia of Loch, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eTide and Torrent\u003c/color\u003e, all of your Summon(s) gain +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.\\n(You must have Rhodeia of Loch in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
     "num2": "3",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2914,18 +2398,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/580a01c97ddb6f0a7c13b4979811a076.png"
@@ -2934,12 +2406,12 @@
     "id": 222021,
     "name": "Mirror Cage",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMirror Maiden\u003c/color\u003e, equip this card.\\nAfter Mirror Maiden equips this card, immediately use \u003ccolor=#FFD780FF\u003eInflux Blast\u003c/color\u003e once.\\nWhen your Mirror Maiden, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eRefraction\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, will increase the Elemental Dice Cost of switching from the character to which this is attached to another character by 1.\\n(You must have Mirror Maiden in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2947,18 +2419,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/70bdb94530bd142767e4e27e555e4eed.png"
@@ -2967,12 +2427,12 @@
     "id": 223011,
     "name": "Paid in Full",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eFatui Pyro Agent\u003c/color\u003e, equip this card.\\nAfter Fatui Pyro Agent equips this card, immediately use \u003ccolor=#FFD780FF\u003eProwl\u003c/color\u003e once.\\nWhen your Fatui Pyro Agent, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e +1, the \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e the attached character deals will be converted to \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Fatui Pyro Agent in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -2980,18 +2440,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/79de5814ae7ce1faafd337cc6aacbf07.png"
@@ -3000,12 +2448,12 @@
     "id": 225011,
     "name": "Transcendent Automaton",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMaguu Kenki\u003c/color\u003e, equip this card.\\nAfter Maguu Kenki equips this card, immediately use \u003ccolor=#FFD780FF\u003eBlustering Blade\u003c/color\u003e once.\\nAfter your Maguu Kenki, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eBlustering Blade\u003c/color\u003e, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrosty Assault\u003c/color\u003e.\\n(You must have Maguu Kenki in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "17",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -3013,18 +2461,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/fa52163556a9b026ab8eb53cb7b9045c.png"
@@ -3033,12 +2469,12 @@
     "id": 226011,
     "name": "Stonehide Reforged",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eStonehide Lawachurl\u003c/color\u003e, equip this card.\\nAfter Stonehide Lawachurl equips this card, immediately use \u003ccolor=#FFD780FF\u003eUpa Shato\u003c/color\u003e once.\\nWhen your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach \u003ccolor=#FFFFFFFF\u003eStonehide\u003c/color\u003e and \u003ccolor=#FFFFFFFF\u003eStone Force\u003c/color\u003e.\\n(You must have Stonehide Lawachurl in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "4",
     "cost_type1_icon": "15",
     "num2": "2",
     "cost_type2_icon": "1",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -3046,18 +2482,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a8101906389983db75c167dac16dec21.png"
@@ -3066,12 +2490,12 @@
     "id": 227011,
     "name": "Proliferating Spores",
     "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eJadeplume Terrorshroom\u003c/color\u003e, equip this card.\\nAfter Jadeplume Terrorshroom equips this card, immediately use \u003ccolor=#FFD780FF\u003eVolatile Spore Cloud\u003c/color\u003e once.\\nYour Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.\\n(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "16",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "6",
         "text": "Talent"
@@ -3079,18 +2503,6 @@
       {
         "id": "2",
         "text": "Combat Action"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7681527ff3e18426f275347b2d4817b2.png"
@@ -3099,12 +2511,12 @@
     "id": 311101,
     "name": "Magic Guide",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3112,18 +2524,6 @@
       {
         "id": "202",
         "text": "Catalyst"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a85e24e19d8d895f5cf51ddab9212c87.png"
@@ -3132,12 +2532,12 @@
     "id": 311102,
     "name": "Sacrificial Fragments",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3145,18 +2545,6 @@
       {
         "id": "202",
         "text": "Catalyst"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/d1c5794631a2e19c1aa985d102f546e5.png"
@@ -3165,12 +2553,12 @@
     "id": 311103,
     "name": "Skyward Atlas",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3178,18 +2566,6 @@
       {
         "id": "202",
         "text": "Catalyst"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6ec96e78504a0fb3292721d480cbed42.png"
@@ -3198,12 +2574,12 @@
     "id": 311201,
     "name": "Raven Bow",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3211,18 +2587,6 @@
       {
         "id": "204",
         "text": "Bow"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0939061540227e749fdcb03bdd3770cf.png"
@@ -3231,12 +2595,12 @@
     "id": 311202,
     "name": "Sacrificial Bow",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3244,18 +2608,6 @@
       {
         "id": "204",
         "text": "Bow"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/98a95d057ec93e97e0e90c3a2e9985c3.png"
@@ -3264,12 +2616,12 @@
     "id": 311203,
     "name": "Skyward Harp",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3277,18 +2629,6 @@
       {
         "id": "204",
         "text": "Bow"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/eb1c1b8d7bb8df363633b272f366b794.png"
@@ -3297,12 +2637,12 @@
     "id": 311301,
     "name": "White Iron Greatsword",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3310,18 +2650,6 @@
       {
         "id": "203",
         "text": "Claymore"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bf3c1abdc800510f40f1819ff5365c3c.png"
@@ -3330,12 +2658,12 @@
     "id": 311302,
     "name": "Sacrificial Greatsword",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3343,18 +2671,6 @@
       {
         "id": "203",
         "text": "Claymore"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/8a879e5d756a07a0cde3ba42311f9790.png"
@@ -3363,12 +2679,12 @@
     "id": 311303,
     "name": "Wolf's Gravestone",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\nDeal +2 additional DMG if the target's remaining HP is equal to or less than 6.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3376,18 +2692,6 @@
       {
         "id": "203",
         "text": "Claymore"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9fc2fb800874212c3cce32b28ee6de5f.png"
@@ -3396,12 +2700,12 @@
     "id": 311401,
     "name": "White Tassel",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3409,18 +2713,6 @@
       {
         "id": "205",
         "text": "Polearm"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/6f37ed4fbb3f495f94396f2ba51cc292.png"
@@ -3429,12 +2721,12 @@
     "id": 311402,
     "name": "Lithic Spear",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\nWhen played: For each party member from Liyue, grant \u003ccolor=#FFFFFFFF\u003e1 \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e point\u003c/color\u003e to the character to which this is attached. (Max 3 points)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3442,18 +2734,6 @@
       {
         "id": "205",
         "text": "Polearm"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a00bc7daebd6a3fbb05981e7c4fde8e7.png"
@@ -3462,12 +2742,12 @@
     "id": 311403,
     "name": "Skyward Spine",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3475,18 +2755,6 @@
       {
         "id": "205",
         "text": "Polearm"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/65849e70884e45188e0658abf44caa7f.png"
@@ -3495,12 +2763,12 @@
     "id": 311501,
     "name": "Traveler's Handy Sword",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3508,18 +2776,6 @@
       {
         "id": "201",
         "text": "Sword"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9dbbcddd4d69ae1683ba8b62ae50bb6a.png"
@@ -3528,12 +2784,12 @@
     "id": 311502,
     "name": "Sacrificial Sword",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3541,18 +2797,6 @@
       {
         "id": "201",
         "text": "Sword"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bc60d80dfa83f779b01845ec46ad636e.png"
@@ -3561,12 +2805,12 @@
     "id": 311503,
     "name": "Aquila Favonia",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the opposing character uses a Skill:\u003c/color\u003e If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "3",
         "text": "Weapon"
@@ -3574,18 +2818,6 @@
       {
         "id": "201",
         "text": "Sword"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/dbecaf6c9c38016aa04dc1ad090de10a.png"
@@ -3594,31 +2826,15 @@
     "id": 312001,
     "name": "Adventurer's Bandana",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses a Normal Attack:\u003c/color\u003e Heal self for 1 HP. (Max 3 times per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/537d9c9398945da9a85bc5d3bfd7c00a.png"
@@ -3627,31 +2843,15 @@
     "id": 312002,
     "name": "Lucky Dog's Silver Circlet",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Heal self for 2 HP. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4ecb7e631b9faa929d538dfdcba97892.png"
@@ -3660,31 +2860,15 @@
     "id": 312003,
     "name": "Traveling Doctor's Handkerchief",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses an Elemental Burst:\u003c/color\u003e Heal all your characters for 1 HP. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/34da5173304f9d8162cf29792a29c314.png"
@@ -3693,31 +2877,15 @@
     "id": 312004,
     "name": "Gambler's Earrings",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter an opposing character is defeated:\u003c/color\u003e If the character this card is attached to is the active character, create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5375d721bee781f8a1c7189134631bde.png"
@@ -3726,31 +2894,15 @@
     "id": 312005,
     "name": "Instructor's Cap",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character triggers an Elemental Reaction:\u003c/color\u003e Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/db71657f341ea66c63cce583306697e0.png"
@@ -3759,31 +2911,15 @@
     "id": 312006,
     "name": "Exile's Circlet",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses an Elemental Burst:\u003c/color\u003e All your characters on standby gain 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/07f949af51f955188f7a76868afec4d2.png"
@@ -3792,31 +2928,15 @@
     "id": 312101,
     "name": "Broken Rime's Echo",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0a87ecadbc664295b0a6d8887a0245e4.png"
@@ -3825,31 +2945,15 @@
     "id": 312102,
     "name": "Blizzard Strayer",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#99FFFFFF\u003eCryo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/4ac494b7dabb571ba3175c97e133efca.png"
@@ -3858,31 +2962,15 @@
     "id": 312201,
     "name": "Wine-Stained Tricorne",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/d330bf2e825d0611adbd31165a2988a3.png"
@@ -3891,31 +2979,15 @@
     "id": 312202,
     "name": "Heart of Depth",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#80C0FFFF\u003eHydro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/94f5da40c8f4dabec67094c9ba33f398.png"
@@ -3924,31 +2996,15 @@
     "id": 312301,
     "name": "Witch's Scorching Hat",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/414e93b5089718722e2c754c328017cb.png"
@@ -3957,31 +3013,15 @@
     "id": 312302,
     "name": "Crimson Witch of Flames",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FF9999FF\u003ePyro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/072a95811cce4b7cde82b7125f948153.png"
@@ -3990,31 +3030,15 @@
     "id": 312401,
     "name": "Thunder Summoner's Crown",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/aa14c1d68f06aee6e56af6c5561d5c62.png"
@@ -4023,31 +3047,15 @@
     "id": 312402,
     "name": "Thundering Fury",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FFACFFFF\u003eElectro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3d0a4bac703c65e7cc7760e251e6bfcb.png"
@@ -4056,31 +3064,15 @@
     "id": 312501,
     "name": "Viridescent Venerer's Diadem",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/17b36e554ad3b25234313228f7cf0697.png"
@@ -4089,31 +3081,15 @@
     "id": 312502,
     "name": "Viridescent Venerer",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#80FFD7FF\u003eAnemo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/74f346d6221d9c06b40677177706dcd8.png"
@@ -4122,31 +3098,15 @@
     "id": 312601,
     "name": "Mask of Solitude Basalt",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/cee410a612a0951dff5f7998ee221742.png"
@@ -4155,31 +3115,15 @@
     "id": 312602,
     "name": "Archaic Petra",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FFE699FF\u003eGeo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/f3b570dda5890b6660abc11f8091ade0.png"
@@ -4188,31 +3132,15 @@
     "id": 312701,
     "name": "Laurel Coronet",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/db4f9b3efc9976dbfc872086b8d88cbc.png"
@@ -4221,31 +3149,15 @@
     "id": 312702,
     "name": "Deepwood Memories",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#99FF88FF\u003eDendro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
-    "action_type": "AcEquip",
+    "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "4",
         "text": "Artifact"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/84842576ae51a40f7447ff943ef5e1ca.png"
@@ -4254,31 +3166,15 @@
     "id": 321001,
     "name": "Liyue Harbor Wharf",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Draw 2 cards.\\n\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Location"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/b845964f3adbb8985b3185de51121e6a.png"
@@ -4287,31 +3183,15 @@
     "id": 321002,
     "name": "Knights of Favonius Library",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen played:\u003c/color\u003e Select any Elemental Dice to reroll.\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e Gain another chance to reroll.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Location"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/38c552f8de603be63d73fd2b79091206.png"
@@ -4320,31 +3200,15 @@
     "id": 321003,
     "name": "Jade Chamber",
     "content": "\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Location"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3e19d5c01bf6d0d9ef6e6282be5fc440.png"
@@ -4353,31 +3217,15 @@
     "id": 321004,
     "name": "Dawn Winery",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\":\u003c/color\u003e Spend 1 less Elemental Die. (Once per Round)",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Location"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7867c76111398c7f6345c5429778eee1.png"
@@ -4386,31 +3234,15 @@
     "id": 321005,
     "name": "Wangshu Inn",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Heal the most injured character on standby for 2 HP.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Location"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7f3bc4a66a1f9972d6b1f02bcfe425da.png"
@@ -4419,31 +3251,15 @@
     "id": 321006,
     "name": "Favonius Cathedral",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Heal your active character for 2 HP.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "104",
         "text": "Location"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/b44c09e722a0c411553a070eca10a159.png"
@@ -4452,31 +3268,15 @@
     "id": 322001,
     "name": "Paimon",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen Action Phase begins:\u003c/color\u003e Create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "3",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/db7d26573b704b6505679e4f8d74eb07.png"
@@ -4485,31 +3285,15 @@
     "id": 322002,
     "name": "Katheryne",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\":\u003c/color\u003e This switch is considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e. (Once per Round)",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/fb7562041775d44f9b874a657d71c238.png"
@@ -4518,31 +3302,15 @@
     "id": 322003,
     "name": "Timaeus",
     "content": "Comes with 2 Transmutation Materials when played.\\n\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Gain 1 Transmutation Material.\\n\u003ccolor=#FFFFFFFF\u003eWhen playing an Artifact Card:\u003c/color\u003e If possible, spend Transmutation Materials equal to the total cost of the Artifact and equip this Artifact for free. (Once per Round)",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/992692db4e9bcf92b0571e73313b6714.png"
@@ -4551,31 +3319,15 @@
     "id": 322004,
     "name": "Wagner",
     "content": "Comes with 2 Forging Billets when played.\\n\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Gain 1 Forging Billet.\\n\u003ccolor=#FFFFFFFF\u003eWhen playing a Weapon Card:\u003c/color\u003e If possible, spend Forging Billets equal to the total cost of the Weapon and equip this Weapon for free. (Once per Round)",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/3fd5f4a8a3e92f7254e832e119728e96.png"
@@ -4584,31 +3336,15 @@
     "id": 322005,
     "name": "Chef Mao",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter playing a Food Event Card:\u003c/color\u003e Create 1 random Elemental Die. (Once per Round)",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/af07ead58a533d3a60868c713c27fca4.png"
@@ -4617,31 +3353,15 @@
     "id": 322006,
     "name": "Tubby",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen playing a Location Support Card:\u003c/color\u003e Spend 2 less Elemental Dice. (Once per Round)",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/0c1afc4b96fda2d052a09ca364da79e3.png"
@@ -4650,31 +3370,15 @@
     "id": 322007,
     "name": "Timmie",
     "content": "\u003ccolor=#FFFFFFFF\u003eTriggers automatically once per Round:\u003c/color\u003e This card gains \u003ccolor=#FFFFFFFF\u003e1 Pigeon\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Pigeons\u003c/color\u003e, discard this card, then draw 1 card and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/94dbfc0531ac4e258940a9c6e0950a28.png"
@@ -4683,31 +3387,15 @@
     "id": 322008,
     "name": "Liben",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Collect your unused Elemental Dice (Max 1 of each Elemental Type).\\n\u003ccolor=#FFFFFFFF\u003eWhen Action Phase begins:\u003c/color\u003e If this card has collected 3 Elemental Dice, draw 2 cards and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2, then discard this card.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9ea108ce4cc9b11ad65573ad2d507196.png"
@@ -4716,31 +3404,15 @@
     "id": 322009,
     "name": "Chang the Ninth",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen either side uses a Skill:\u003c/color\u003e If \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e or \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e was dealt, or an \u003ccolor=#FFFFFFFF\u003eElemental Reaction\u003c/color\u003e was triggered, this card gains \u003ccolor=#FFFFFFFF\u003e1 Inspiration\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Inspiration\u003c/color\u003e, discard this card, then draw 2 cards.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/92b3cf38a18c2314dbec4c46a629ba42.png"
@@ -4749,31 +3421,15 @@
     "id": 322010,
     "name": "Ellin",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen you use a Skill that has already been used in this Round:\u003c/color\u003e Spend 1 less Elemental Die. (Once per Round)",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/18200092294453a833bbeefb64ba511e.png"
@@ -4782,31 +3438,15 @@
     "id": 322011,
     "name": "Iron Tongue Tian",
     "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e One of your characters without maximum Energy gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Active Character prioritized)\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/2fd219ef9d68a9d15a1ba5965233ffdc.png"
@@ -4815,31 +3455,15 @@
     "id": 322012,
     "name": "Liu Su",
     "content": "\u003ccolor=#FFFFFFFF\u003eAfter you switch characters:\u003c/color\u003e If the character you switched to does not have \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e, they will gain 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "103",
         "text": "Companion"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/260f8abb74f2760962aefc8ea932f143.png"
@@ -4848,31 +3472,15 @@
     "id": 323001,
     "name": "Parametric Transformer",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen either side uses a Skill:\u003c/color\u003e If Elemental DMG was dealt, this card gains \u003ccolor=#FFFFFFFF\u003e1 Qualitative Progress\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Qualitative Progress\u003c/color\u003e, discard this card, then create 3 different Basic Elemental Dice.",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "102",
         "text": "Item"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/07ab70e19810c449f0b5d99e09081861.png"
@@ -4881,31 +3489,15 @@
     "id": 323002,
     "name": "NRE",
     "content": "\u003ccolor=#FFFFFFFF\u003eWhen played:\u003c/color\u003e Draw 1 Food Event Card from your deck.\\n\u003ccolor=#FFFFFFFF\u003eWhen you play a Food Event Card:\u003c/color\u003e Draw 1 Food Event Card from your deck. (Once per Round)",
-    "action_type": "AcSupport",
+    "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "102",
         "text": "Item"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/a70e9287dde09182a722b812f4714766.png"
@@ -4914,31 +3506,15 @@
     "id": 331101,
     "name": "Elemental Resonance: Woven Ice",
     "content": "Create 1 \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e3ab100c8ca4d73035f9895b53d50993.png"
@@ -4947,31 +3523,15 @@
     "id": 331102,
     "name": "Elemental Resonance: Shattering Ice",
     "content": "During this Round, your current active character will deal +2 DMG for the next instance.\\n(You must have at least 2 \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "11",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/52779dcfcc6ba6a05b10d3ef133863f4.png"
@@ -4980,31 +3540,15 @@
     "id": 331201,
     "name": "Elemental Resonance: Woven Waters",
     "content": "Create 1 \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/77defc79598f6bccce1bb572cc2bb2bc.png"
@@ -5013,31 +3557,15 @@
     "id": 331202,
     "name": "Elemental Resonance: Soothing Water",
     "content": "Heal your active character for 2 HP and all your characters on standby for 1 HP.\\n(You must have at least 2 \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "12",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/901d5c47b4ad3b43fa0532d2211003bf.png"
@@ -5046,31 +3574,15 @@
     "id": 331301,
     "name": "Elemental Resonance: Woven Flames",
     "content": "Create 1 \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/ac8ad60bf5dd362cbc8463f0313b7ac2.png"
@@ -5079,31 +3591,15 @@
     "id": 331302,
     "name": "Elemental Resonance: Fervent Flames",
     "content": "During this round, the next instance of \u003ccolor=#FF9999FF\u003ePyro-Related Reactions\u003c/color\u003e your current active character triggers deals +3 DMG.\\n(You must have at least 2 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "13",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/cd9cf0223ca3f3f701a7cc0872aba1b8.png"
@@ -5112,31 +3608,15 @@
     "id": 331401,
     "name": "Elemental Resonance: Woven Thunder",
     "content": "Create 1 \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9c459bb91099364db76d6341a28d711a.png"
@@ -5145,31 +3625,15 @@
     "id": 331402,
     "name": "Elemental Resonance: High Voltage",
     "content": "One of your characters without maximum Energy gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Active Character prioritized)\\n(You must have at least 2 \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "14",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5704ca82488fdcf936a92fbe43dab3a7.png"
@@ -5178,31 +3642,15 @@
     "id": 331501,
     "name": "Elemental Resonance: Woven Winds",
     "content": "Create 1 \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#80FFD7FF\u003eAnemo\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/5cb623640ce25ffad3139b700e16742b.png"
@@ -5211,31 +3659,15 @@
     "id": 331502,
     "name": "Elemental Resonance: Impetuous Winds",
     "content": "Switch to the target character and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1.\\n(You must have at least 2 \u003ccolor=#80FFD7FF\u003eAnemo\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "17",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/62e6bff59dfed1727f9d6ab5dc17dfc5.png"
@@ -5244,31 +3676,15 @@
     "id": 331601,
     "name": "Elemental Resonance: Woven Stone",
     "content": "Create 1 \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/68143fb2321cfd0e825507644bddfbd0.png"
@@ -5277,31 +3693,15 @@
     "id": 331602,
     "name": "Elemental Resonance: Enduring Rock",
     "content": "During this round, after your character deals \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e next time: Should there be any Combat Status on your side that provides \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e, grant one such Status with 3 \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e points. \\n(You must have at least 2 \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "15",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/030d866b1d04c66dac181f348afe5277.png"
@@ -5310,31 +3710,15 @@
     "id": 331701,
     "name": "Elemental Resonance: Woven Weeds",
     "content": "Create 1 \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FF88FF\u003eDendro\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/e277fb9bd8666758b95a2db4fb460f19.png"
@@ -5343,31 +3727,15 @@
     "id": 331702,
     "name": "Elemental Resonance: Sprawling Greenery",
     "content": "During this round, the next Elemental Reaction your active character triggers deals +2 DMG.\\nYour \u003ccolor=#FFFFFFFF\u003eBurning Flame, Dendro Core, and Catalyzing Field\u003c/color\u003e gain +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FF88FF\u003eDendro\u003c/color\u003e characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "16",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "105",
         "text": "Elemental Resonance"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/9451d0edf2f7683db502955bf0083f6a.png"
@@ -5376,28 +3744,12 @@
     "id": 332001,
     "name": "The Bestest Travel Companion!",
     "content": "Convert the Elemental Dice spent to \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5409,28 +3761,12 @@
     "id": 332002,
     "name": "Changing Shifts",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you perform \"Switch Character\":\u003c/color\u003e Spend 1 less Elemental Die.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5442,28 +3778,12 @@
     "id": 332003,
     "name": "Toss-Up",
     "content": "Select any Elemental Die to \u003ccolor=#FFFFFFFF\u003ereroll\u003c/color\u003e. Can reroll 2 times.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5475,28 +3795,12 @@
     "id": 332004,
     "name": "Strategize",
     "content": "Draw 2 cards.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5508,28 +3812,12 @@
     "id": 332005,
     "name": "I Haven't Lost Yet!",
     "content": "Only playable if one of your characters is defeated this Round:\\nCreate \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1 and your current active character gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5541,28 +3829,12 @@
     "id": 332006,
     "name": "Leave It to Me!",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you perform \"Switch Character\":\u003c/color\u003e This switch will be considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5574,28 +3846,12 @@
     "id": 332007,
     "name": "When the Crane Returned",
     "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you use a Skill:\u003c/color\u003e Switch your next character in to be the active character.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5607,28 +3863,12 @@
     "id": 332008,
     "name": "Starsigns",
     "content": "Your current Active Character \u003ccolor=#FFFFFFFF\u003egains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5640,28 +3880,12 @@
     "id": 332009,
     "name": "Calx's Arts",
     "content": "Shift 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e from at most 2 of your characters on standby to your active character.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5673,28 +3897,12 @@
     "id": 332010,
     "name": "Master of Weaponry",
     "content": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5706,28 +3914,12 @@
     "id": 332011,
     "name": "Blessing of the Divine Relic's Installation",
     "content": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5739,28 +3931,12 @@
     "id": 332012,
     "name": "Quick Knit",
     "content": "Choose one Summon on your side and grant it +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5772,28 +3948,12 @@
     "id": 332013,
     "name": "Send Off",
     "content": "Choose one Summon on the opposing side and destroy it.",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5805,28 +3965,12 @@
     "id": 332014,
     "name": "Guardian's Oath",
     "content": "Destroy all Summons. (Affects both you and your opponent!)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "4",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5838,28 +3982,12 @@
     "id": 332015,
     "name": "Abyssal Summons",
     "content": "Summon 1 \u003ccolor=#FFFFFFFF\u003eRandom Hilichurl Summon\u003c/color\u003e!\\n(You must have at least 2 Monster characters in your deck to add this card to your deck.)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
+    "tags": [
       {
         "id": "",
         "text": ""
@@ -5871,31 +3999,15 @@
     "id": 333001,
     "name": "Jueyun Guoba",
     "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e deals +1 DMG.\\n(A character can consume at most 1 Food per Round)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Food"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/c2414b928eaa3e09abe0d922f72dfc69.png"
@@ -5904,31 +4016,15 @@
     "id": 333002,
     "name": "Adeptus' Temptation",
     "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eElemental Burst\u003c/color\u003e deals +3 DMG.\\n(A character can consume at most 1 Food per Round)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Food"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/01a88b782c2833e2860913027b24346c.png"
@@ -5937,31 +4033,15 @@
     "id": 333003,
     "name": "Lotus Flower Crisp",
     "content": "During this Round, the target character takes -3 DMG the next time.\\n(A character can consume at most 1 Food per Round)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Food"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/ebab50237f2b856ea33401a2b06999f7.png"
@@ -5970,31 +4050,15 @@
     "id": 333004,
     "name": "Northern Smoked Chicken",
     "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e costs 1 less \u003ccolor=#FFFFFFFF\u003eUnaligned Element\u003c/color\u003e.\\n(A character can consume at most 1 Food per Round)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Food"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/987a5e903a720cd5ec8024f88bd299df.png"
@@ -6003,31 +4067,15 @@
     "id": 333005,
     "name": "Sweet Madame",
     "content": "Heal the target character for 1 HP.\\n(A character can consume at most 1 Food per Round)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "",
     "cost_type1_icon": "",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Food"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/195564a6365bdfcd05e5858cdcf8f276.png"
@@ -6036,31 +4084,15 @@
     "id": 333006,
     "name": "Mondstadt Hash Brown",
     "content": "Heal the target character for 2 HP.\\n(A character can consume at most 1 Food per Round)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Food"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/7bf2632305786051e53fa5d1ed5c373a.png"
@@ -6069,31 +4101,15 @@
     "id": 333007,
     "name": "Mushroom Pizza",
     "content": "Heal the target character for 1 HP. For the next two Rounds, heal this character for 1 HP again at the End Phase.\\n(A character can consume at most 1 Food per Round)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Food"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/db557ed89fa84667f8c02c6b3a97a910.png"
@@ -6102,31 +4118,15 @@
     "id": 333008,
     "name": "Minty Meat Rolls",
     "content": "Before this Round ends, the target character's \u003ccolor=#FFFFFFFF\u003eNormal Attacks\u003c/color\u003e cost 1 less \u003ccolor=#FFFFFFFF\u003eUnaligned Element\u003c/color\u003e.\\n(A character can consume at most 1 Food per Round)",
-    "action_type": "AcEvent",
+    "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
     "num2": "",
     "cost_type2_icon": "",
-    "action_card_tags": [
+    "tags": [
       {
         "id": "101",
         "text": "Food"
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
-      },
-      {
-        "id": "",
-        "text": ""
       }
     ],
     "resource": "https://webstatic-sea.hoyoverse.com/hk4e/e20221205drawcard/picture/bc693d751427336349b8726589546c26.png"
