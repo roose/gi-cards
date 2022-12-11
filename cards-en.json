@@ -6,7 +6,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -25,7 +25,7 @@
         "id": "11011"
       },
       {
-        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIce Lotus\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#99FFFFFF'>Cryo DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Ice Lotus</span>.",
         "costs": [
           {
             "num": "3",
@@ -40,7 +40,7 @@
         "id": "11012"
       },
       {
-        "text": "Deals 2 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e2 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
+        "text": "Deals 2 <span style='color:#99FFFFFF'>Cryo DMG</span>, deals <span style='color:#FFFFFFFF'>2 <span style='color:#FFFFFFFF'>Piercing DMG</span></span> to all opposing characters on standby.",
         "costs": [
           {
             "num": "5",
@@ -55,7 +55,7 @@
         "id": "11013"
       },
       {
-        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e1 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby, summons 1 \u003ccolor=#FFFFFFFF\u003eSacred Cryo Pearl\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#99FFFFFF'>Cryo DMG</span>, deals <span style='color:#FFFFFFFF'>1 <span style='color:#FFFFFFFF'>Piercing DMG</span></span> to all opposing characters on standby, summons 1 <span style='color:#FFFFFFFF'>Sacred Cryo Pearl</span>.",
         "costs": [
           {
             "num": "3",
@@ -88,7 +88,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -107,7 +107,7 @@
         "id": "11021"
       },
       {
-        "text": "Deals 2 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eCat-Claw Shield\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#99FFFFFF'>Cryo DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Cat-Claw Shield</span>.",
         "costs": [
           {
             "num": "3",
@@ -122,7 +122,7 @@
         "id": "11022"
       },
       {
-        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, heals this character for 2 HP, summons 1 \u003ccolor=#FFFFFFFF\u003eDrunken Mist\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#99FFFFFF'>Cryo DMG</span>, heals this character for 2 HP, summons 1 <span style='color:#FFFFFFFF'>Drunken Mist</span>.",
         "costs": [
           {
             "num": "3",
@@ -155,7 +155,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -174,7 +174,7 @@
         "id": "11031"
       },
       {
-        "text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#99FFFFFF'>Cryo DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -189,7 +189,7 @@
         "id": "11032"
       },
       {
-        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIcicle\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#99FFFFFF'>Cryo DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Icicle</span>.",
         "costs": [
           {
             "num": "4",
@@ -222,7 +222,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -241,7 +241,7 @@
         "id": "11041"
       },
       {
-        "text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eChonghua Frost Field\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#99FFFFFF'>Cryo DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Chonghua Frost Field</span>.",
         "costs": [
           {
             "num": "3",
@@ -256,7 +256,7 @@
         "id": "11042"
       },
       {
-        "text": "Deals 7 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
+        "text": "Deals 7 <span style='color:#99FFFFFF'>Cryo DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -289,7 +289,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -308,7 +308,7 @@
         "id": "11051"
       },
       {
-        "text": "Deals 3 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#99FFFFFF'>Cryo DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -323,7 +323,7 @@
         "id": "11052"
       },
       {
-        "text": "Deals 4 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eFrostflake Seki no To\u003c/color\u003e.",
+        "text": "Deals 4 <span style='color:#99FFFFFF'>Cryo DMG</span>, summons 1 <span style='color:#FFFFFFFF'>Frostflake Seki no To</span>.",
         "costs": [
           {
             "num": "3",
@@ -342,7 +342,7 @@
         "id": "11053"
       },
       {
-        "text": "(Passive) When switched to be the active character, this character gains \u003ccolor=#FFFFFFFF\u003eCryo Elemental Infusion\u003c/color\u003e.",
+        "text": "(Passive) When switched to be the active character, this character gains <span style='color:#FFFFFFFF'>Cryo Elemental Infusion</span>.",
         "costs": [
           {
             "num": "",
@@ -371,7 +371,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80C0FFFF'>Hydro DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -390,7 +390,7 @@
         "id": "12011"
       },
       {
-        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eMelody Loop\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80C0FFFF'>Hydro DMG</span>, summons 1 <span style='color:#FFFFFFFF'>Melody Loop</span>.",
         "costs": [
           {
             "num": "3",
@@ -438,7 +438,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -457,7 +457,7 @@
         "id": "12021"
       },
       {
-        "text": "Deals 2 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, grants this character \u003ccolor=#80C0FFFF\u003eHydro Application\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eRain Sword\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#80C0FFFF'>Hydro DMG</span>, grants this character <span style='color:#80C0FFFF'>Hydro Application</span>, creates 1 <span style='color:#FFFFFFFF'>Rain Sword</span>.",
         "costs": [
           {
             "num": "3",
@@ -472,7 +472,7 @@
         "id": "12022"
       },
       {
-        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, grants this character \u003ccolor=#80C0FFFF\u003eHydro Application\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eRainbow Bladework\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80C0FFFF'>Hydro DMG</span>, grants this character <span style='color:#80C0FFFF'>Hydro Application</span>, creates 1 <span style='color:#FFFFFFFF'>Rainbow Bladework</span>.",
         "costs": [
           {
             "num": "3",
@@ -505,7 +505,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80C0FFFF'>Hydro DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -524,7 +524,7 @@
         "id": "12031"
       },
       {
-        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eReflection\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80C0FFFF'>Hydro DMG</span>, summons 1 <span style='color:#FFFFFFFF'>Reflection</span>.",
         "costs": [
           {
             "num": "3",
@@ -539,7 +539,7 @@
         "id": "12032"
       },
       {
-        "text": "Deals 4 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eIllusory Bubble\u003c/color\u003e.",
+        "text": "Deals 4 <span style='color:#80C0FFFF'>Hydro DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Illusory Bubble</span>.",
         "costs": [
           {
             "num": "3",
@@ -558,7 +558,7 @@
         "id": "12033"
       },
       {
-        "text": "(Passive) \u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\" while Mona is your active character:\u003c/color\u003e This switch is considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e. (Once per Round)",
+        "text": "(Passive) <span style='color:#FFFFFFFF'>When you perform \"Switch Character\" while Mona is your active character:</span> This switch is considered a <span style='color:#FFFFFFFF'>Fast Action</span> instead of a <span style='color:#FFFFFFFF'>Combat Action</span>. (Once per Round)",
         "costs": [
           {
             "num": "",
@@ -587,7 +587,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -606,7 +606,7 @@
         "id": "13011"
       },
       {
-        "text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. For the third use of this Skill each Round, deals +2 DMG.",
+        "text": "Deals 3 <span style='color:#FF9999FF'>Pyro DMG</span>. For the third use of this Skill each Round, deals +2 DMG.",
         "costs": [
           {
             "num": "3",
@@ -621,7 +621,7 @@
         "id": "13012"
       },
       {
-        "text": "Deals 8 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003ePyro Infusion\u003c/color\u003e.",
+        "text": "Deals 8 <span style='color:#FF9999FF'>Pyro DMG</span>. This character gains <span style='color:#FFFFFFFF'>Pyro Infusion</span>.",
         "costs": [
           {
             "num": "4",
@@ -654,7 +654,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -673,7 +673,7 @@
         "id": "13021"
       },
       {
-        "text": "Summons 1 \u003ccolor=#FFFFFFFF\u003eGuoba\u003c/color\u003e.",
+        "text": "Summons 1 <span style='color:#FFFFFFFF'>Guoba</span>.",
         "costs": [
           {
             "num": "3",
@@ -688,7 +688,7 @@
         "id": "13022"
       },
       {
-        "text": "Deals 2 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003ePyronado\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FF9999FF'>Pyro DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Pyronado</span>.",
         "costs": [
           {
             "num": "4",
@@ -721,7 +721,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -740,7 +740,7 @@
         "id": "13031"
       },
       {
-        "text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#FF9999FF'>Pyro DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -755,7 +755,7 @@
         "id": "13032"
       },
       {
-        "text": "Deals 2 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eInspiration Field\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FF9999FF'>Pyro DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Inspiration Field</span>.",
         "costs": [
           {
             "num": "4",
@@ -788,7 +788,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -807,7 +807,7 @@
         "id": "13051"
       },
       {
-        "text": "This character gains \u003ccolor=#FFFFFFFF\u003eNiwabi Enshou\u003c/color\u003e. (This Skill does not grant Energy)",
+        "text": "This character gains <span style='color:#FFFFFFFF'>Niwabi Enshou</span>. (This Skill does not grant Energy)",
         "costs": [
           {
             "num": "1",
@@ -822,7 +822,7 @@
         "id": "13052"
       },
       {
-        "text": "Deals 3 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eAurous Blaze\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#FF9999FF'>Pyro DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Aurous Blaze</span>.",
         "costs": [
           {
             "num": "3",
@@ -855,7 +855,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -874,7 +874,7 @@
         "id": "14011"
       },
       {
-        "text": "Deals 1 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eOz\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#FFACFFFF'>Electro DMG</span>, summons 1 <span style='color:#FFFFFFFF'>Oz</span>.",
         "costs": [
           {
             "num": "3",
@@ -889,7 +889,7 @@
         "id": "14012"
       },
       {
-        "text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, deals 2 \u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
+        "text": "Deals 4 <span style='color:#FFACFFFF'>Electro DMG</span>, deals 2 <span style='color:#FFFFFFFF'><span style='color:#FFFFFFFF'>Piercing DMG</span></span> to all opposing characters on standby.",
         "costs": [
           {
             "num": "3",
@@ -922,7 +922,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -941,7 +941,7 @@
         "id": "14021"
       },
       {
-        "text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#FFACFFFF'>Electro DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -956,7 +956,7 @@
         "id": "14022"
       },
       {
-        "text": "Deals 5 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eThe Wolf Within\u003c/color\u003e.",
+        "text": "Deals 5 <span style='color:#FFACFFFF'>Electro DMG</span>. This character gains <span style='color:#FFFFFFFF'>The Wolf Within</span>.",
         "costs": [
           {
             "num": "3",
@@ -989,7 +989,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1008,7 +1008,7 @@
         "id": "14031"
       },
       {
-        "text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eLightning Stiletto\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#FFACFFFF'>Electro DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Lightning Stiletto</span>.",
         "costs": [
           {
             "num": "3",
@@ -1023,7 +1023,7 @@
         "id": "14032"
       },
       {
-        "text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e, deals \u003ccolor=#FFFFFFFF\u003e3 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e\u003c/color\u003e to all opposing characters on standby.",
+        "text": "Deals 4 <span style='color:#FFACFFFF'>Electro DMG</span>, deals <span style='color:#FFFFFFFF'>3 <span style='color:#FFFFFFFF'>Piercing DMG</span></span> to all opposing characters on standby.",
         "costs": [
           {
             "num": "4",
@@ -1056,7 +1056,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1075,7 +1075,7 @@
         "id": "14041"
       },
       {
-        "text": "Deals 3 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#FFACFFFF'>Electro DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -1090,7 +1090,7 @@
         "id": "14042"
       },
       {
-        "text": "Deals 4 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e's Indwelling Level +2.",
+        "text": "Deals 4 <span style='color:#FFACFFFF'>Electro DMG</span>.\\n<span style='color:#FFFFFFFF'>Pactsworn Pathclearer</span>'s Indwelling Level +2.",
         "costs": [
           {
             "num": "4",
@@ -1109,7 +1109,7 @@
         "id": "14043"
       },
       {
-        "text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e.",
+        "text": "(Passive) When the battle begins, this character gains <span style='color:#FFFFFFFF'>Pactsworn Pathclearer</span>.",
         "costs": [
           {
             "num": "",
@@ -1138,7 +1138,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80FFD7FF'>Anemo DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1157,7 +1157,7 @@
         "id": "15011"
       },
       {
-        "text": "Deals 3 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, the target is forcibly switched to the previous character.",
+        "text": "Deals 3 <span style='color:#80FFD7FF'>Anemo DMG</span>, the target is forcibly switched to the previous character.",
         "costs": [
           {
             "num": "3",
@@ -1172,7 +1172,7 @@
         "id": "15012"
       },
       {
-        "text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eLarge Wind Spirit\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80FFD7FF'>Anemo DMG</span>, summons 1 <span style='color:#FFFFFFFF'>Large Wind Spirit</span>.",
         "costs": [
           {
             "num": "3",
@@ -1205,7 +1205,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1224,7 +1224,7 @@
         "id": "15021"
       },
       {
-        "text": "Deals 3 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, the target is forcibly switched to the next character.",
+        "text": "Deals 3 <span style='color:#80FFD7FF'>Anemo DMG</span>, the target is forcibly switched to the next character.",
         "costs": [
           {
             "num": "3",
@@ -1239,7 +1239,7 @@
         "id": "15022"
       },
       {
-        "text": "Heals all your characters for 2 HP, summons 1 \u003ccolor=#FFFFFFFF\u003eDandelion Field\u003c/color\u003e.",
+        "text": "Heals all your characters for 2 HP, summons 1 <span style='color:#FFFFFFFF'>Dandelion Field</span>.",
         "costs": [
           {
             "num": "4",
@@ -1272,7 +1272,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 1 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#FFE699FF'>Geo DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1291,7 +1291,7 @@
         "id": "16011"
       },
       {
-        "text": "Deals 2 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFE699FF'>Geo DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Jade Screen</span>.",
         "costs": [
           {
             "num": "3",
@@ -1306,7 +1306,7 @@
         "id": "16012"
       },
       {
-        "text": "Deals 6 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e. If \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e is on the field, deals +2 DMG.",
+        "text": "Deals 6 <span style='color:#FFE699FF'>Geo DMG</span>. If <span style='color:#FFFFFFFF'>Jade Screen</span> is on the field, deals +2 DMG.",
         "costs": [
           {
             "num": "3",
@@ -1339,7 +1339,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1358,7 +1358,7 @@
         "id": "16021"
       },
       {
-        "text": "Deals 1 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e, creates 1 \u003ccolor=#FFFFFFFF\u003eFull Plate\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#FFE699FF'>Geo DMG</span>, creates 1 <span style='color:#FFFFFFFF'>Full Plate</span>.",
         "costs": [
           {
             "num": "3",
@@ -1373,7 +1373,7 @@
         "id": "16022"
       },
       {
-        "text": "Deals 4 \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eSweeping Time\u003c/color\u003e.",
+        "text": "Deals 4 <span style='color:#FFE699FF'>Geo DMG</span>. This character gains <span style='color:#FFFFFFFF'>Sweeping Time</span>.",
         "costs": [
           {
             "num": "4",
@@ -1406,7 +1406,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1425,7 +1425,7 @@
         "id": "17011"
       },
       {
-        "text": "Deals 3 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#7EC236FF'>Dendro DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -1440,7 +1440,7 @@
         "id": "17012"
       },
       {
-        "text": "Deals 2 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eCuilein-Anbar\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#7EC236FF'>Dendro DMG</span>, summons 1 <span style='color:#FFFFFFFF'>Cuilein-Anbar</span>.",
         "costs": [
           {
             "num": "3",
@@ -1473,7 +1473,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80C0FFFF'>Hydro DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1492,7 +1492,7 @@
         "id": "22011"
       },
       {
-        "text": "Randomly summons 1 \u003ccolor=#FFFFFFFF\u003eOceanid Mimic\u003c/color\u003e (Prioritizes summoning a different type from preexisting ones).",
+        "text": "Randomly summons 1 <span style='color:#FFFFFFFF'>Oceanid Mimic</span> (Prioritizes summoning a different type from preexisting ones).",
         "costs": [
           {
             "num": "3",
@@ -1507,7 +1507,7 @@
         "id": "22012"
       },
       {
-        "text": "Randomly summons 2 \u003ccolor=#FFFFFFFF\u003eOceanid Mimic\u003c/color\u003e (Prioritizes summoning different types).",
+        "text": "Randomly summons 2 <span style='color:#FFFFFFFF'>Oceanid Mimic</span> (Prioritizes summoning different types).",
         "costs": [
           {
             "num": "5",
@@ -1522,7 +1522,7 @@
         "id": "22013"
       },
       {
-        "text": "Deals 2 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e. For each friendly Summon on the field, deals +2 additional DMG.",
+        "text": "Deals 2 <span style='color:#80C0FFFF'>Hydro DMG</span>. For each friendly Summon on the field, deals +2 additional DMG.",
         "costs": [
           {
             "num": "3",
@@ -1555,7 +1555,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 1 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80C0FFFF'>Hydro DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1574,7 +1574,7 @@
         "id": "22021"
       },
       {
-        "text": "Deals 3 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e. The target character receives \u003ccolor=#FFFFFFFF\u003eRefraction\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#80C0FFFF'>Hydro DMG</span>. The target character receives <span style='color:#FFFFFFFF'>Refraction</span>.",
         "costs": [
           {
             "num": "3",
@@ -1589,7 +1589,7 @@
         "id": "22022"
       },
       {
-        "text": "Deals 5 \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e.",
+        "text": "Deals 5 <span style='color:#80C0FFFF'>Hydro DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -1622,7 +1622,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1641,7 +1641,7 @@
         "id": "23011"
       },
       {
-        "text": "Deals 1 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e. This character gains \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#FF9999FF'>Pyro DMG</span>. This character gains <span style='color:#FFFFFFFF'>Stealth</span>.",
         "costs": [
           {
             "num": "3",
@@ -1656,7 +1656,7 @@
         "id": "23012"
       },
       {
-        "text": "Deals 5 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.",
+        "text": "Deals 5 <span style='color:#FF9999FF'>Pyro DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -1675,7 +1675,7 @@
         "id": "23013"
       },
       {
-        "text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e.",
+        "text": "(Passive) When the battle begins, this character gains <span style='color:#FFFFFFFF'>Stealth</span>.",
         "costs": [
           {
             "num": "",
@@ -1704,7 +1704,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1723,7 +1723,7 @@
         "id": "25011"
       },
       {
-        "text": "Deals 1 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eShadowsword: Lone Gale\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#80FFD7FF'>Anemo DMG</span>, summons 1 <span style='color:#FFFFFFFF'>Shadowsword: Lone Gale</span>.",
         "costs": [
           {
             "num": "3",
@@ -1738,7 +1738,7 @@
         "id": "25012"
       },
       {
-        "text": "Deals 1 \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e, summons 1 \u003ccolor=#FFFFFFFF\u003eShadowsword: Galloping Frost\u003c/color\u003e.",
+        "text": "Deals 1 <span style='color:#99FFFFFF'>Cryo DMG</span>, summons 1 <span style='color:#FFFFFFFF'>Shadowsword: Galloping Frost</span>.",
         "costs": [
           {
             "num": "3",
@@ -1753,7 +1753,7 @@
         "id": "25013"
       },
       {
-        "text": "Deals 4 \u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e, triggers the effect(s) of all your \u003ccolor=#FFFFFFFF\u003eShadowsword\u003c/color\u003e Summon(s). (Does not consume their Usages)",
+        "text": "Deals 4 <span style='color:#80FFD7FF'>Anemo DMG</span>, triggers the effect(s) of all your <span style='color:#FFFFFFFF'>Shadowsword</span> Summon(s). (Does not consume their Usages)",
         "costs": [
           {
             "num": "3",
@@ -1786,7 +1786,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1805,7 +1805,7 @@
         "id": "26011"
       },
       {
-        "text": "Deals 3 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -1820,7 +1820,7 @@
         "id": "26012"
       },
       {
-        "text": "Deals 5 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 5 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -1839,7 +1839,7 @@
         "id": "26013"
       },
       {
-        "text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eStonehide\u003c/color\u003e and \u003ccolor=#FFFFFFFF\u003eStone Force\u003c/color\u003e.",
+        "text": "(Passive) When the battle begins, this character gains <span style='color:#FFFFFFFF'>Stonehide</span> and <span style='color:#FFFFFFFF'>Stone Force</span>.",
         "costs": [
           {
             "num": "",
@@ -1869,7 +1869,7 @@
     "type": "character",
 		"skills": [
       {
-        "text": "Deals 2 \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e.",
+        "text": "Deals 2 <span style='color:#FFFFFFFF'>Physical DMG</span>.",
         "costs": [
           {
             "num": "1",
@@ -1888,7 +1888,7 @@
         "id": "27011"
       },
       {
-        "text": "Deals 3 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e.",
+        "text": "Deals 3 <span style='color:#7EC236FF'>Dendro DMG</span>.",
         "costs": [
           {
             "num": "3",
@@ -1903,7 +1903,7 @@
         "id": "27012"
       },
       {
-        "text": "Deals 4 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e, then consumes all \u003ccolor=#FFFFFFFF\u003eRadical Vitality\u003c/color\u003e stacks. For each stack consumed, this instance deals +1 DMG.",
+        "text": "Deals 4 <span style='color:#7EC236FF'>Dendro DMG</span>, then consumes all <span style='color:#FFFFFFFF'>Radical Vitality</span> stacks. For each stack consumed, this instance deals +1 DMG.",
         "costs": [
           {
             "num": "3",
@@ -1922,7 +1922,7 @@
         "id": "27013"
       },
       {
-        "text": "(Passive) When the battle begins, this character gains \u003ccolor=#FFFFFFFF\u003eRadical Vitality\u003c/color\u003e.",
+        "text": "(Passive) When the battle begins, this character gains <span style='color:#FFFFFFFF'>Radical Vitality</span>.",
         "costs": [
           {
             "num": "",
@@ -1947,7 +1947,7 @@
   {
     "id": 211011,
     "name": "Undivided Heart",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eGanyu\u003c/color\u003e, equip this card.\\nAfter Ganyu equips this card, immediately use \u003ccolor=#FFD780FF\u003eFrostflake Arrow\u003c/color\u003e once.\\nWhen your Ganyu, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrostflake Arrow\u003c/color\u003e: \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e dealt by this Skill +1 if this Skill has been used before during this match, and it now deals 3 \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e to all opposing characters on standby instead.\\n(You must have Ganyu in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Ganyu</span>, equip this card.\\nAfter Ganyu equips this card, immediately use <span style='color:#FFD780FF'>Frostflake Arrow</span> once.\\nWhen your Ganyu, who has this card equipped, uses <span style='color:#FFFFFFFF'>Frostflake Arrow</span>: <span style='color:#99FFFFFF'>Cryo DMG</span> dealt by this Skill +1 if this Skill has been used before during this match, and it now deals 3 <span style='color:#FFFFFFFF'>Piercing DMG</span> to all opposing characters on standby instead.\\n(You must have Ganyu in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "5",
     "cost_type1_icon": "11",
@@ -1968,7 +1968,7 @@
   {
     "id": 211021,
     "name": "Shaken, Not Purred",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eDiona\u003c/color\u003e, equip this card.\\nAfter Diona equips this card, immediately use \u003ccolor=#FFD780FF\u003eIcy Paws\u003c/color\u003e once.\\nWhen your Diona, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eCat-Claw Shield\u003c/color\u003e, its \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e points +1.\\n(You must have Diona in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Diona</span>, equip this card.\\nAfter Diona equips this card, immediately use <span style='color:#FFD780FF'>Icy Paws</span> once.\\nWhen your Diona, who has this card equipped, creates a <span style='color:#FFFFFFFF'>Cat-Claw Shield</span>, its <span style='color:#FFFFFFFF'>Shield</span> points +1.\\n(You must have Diona in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
@@ -1989,7 +1989,7 @@
   {
     "id": 211031,
     "name": "Cold-Blooded Strike",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eKaeya\u003c/color\u003e, equip this card.\\nAfter Kaeya equips this card, immediately use \u003ccolor=#FFD780FF\u003eFrostgnaw\u003c/color\u003e once.\\nAfter your Kaeya, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrostgnaw\u003c/color\u003e, he heals himself for 2 HP. (Once per Round)\\n(You must have Kaeya in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Kaeya</span>, equip this card.\\nAfter Kaeya equips this card, immediately use <span style='color:#FFD780FF'>Frostgnaw</span> once.\\nAfter your Kaeya, who has this card equipped, uses <span style='color:#FFFFFFFF'>Frostgnaw</span>, he heals himself for 2 HP. (Once per Round)\\n(You must have Kaeya in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
@@ -2010,7 +2010,7 @@
   {
     "id": 211041,
     "name": "Steady Breathing",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eChongyun\u003c/color\u003e, equip this card.\\nAfter Chongyun equips this card, immediately use \u003ccolor=#FFD780FF\u003eChonghua's Layered Frost\u003c/color\u003e once.\\nWhen your Chongyun, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eChonghua Frost Field\u003c/color\u003e, it will have the following effects: Starting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, will cause your Sword, Claymore, and Polearm-wielding characters' \u003ccolor=#FFFFFFFF\u003eNormal Attacks\u003c/color\u003e to deal +1 DMG.\\n(You must have Chongyun in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Chongyun</span>, equip this card.\\nAfter Chongyun equips this card, immediately use <span style='color:#FFD780FF'>Chonghua's Layered Frost</span> once.\\nWhen your Chongyun, who has this card equipped, creates a <span style='color:#FFFFFFFF'>Chonghua Frost Field</span>, it will have the following effects: Starting <span style='color:#FFFFFFFF'>Duration (Rounds)</span> +1, will cause your Sword, Claymore, and Polearm-wielding characters' <span style='color:#FFFFFFFF'>Normal Attacks</span> to deal +1 DMG.\\n(You must have Chongyun in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "11",
@@ -2031,7 +2031,7 @@
   {
     "id": 211051,
     "name": "Kanten Senmyou Blessing",
-    "content": "The \u003ccolor=#FFFFFFFF\u003eCryo Elemental Infusion\u003c/color\u003e created by your \u003ccolor=#FFFFFFFF\u003eKamisato Ayaka\u003c/color\u003e, who has this card equipped, allows the character to which it is attached to deal +1 \u003ccolor=#99FFFFFF\u003e\u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e\u003c/color\u003e.\\nWhen you switch to Kamisato Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)\\n(You must have Kamisato Ayaka in your deck to add this card to your deck.)",
+    "content": "The <span style='color:#FFFFFFFF'>Cryo Elemental Infusion</span> created by your <span style='color:#FFFFFFFF'>Kamisato Ayaka</span>, who has this card equipped, allows the character to which it is attached to deal +1 <span style='color:#99FFFFFF'><span style='color:#99FFFFFF'>Cryo DMG</span></span>.\\nWhen you switch to Kamisato Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)\\n(You must have Kamisato Ayaka in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "11",
@@ -2048,7 +2048,7 @@
   {
     "id": 212011,
     "name": "Glorious Season",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eBarbara\u003c/color\u003e, equip this card.\\nAfter Barbara equips this card, immediately use \u003ccolor=#FFD780FF\u003eLet the Show Begin♪\u003c/color\u003e once.\\nWhen your Barbara, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eMelody Loop\u003c/color\u003e will allow you to spend 1 less Elemental Die the next time you use \"Switch Character.\" (Once per round)\\n(You must have Barbara in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Barbara</span>, equip this card.\\nAfter Barbara equips this card, immediately use <span style='color:#FFD780FF'>Let the Show Begin♪</span> once.\\nWhen your Barbara, who has this card equipped, is on the field, <span style='color:#FFFFFFFF'>Melody Loop</span> will allow you to spend 1 less Elemental Die the next time you use \"Switch Character.\" (Once per round)\\n(You must have Barbara in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
@@ -2069,7 +2069,7 @@
   {
     "id": 212021,
     "name": "The Scent Remained",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eXingqiu\u003c/color\u003e, equip this card.\\nAfter Xingqiu equips this card, immediately use \u003ccolor=#FFD780FF\u003eFatal Rainscreen\u003c/color\u003e once.\\nWhen your Xingqiu, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eRain Sword\u003c/color\u003e, its starting \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e +1.\\n(You must have Xingqiu in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Xingqiu</span>, equip this card.\\nAfter Xingqiu equips this card, immediately use <span style='color:#FFD780FF'>Fatal Rainscreen</span> once.\\nWhen your Xingqiu, who has this card equipped, creates a <span style='color:#FFFFFFFF'>Rain Sword</span>, its starting <span style='color:#FFFFFFFF'>Usage(s)</span> +1.\\n(You must have Xingqiu in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
@@ -2090,7 +2090,7 @@
   {
     "id": 212031,
     "name": "Prophecy of Submersion",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMona\u003c/color\u003e, equip this card.\\nWhen Mona equips this card, immediately use \u003ccolor=#FFD780FF\u003eStellaris Phantasm\u003c/color\u003e once.\\nWhen your Mona, who has this card equipped, is the active character, the \u003ccolor=#80C0FFFF\u003eHydro-Related Reactions\u003c/color\u003e you trigger deal +2 additional DMG.\\n(You must have Mona in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Mona</span>, equip this card.\\nWhen Mona equips this card, immediately use <span style='color:#FFD780FF'>Stellaris Phantasm</span> once.\\nWhen your Mona, who has this card equipped, is the active character, the <span style='color:#80C0FFFF'>Hydro-Related Reactions</span> you trigger deal +2 additional DMG.\\n(You must have Mona in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "12",
@@ -2111,7 +2111,7 @@
   {
     "id": 213011,
     "name": "Flowing Flame",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eDiluc\u003c/color\u003e, equip this card.\\nAfter Diluc equips this card, immediately use \u003ccolor=#FFD780FF\u003eSearing Onslaught\u003c/color\u003e once.\\nWhen your Diluc, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eSearing Onslaught\u003c/color\u003e for the second time in one Round, spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e.\\n(You must have Diluc in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Diluc</span>, equip this card.\\nAfter Diluc equips this card, immediately use <span style='color:#FFD780FF'>Searing Onslaught</span> once.\\nWhen your Diluc, who has this card equipped, uses <span style='color:#FFFFFFFF'>Searing Onslaught</span> for the second time in one Round, spend 1 less <span style='color:#FF9999FF'>Pyro Die</span>.\\n(You must have Diluc in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "13",
@@ -2132,7 +2132,7 @@
   {
     "id": 213021,
     "name": "Crossfire",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eXiangling\u003c/color\u003e, equip this card.\\nAfter Xiangling equips this card, immediately use \u003ccolor=#FFD780FF\u003eGuoba Attack\u003c/color\u003e once.\\nWhen your Xiangling, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eGuoba Attack\u003c/color\u003e, she will also deal 1 \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Xiangling in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Xiangling</span>, equip this card.\\nAfter Xiangling equips this card, immediately use <span style='color:#FFD780FF'>Guoba Attack</span> once.\\nWhen your Xiangling, who has this card equipped, uses <span style='color:#FFFFFFFF'>Guoba Attack</span>, she will also deal 1 <span style='color:#FF9999FF'>Pyro DMG</span>.\\n(You must have Xiangling in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "13",
@@ -2153,7 +2153,7 @@
   {
     "id": 213031,
     "name": "Grand Expectation",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eBennett\u003c/color\u003e, equip this card.\\nAfter Bennett equips this card, immediately use \u003ccolor=#FFD780FF\u003eFantastic Voyage\u003c/color\u003e once.\\nWhen your Bennett, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eInspiration Field\u003c/color\u003e, its DMG Bonus is now always active and will no longer have an HP restriction.\\n(You must have Bennett in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Bennett</span>, equip this card.\\nAfter Bennett equips this card, immediately use <span style='color:#FFD780FF'>Fantastic Voyage</span> once.\\nWhen your Bennett, who has this card equipped, creates an <span style='color:#FFFFFFFF'>Inspiration Field</span>, its DMG Bonus is now always active and will no longer have an HP restriction.\\n(You must have Bennett in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "13",
@@ -2174,7 +2174,7 @@
   {
     "id": 213051,
     "name": "Naganohara Meteor Swarm",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eYoimiya\u003c/color\u003e, equip this card.\\nAfter Yoimiya equips this card, immediately use \u003ccolor=#FFD780FF\u003eNiwabi Fire-Dance\u003c/color\u003e once.\\nAfter your Yoimiya, who has this card equipped, triggers \u003ccolor=#FFFFFFFF\u003eNiwabi Enshou\u003c/color\u003e: Deal 1 additional \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Yoimiya in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Yoimiya</span>, equip this card.\\nAfter Yoimiya equips this card, immediately use <span style='color:#FFD780FF'>Niwabi Fire-Dance</span> once.\\nAfter your Yoimiya, who has this card equipped, triggers <span style='color:#FFFFFFFF'>Niwabi Enshou</span>: Deal 1 additional <span style='color:#FF9999FF'>Pyro DMG</span>.\\n(You must have Yoimiya in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "13",
@@ -2195,7 +2195,7 @@
   {
     "id": 214011,
     "name": "Stellar Predator",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eFischl\u003c/color\u003e, equip this card.\\nAfter Fischl equips this card, immediately use \u003ccolor=#FFD780FF\u003eNightrider\u003c/color\u003e once.\\nWhen your Fischl, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eOz\u003c/color\u003e, and after Fischl uses a \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e: Deal 2 \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e. (Consumes \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e)\\n(You must have Fischl in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Fischl</span>, equip this card.\\nAfter Fischl equips this card, immediately use <span style='color:#FFD780FF'>Nightrider</span> once.\\nWhen your Fischl, who has this card equipped, creates an <span style='color:#FFFFFFFF'>Oz</span>, and after Fischl uses a <span style='color:#FFFFFFFF'>Normal Attack</span>: Deal 2 <span style='color:#FFACFFFF'>Electro DMG</span>. (Consumes <span style='color:#FFFFFFFF'>Usage(s)</span>)\\n(You must have Fischl in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
@@ -2216,7 +2216,7 @@
   {
     "id": 214021,
     "name": "Awakening",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eRazor\u003c/color\u003e, equip this card.\\nAfter Razor equips this card, immediately use \u003ccolor=#FFD780FF\u003eClaw and Thunder\u003c/color\u003e once.\\nAfter your Razor, who has this card equipped, \u003ccolor=#FFFFFFFF\u003euses Claw and Thunder\u003c/color\u003e: 1 of your Electro characters gains 1 Energy. (Active Character prioritized)\\n(You must have Razor in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Razor</span>, equip this card.\\nAfter Razor equips this card, immediately use <span style='color:#FFD780FF'>Claw and Thunder</span> once.\\nAfter your Razor, who has this card equipped, <span style='color:#FFFFFFFF'>uses Claw and Thunder</span>: 1 of your Electro characters gains 1 Energy. (Active Character prioritized)\\n(You must have Razor in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "14",
@@ -2237,7 +2237,7 @@
   {
     "id": 214031,
     "name": "Thundering Penance",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eKeqing\u003c/color\u003e, equip this card.\\nAfter Keqing equips this card, immediately use \u003ccolor=#FFD780FF\u003eStellar Restoration\u003c/color\u003e once.\\nWhen your Keqing, who has this card equipped, creates an \u003ccolor=#FFFFFFFF\u003eElectro Elemental Infusion\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e dealt by the attached character +1.\\n(You must have Keqing in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Keqing</span>, equip this card.\\nAfter Keqing equips this card, immediately use <span style='color:#FFD780FF'>Stellar Restoration</span> once.\\nWhen your Keqing, who has this card equipped, creates an <span style='color:#FFFFFFFF'>Electro Elemental Infusion</span>, it will have the following effects:\\nStarting <span style='color:#FFFFFFFF'>Duration (Rounds)</span> +1, <span style='color:#FFACFFFF'>Electro DMG</span> dealt by the attached character +1.\\n(You must have Keqing in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
@@ -2258,7 +2258,7 @@
   {
     "id": 214041,
     "name": "Featherfall Judgment",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eCyno\u003c/color\u003e, equip this card.\\nAfter Cyno equips this card, immediately use \u003ccolor=#FFD780FF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e once.\\nWhen your Cyno, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e with 3 or 5 levels of \u003ccolor=#FFFFFFFF\u003ePactsworn Pathclearer\u003c/color\u003e's Indwelling effect, deal +1 additional DMG.\\n(You must have Cyno in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Cyno</span>, equip this card.\\nAfter Cyno equips this card, immediately use <span style='color:#FFD780FF'>Secret Rite: Chasmic Soulfarer</span> once.\\nWhen your Cyno, who has this card equipped, uses <span style='color:#FFFFFFFF'>Secret Rite: Chasmic Soulfarer</span> with 3 or 5 levels of <span style='color:#FFFFFFFF'>Pactsworn Pathclearer</span>'s Indwelling effect, deal +1 additional DMG.\\n(You must have Cyno in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "14",
@@ -2279,7 +2279,7 @@
   {
     "id": 215011,
     "name": "Chaotic Entropy",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eSucrose\u003c/color\u003e, equip this card.\\nAfter Sucrose equips this card, immediately use \u003ccolor=#FFD780FF\u003eForbidden Creation - Isomer 75 / Type II\u003c/color\u003e once.\\nAfter the \u003ccolor=#FFFFFFFF\u003eLarge Wind Spirit\u003c/color\u003e created by your Sucrose, who had this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.\\n(You must have Sucrose in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Sucrose</span>, equip this card.\\nAfter Sucrose equips this card, immediately use <span style='color:#FFD780FF'>Forbidden Creation - Isomer 75 / Type II</span> once.\\nAfter the <span style='color:#FFFFFFFF'>Large Wind Spirit</span> created by your Sucrose, who had this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.\\n(You must have Sucrose in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "17",
@@ -2300,7 +2300,7 @@
   {
     "id": 215021,
     "name": "Lands of Dandelion",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eJean\u003c/color\u003e, equip this card.\\nAfter Jean equips this card, immediately use \u003ccolor=#FFD780FF\u003eDandelion Breeze\u003c/color\u003e once.\\nWhen your Jean, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eDandelion Field\u003c/color\u003e will cause you to deal +1 \u003ccolor=#80FFD7FF\u003e\u003ccolor=#80FFD7FF\u003eAnemo DMG\u003c/color\u003e\u003c/color\u003e.\\n(You must have Jean in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Jean</span>, equip this card.\\nAfter Jean equips this card, immediately use <span style='color:#FFD780FF'>Dandelion Breeze</span> once.\\nWhen your Jean, who has this card equipped, is on the field, <span style='color:#FFFFFFFF'>Dandelion Field</span> will cause you to deal +1 <span style='color:#80FFD7FF'><span style='color:#80FFD7FF'>Anemo DMG</span></span>.\\n(You must have Jean in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "17",
@@ -2321,7 +2321,7 @@
   {
     "id": 216011,
     "name": "Strategic Reserve",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eNingguang\u003c/color\u003e, equip this card.\\nAfter Ningguang equips this card, immediately use \u003ccolor=#FFD780FF\u003eJade Screen\u003c/color\u003e once.\\nWhen your Ningguang, who has this card equipped, is on the field, \u003ccolor=#FFFFFFFF\u003eJade Screen\u003c/color\u003e will cause you to deal +1 \u003ccolor=#FFE699FF\u003e\u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e\u003c/color\u003e.\\n(You must have Ningguang in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Ningguang</span>, equip this card.\\nAfter Ningguang equips this card, immediately use <span style='color:#FFD780FF'>Jade Screen</span> once.\\nWhen your Ningguang, who has this card equipped, is on the field, <span style='color:#FFFFFFFF'>Jade Screen</span> will cause you to deal +1 <span style='color:#FFE699FF'><span style='color:#FFE699FF'>Geo DMG</span></span>.\\n(You must have Ningguang in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "15",
@@ -2342,7 +2342,7 @@
   {
     "id": 216021,
     "name": "I Got Your Back",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eNoelle\u003c/color\u003e, equip this card.\\nAfter Noelle equips this card, immediately use \u003ccolor=#FFD780FF\u003eBreastplate\u003c/color\u003e once.\\nWhen your Noelle, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eFull Plate\u003c/color\u003e, it will heal all your characters for 1 HP after Noelle uses a \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e. (Once per Round)\\n(You must have Noelle in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Noelle</span>, equip this card.\\nAfter Noelle equips this card, immediately use <span style='color:#FFD780FF'>Breastplate</span> once.\\nWhen your Noelle, who has this card equipped, creates a <span style='color:#FFFFFFFF'>Full Plate</span>, it will heal all your characters for 1 HP after Noelle uses a <span style='color:#FFFFFFFF'>Normal Attack</span>. (Once per Round)\\n(You must have Noelle in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "15",
@@ -2363,7 +2363,7 @@
   {
     "id": 217011,
     "name": "Floral Sidewinder",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eCollei\u003c/color\u003e, equip this card.\\nAfter Collei equips this card, immediately use \u003ccolor=#FFD780FF\u003eFloral Brush\u003c/color\u003e once.\\nAfter your Collei, who has this card equipped, \u003ccolor=#FFFFFFFF\u003euses Floral Brush\u003c/color\u003e, during this Round, when your characters' Skills trigger \u003ccolor=#7EC236FF\u003eDendro-Related Reactions\u003c/color\u003e: Deal 1 \u003ccolor=#7EC236FF\u003eDendro DMG\u003c/color\u003e. (Once per Round)\\n(You must have Collei in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Collei</span>, equip this card.\\nAfter Collei equips this card, immediately use <span style='color:#FFD780FF'>Floral Brush</span> once.\\nAfter your Collei, who has this card equipped, <span style='color:#FFFFFFFF'>uses Floral Brush</span>, during this Round, when your characters' Skills trigger <span style='color:#7EC236FF'>Dendro-Related Reactions</span>: Deal 1 <span style='color:#7EC236FF'>Dendro DMG</span>. (Once per Round)\\n(You must have Collei in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "16",
@@ -2384,7 +2384,7 @@
   {
     "id": 222011,
     "name": "Streaming Surge",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eRhodeia of Loch\u003c/color\u003e, equip this card.\\nAfter Rhodeia of Loch equips this card, immediately use \u003ccolor=#FFD780FF\u003eTide and Torrent\u003c/color\u003e once.\\nWhen your Rhodeia of Loch, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eTide and Torrent\u003c/color\u003e, all of your Summon(s) gain +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.\\n(You must have Rhodeia of Loch in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Rhodeia of Loch</span>, equip this card.\\nAfter Rhodeia of Loch equips this card, immediately use <span style='color:#FFD780FF'>Tide and Torrent</span> once.\\nWhen your Rhodeia of Loch, who has this card equipped, uses <span style='color:#FFFFFFFF'>Tide and Torrent</span>, all of your Summon(s) gain +1 <span style='color:#FFFFFFFF'>Usage(s)</span>.\\n(You must have Rhodeia of Loch in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
@@ -2405,7 +2405,7 @@
   {
     "id": 222021,
     "name": "Mirror Cage",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMirror Maiden\u003c/color\u003e, equip this card.\\nAfter Mirror Maiden equips this card, immediately use \u003ccolor=#FFD780FF\u003eInflux Blast\u003c/color\u003e once.\\nWhen your Mirror Maiden, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eRefraction\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eDuration (Rounds)\u003c/color\u003e +1, will increase the Elemental Dice Cost of switching from the character to which this is attached to another character by 1.\\n(You must have Mirror Maiden in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Mirror Maiden</span>, equip this card.\\nAfter Mirror Maiden equips this card, immediately use <span style='color:#FFD780FF'>Influx Blast</span> once.\\nWhen your Mirror Maiden, who has this card equipped, creates a <span style='color:#FFFFFFFF'>Refraction</span>, it will have the following effects:\\nStarting <span style='color:#FFFFFFFF'>Duration (Rounds)</span> +1, will increase the Elemental Dice Cost of switching from the character to which this is attached to another character by 1.\\n(You must have Mirror Maiden in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "12",
@@ -2426,7 +2426,7 @@
   {
     "id": 223011,
     "name": "Paid in Full",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eFatui Pyro Agent\u003c/color\u003e, equip this card.\\nAfter Fatui Pyro Agent equips this card, immediately use \u003ccolor=#FFD780FF\u003eProwl\u003c/color\u003e once.\\nWhen your Fatui Pyro Agent, who has this card equipped, creates a \u003ccolor=#FFFFFFFF\u003eStealth\u003c/color\u003e, it will have the following effects:\\nStarting \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e +1, the \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e the attached character deals will be converted to \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e.\\n(You must have Fatui Pyro Agent in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Fatui Pyro Agent</span>, equip this card.\\nAfter Fatui Pyro Agent equips this card, immediately use <span style='color:#FFD780FF'>Prowl</span> once.\\nWhen your Fatui Pyro Agent, who has this card equipped, creates a <span style='color:#FFFFFFFF'>Stealth</span>, it will have the following effects:\\nStarting <span style='color:#FFFFFFFF'>Usage(s)</span> +1, the <span style='color:#FFFFFFFF'>Physical DMG</span> the attached character deals will be converted to <span style='color:#FF9999FF'>Pyro DMG</span>.\\n(You must have Fatui Pyro Agent in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "13",
@@ -2447,7 +2447,7 @@
   {
     "id": 225011,
     "name": "Transcendent Automaton",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eMaguu Kenki\u003c/color\u003e, equip this card.\\nAfter Maguu Kenki equips this card, immediately use \u003ccolor=#FFD780FF\u003eBlustering Blade\u003c/color\u003e once.\\nAfter your Maguu Kenki, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eBlustering Blade\u003c/color\u003e, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses \u003ccolor=#FFFFFFFF\u003eFrosty Assault\u003c/color\u003e.\\n(You must have Maguu Kenki in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Maguu Kenki</span>, equip this card.\\nAfter Maguu Kenki equips this card, immediately use <span style='color:#FFD780FF'>Blustering Blade</span> once.\\nAfter your Maguu Kenki, who has this card equipped, uses <span style='color:#FFFFFFFF'>Blustering Blade</span>, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses <span style='color:#FFFFFFFF'>Frosty Assault</span>.\\n(You must have Maguu Kenki in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "17",
@@ -2468,7 +2468,7 @@
   {
     "id": 226011,
     "name": "Stonehide Reforged",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eStonehide Lawachurl\u003c/color\u003e, equip this card.\\nAfter Stonehide Lawachurl equips this card, immediately use \u003ccolor=#FFD780FF\u003eUpa Shato\u003c/color\u003e once.\\nWhen your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach \u003ccolor=#FFFFFFFF\u003eStonehide\u003c/color\u003e and \u003ccolor=#FFFFFFFF\u003eStone Force\u003c/color\u003e.\\n(You must have Stonehide Lawachurl in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Stonehide Lawachurl</span>, equip this card.\\nAfter Stonehide Lawachurl equips this card, immediately use <span style='color:#FFD780FF'>Upa Shato</span> once.\\nWhen your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach <span style='color:#FFFFFFFF'>Stonehide</span> and <span style='color:#FFFFFFFF'>Stone Force</span>.\\n(You must have Stonehide Lawachurl in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "4",
     "cost_type1_icon": "15",
@@ -2489,7 +2489,7 @@
   {
     "id": 227011,
     "name": "Proliferating Spores",
-    "content": "\u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e: When your active character is \u003ccolor=#FFFFFFFF\u003eJadeplume Terrorshroom\u003c/color\u003e, equip this card.\\nAfter Jadeplume Terrorshroom equips this card, immediately use \u003ccolor=#FFD780FF\u003eVolatile Spore Cloud\u003c/color\u003e once.\\nYour Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.\\n(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)",
+    "content": "<span style='color:#FFFFFFFF'>Combat Action</span>: When your active character is <span style='color:#FFFFFFFF'>Jadeplume Terrorshroom</span>, equip this card.\\nAfter Jadeplume Terrorshroom equips this card, immediately use <span style='color:#FFD780FF'>Volatile Spore Cloud</span> once.\\nYour Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.\\n(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "16",
@@ -2510,7 +2510,7 @@
   {
     "id": 311101,
     "name": "Magic Guide",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n(<span style='color:#FFFFFFFF'>Only Catalyst Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -2531,7 +2531,7 @@
   {
     "id": 311102,
     "name": "Sacrificial Fragments",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n<span style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</span> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(<span style='color:#FFFFFFFF'>Only Catalyst Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2552,7 +2552,7 @@
   {
     "id": 311103,
     "name": "Skyward Atlas",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Catalyst Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n<span style='color:#FFFFFFFF'>Once per Round:</span> This character's Normal Attacks deal +1 additional DMG.\\n(<span style='color:#FFFFFFFF'>Only Catalyst Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2573,7 +2573,7 @@
   {
     "id": 311201,
     "name": "Raven Bow",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n(<span style='color:#FFFFFFFF'>Only Bow Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -2594,7 +2594,7 @@
   {
     "id": 311202,
     "name": "Sacrificial Bow",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n<span style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</span> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(<span style='color:#FFFFFFFF'>Only Bow Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2615,7 +2615,7 @@
   {
     "id": 311203,
     "name": "Skyward Harp",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Bow Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n<span style='color:#FFFFFFFF'>Once per Round:</span> This character's Normal Attacks deal +1 additional DMG.\\n(<span style='color:#FFFFFFFF'>Only Bow Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2636,7 +2636,7 @@
   {
     "id": 311301,
     "name": "White Iron Greatsword",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n(<span style='color:#FFFFFFFF'>Only Claymore Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -2657,7 +2657,7 @@
   {
     "id": 311302,
     "name": "Sacrificial Greatsword",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n<span style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</span> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(<span style='color:#FFFFFFFF'>Only Claymore Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2678,7 +2678,7 @@
   {
     "id": 311303,
     "name": "Wolf's Gravestone",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\nDeal +2 additional DMG if the target's remaining HP is equal to or less than 6.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Claymore Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\nDeal +2 additional DMG if the target's remaining HP is equal to or less than 6.\\n(<span style='color:#FFFFFFFF'>Only Claymore Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2699,7 +2699,7 @@
   {
     "id": 311401,
     "name": "White Tassel",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n(<span style='color:#FFFFFFFF'>Only Polearm Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -2720,7 +2720,7 @@
   {
     "id": 311402,
     "name": "Lithic Spear",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\nWhen played: For each party member from Liyue, grant \u003ccolor=#FFFFFFFF\u003e1 \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e point\u003c/color\u003e to the character to which this is attached. (Max 3 points)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\nWhen played: For each party member from Liyue, grant <span style='color:#FFFFFFFF'>1 <span style='color:#FFFFFFFF'>Shield</span> point</span> to the character to which this is attached. (Max 3 points)\\n(<span style='color:#FFFFFFFF'>Only Polearm Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2741,7 +2741,7 @@
   {
     "id": 311403,
     "name": "Skyward Spine",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eOnce per Round:\u003c/color\u003e This character's Normal Attacks deal +1 additional DMG.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Polearm Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n<span style='color:#FFFFFFFF'>Once per Round:</span> This character's Normal Attacks deal +1 additional DMG.\\n(<span style='color:#FFFFFFFF'>Only Polearm Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2762,7 +2762,7 @@
   {
     "id": 311501,
     "name": "Traveler's Handy Sword",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n(<span style='color:#FFFFFFFF'>Only Sword Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -2783,7 +2783,7 @@
   {
     "id": 311502,
     "name": "Sacrificial Sword",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n<span style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</span> Create 1 Elemental Die of the same Elemental Type as this character. (Once per Round)\\n(<span style='color:#FFFFFFFF'>Only Sword Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2804,7 +2804,7 @@
   {
     "id": 311503,
     "name": "Aquila Favonia",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe character deals +1 DMG\u003c/color\u003e.\\n\u003ccolor=#FFFFFFFF\u003eAfter the opposing character uses a Skill:\u003c/color\u003e If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)\\n(\u003ccolor=#FFFFFFFF\u003eOnly Sword Characters\u003c/color\u003e can equip this. A character can equip a maximum of 1 Weapon)",
+    "content": "<span style='color:#FFFFFFFF'>The character deals +1 DMG</span>.\\n<span style='color:#FFFFFFFF'>After the opposing character uses a Skill:</span> If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)\\n(<span style='color:#FFFFFFFF'>Only Sword Characters</span> can equip this. A character can equip a maximum of 1 Weapon)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2825,7 +2825,7 @@
   {
     "id": 312001,
     "name": "Adventurer's Bandana",
-    "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses a Normal Attack:\u003c/color\u003e Heal self for 1 HP. (Max 3 times per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>After a character uses a Normal Attack:</span> Heal self for 1 HP. (Max 3 times per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -2842,7 +2842,7 @@
   {
     "id": 312002,
     "name": "Lucky Dog's Silver Circlet",
-    "content": "\u003ccolor=#FFFFFFFF\u003eAfter the character uses an Elemental Skill:\u003c/color\u003e Heal self for 2 HP. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>After the character uses an Elemental Skill:</span> Heal self for 2 HP. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -2859,7 +2859,7 @@
   {
     "id": 312003,
     "name": "Traveling Doctor's Handkerchief",
-    "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses an Elemental Burst:\u003c/color\u003e Heal all your characters for 1 HP. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>After a character uses an Elemental Burst:</span> Heal all your characters for 1 HP. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -2876,7 +2876,7 @@
   {
     "id": 312004,
     "name": "Gambler's Earrings",
-    "content": "\u003ccolor=#FFFFFFFF\u003eAfter an opposing character is defeated:\u003c/color\u003e If the character this card is attached to is the active character, create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>After an opposing character is defeated:</span> If the character this card is attached to is the active character, create <span style='color:#FFFFFFFF'>Omni Element</span> ×2.\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -2893,7 +2893,7 @@
   {
     "id": 312005,
     "name": "Instructor's Cap",
-    "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character triggers an Elemental Reaction:\u003c/color\u003e Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>After a character triggers an Elemental Reaction:</span> Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -2910,7 +2910,7 @@
   {
     "id": 312006,
     "name": "Exile's Circlet",
-    "content": "\u003ccolor=#FFFFFFFF\u003eAfter a character uses an Elemental Burst:\u003c/color\u003e All your characters on standby gain 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>After a character uses an Elemental Burst:</span> All your characters on standby gain 1 <span style='color:#FFFFFFFF'>Energy</span>. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -2927,7 +2927,7 @@
   {
     "id": 312101,
     "name": "Broken Rime's Echo",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#99FFFFFF'>Cryo Die</span>. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -2944,7 +2944,7 @@
   {
     "id": 312102,
     "name": "Blizzard Strayer",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#99FFFFFF\u003eCryo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#99FFFFFF'>Cryo Die</span>. (Once per Round)\\n<span style='color:#FFFFFFFF'>Roll Phase:</span> 2 of the starting Elemental Dice you roll are always guaranteed to be <span style='color:#99FFFFFF'>Cryo Dice</span>.\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2961,7 +2961,7 @@
   {
     "id": 312201,
     "name": "Wine-Stained Tricorne",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#80C0FFFF'>Hydro Die</span>. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -2978,7 +2978,7 @@
   {
     "id": 312202,
     "name": "Heart of Depth",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#80C0FFFF\u003eHydro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#80C0FFFF'>Hydro Die</span>. (Once per Round)\\n<span style='color:#FFFFFFFF'>Roll Phase:</span> 2 of the starting Elemental Dice you roll are always guaranteed to be <span style='color:#80C0FFFF'>Hydro Dice</span>.\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -2995,7 +2995,7 @@
   {
     "id": 312301,
     "name": "Witch's Scorching Hat",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#FF9999FF'>Pyro Die</span>. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3012,7 +3012,7 @@
   {
     "id": 312302,
     "name": "Crimson Witch of Flames",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FF9999FF\u003ePyro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#FF9999FF'>Pyro Die</span>. (Once per Round)\\n<span style='color:#FFFFFFFF'>Roll Phase:</span> 2 of the starting Elemental Dice you roll are always guaranteed to be <span style='color:#FF9999FF'>Pyro Dice</span>.\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -3029,7 +3029,7 @@
   {
     "id": 312401,
     "name": "Thunder Summoner's Crown",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#FFACFFFF'>Electro Die</span>. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3046,7 +3046,7 @@
   {
     "id": 312402,
     "name": "Thundering Fury",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FFACFFFF\u003eElectro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#FFACFFFF'>Electro Die</span>. (Once per Round)\\n<span style='color:#FFFFFFFF'>Roll Phase:</span> 2 of the starting Elemental Dice you roll are always guaranteed to be <span style='color:#FFACFFFF'>Electro Dice</span>.\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -3063,7 +3063,7 @@
   {
     "id": 312501,
     "name": "Viridescent Venerer's Diadem",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#80FFD7FF'>Anemo Die</span>. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3080,7 +3080,7 @@
   {
     "id": 312502,
     "name": "Viridescent Venerer",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#80FFD7FF\u003eAnemo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#80FFD7FF'>Anemo Die</span>. (Once per Round)\\n<span style='color:#FFFFFFFF'>Roll Phase:</span> 2 of the starting Elemental Dice you roll are always guaranteed to be <span style='color:#80FFD7FF'>Anemo Dice</span>.\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -3097,7 +3097,7 @@
   {
     "id": 312601,
     "name": "Mask of Solitude Basalt",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#FFE699FF'>Geo Die</span>. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3114,7 +3114,7 @@
   {
     "id": 312602,
     "name": "Archaic Petra",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#FFE699FF\u003eGeo Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#FFE699FF'>Geo Die</span>. (Once per Round)\\n<span style='color:#FFFFFFFF'>Roll Phase:</span> 2 of the starting Elemental Dice you roll are always guaranteed to be <span style='color:#FFE699FF'>Geo Dice</span>.\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -3131,7 +3131,7 @@
   {
     "id": 312701,
     "name": "Laurel Coronet",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#99FF88FF'>Dendro Die</span>. (Once per Round)\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3148,7 +3148,7 @@
   {
     "id": 312702,
     "name": "Deepwood Memories",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen a character uses a Skill or equips a Talent:\u003c/color\u003e Spend 1 less \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to be \u003ccolor=#99FF88FF\u003eDendro Dice\u003c/color\u003e.\\n(A character can equip a maximum of 1 Artifact)",
+    "content": "<span style='color:#FFFFFFFF'>When a character uses a Skill or equips a Talent:</span> Spend 1 less <span style='color:#99FF88FF'>Dendro Die</span>. (Once per Round)\\n<span style='color:#FFFFFFFF'>Roll Phase:</span> 2 of the starting Elemental Dice you roll are always guaranteed to be <span style='color:#99FF88FF'>Dendro Dice</span>.\\n(A character can equip a maximum of 1 Artifact)",
     "type": "equip",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -3165,7 +3165,7 @@
   {
     "id": 321001,
     "name": "Liyue Harbor Wharf",
-    "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Draw 2 cards.\\n\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2",
+    "content": "<span style='color:#FFFFFFFF'>End Phase:</span> Draw 2 cards.\\n<span style='color:#FFFFFFFF'>Usage(s)</span>: 2",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3182,7 +3182,7 @@
   {
     "id": 321002,
     "name": "Knights of Favonius Library",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen played:\u003c/color\u003e Select any Elemental Dice to reroll.\\n\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e Gain another chance to reroll.",
+    "content": "<span style='color:#FFFFFFFF'>When played:</span> Select any Elemental Dice to reroll.\\n<span style='color:#FFFFFFFF'>Roll Phase:</span> Gain another chance to reroll.",
     "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -3199,7 +3199,7 @@
   {
     "id": 321003,
     "name": "Jade Chamber",
-    "content": "\u003ccolor=#FFFFFFFF\u003eRoll Phase:\u003c/color\u003e 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.",
+    "content": "<span style='color:#FFFFFFFF'>Roll Phase:</span> 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.",
     "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -3216,7 +3216,7 @@
   {
     "id": 321004,
     "name": "Dawn Winery",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\":\u003c/color\u003e Spend 1 less Elemental Die. (Once per Round)",
+    "content": "<span style='color:#FFFFFFFF'>When you perform \"Switch Character\":</span> Spend 1 less Elemental Die. (Once per Round)",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3233,7 +3233,7 @@
   {
     "id": 321005,
     "name": "Wangshu Inn",
-    "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Heal the most injured character on standby for 2 HP.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
+    "content": "<span style='color:#FFFFFFFF'>End Phase:</span> Heal the most injured character on standby for 2 HP.\\n<span style='color:#FFFFFFFF'><span style='color:#FFFFFFFF'>Usage(s)</span>: 2</span>",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3250,7 +3250,7 @@
   {
     "id": 321006,
     "name": "Favonius Cathedral",
-    "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Heal your active character for 2 HP.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
+    "content": "<span style='color:#FFFFFFFF'>End Phase:</span> Heal your active character for 2 HP.\\n<span style='color:#FFFFFFFF'><span style='color:#FFFFFFFF'>Usage(s)</span>: 2</span>",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3267,7 +3267,7 @@
   {
     "id": 322001,
     "name": "Paimon",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen Action Phase begins:\u003c/color\u003e Create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
+    "content": "<span style='color:#FFFFFFFF'>When Action Phase begins:</span> Create <span style='color:#FFFFFFFF'>Omni Element</span> ×2.\\n<span style='color:#FFFFFFFF'><span style='color:#FFFFFFFF'>Usage(s)</span>: 2</span>",
     "type": "support",
     "num1": "3",
     "cost_type1_icon": "3",
@@ -3284,7 +3284,7 @@
   {
     "id": 322002,
     "name": "Katheryne",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen you perform \"Switch Character\":\u003c/color\u003e This switch is considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e. (Once per Round)",
+    "content": "<span style='color:#FFFFFFFF'>When you perform \"Switch Character\":</span> This switch is considered a <span style='color:#FFFFFFFF'>Fast Action</span> instead of a <span style='color:#FFFFFFFF'>Combat Action</span>. (Once per Round)",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -3301,7 +3301,7 @@
   {
     "id": 322003,
     "name": "Timaeus",
-    "content": "Comes with 2 Transmutation Materials when played.\\n\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Gain 1 Transmutation Material.\\n\u003ccolor=#FFFFFFFF\u003eWhen playing an Artifact Card:\u003c/color\u003e If possible, spend Transmutation Materials equal to the total cost of the Artifact and equip this Artifact for free. (Once per Round)",
+    "content": "Comes with 2 Transmutation Materials when played.\\n<span style='color:#FFFFFFFF'>End Phase:</span> Gain 1 Transmutation Material.\\n<span style='color:#FFFFFFFF'>When playing an Artifact Card:</span> If possible, spend Transmutation Materials equal to the total cost of the Artifact and equip this Artifact for free. (Once per Round)",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3318,7 +3318,7 @@
   {
     "id": 322004,
     "name": "Wagner",
-    "content": "Comes with 2 Forging Billets when played.\\n\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Gain 1 Forging Billet.\\n\u003ccolor=#FFFFFFFF\u003eWhen playing a Weapon Card:\u003c/color\u003e If possible, spend Forging Billets equal to the total cost of the Weapon and equip this Weapon for free. (Once per Round)",
+    "content": "Comes with 2 Forging Billets when played.\\n<span style='color:#FFFFFFFF'>End Phase:</span> Gain 1 Forging Billet.\\n<span style='color:#FFFFFFFF'>When playing a Weapon Card:</span> If possible, spend Forging Billets equal to the total cost of the Weapon and equip this Weapon for free. (Once per Round)",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3335,7 +3335,7 @@
   {
     "id": 322005,
     "name": "Chef Mao",
-    "content": "\u003ccolor=#FFFFFFFF\u003eAfter playing a Food Event Card:\u003c/color\u003e Create 1 random Elemental Die. (Once per Round)",
+    "content": "<span style='color:#FFFFFFFF'>After playing a Food Event Card:</span> Create 1 random Elemental Die. (Once per Round)",
     "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -3352,7 +3352,7 @@
   {
     "id": 322006,
     "name": "Tubby",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen playing a Location Support Card:\u003c/color\u003e Spend 2 less Elemental Dice. (Once per Round)",
+    "content": "<span style='color:#FFFFFFFF'>When playing a Location Support Card:</span> Spend 2 less Elemental Dice. (Once per Round)",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3369,7 +3369,7 @@
   {
     "id": 322007,
     "name": "Timmie",
-    "content": "\u003ccolor=#FFFFFFFF\u003eTriggers automatically once per Round:\u003c/color\u003e This card gains \u003ccolor=#FFFFFFFF\u003e1 Pigeon\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Pigeons\u003c/color\u003e, discard this card, then draw 1 card and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1.",
+    "content": "<span style='color:#FFFFFFFF'>Triggers automatically once per Round:</span> This card gains <span style='color:#FFFFFFFF'>1 Pigeon</span>.\\nWhen this card gains <span style='color:#FFFFFFFF'>3 Pigeons</span>, discard this card, then draw 1 card and create <span style='color:#FFFFFFFF'>Omni Element</span> ×1.",
     "type": "support",
     "num1": "",
     "cost_type1_icon": "",
@@ -3386,7 +3386,7 @@
   {
     "id": 322008,
     "name": "Liben",
-    "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e Collect your unused Elemental Dice (Max 1 of each Elemental Type).\\n\u003ccolor=#FFFFFFFF\u003eWhen Action Phase begins:\u003c/color\u003e If this card has collected 3 Elemental Dice, draw 2 cards and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2, then discard this card.",
+    "content": "<span style='color:#FFFFFFFF'>End Phase:</span> Collect your unused Elemental Dice (Max 1 of each Elemental Type).\\n<span style='color:#FFFFFFFF'>When Action Phase begins:</span> If this card has collected 3 Elemental Dice, draw 2 cards and create <span style='color:#FFFFFFFF'>Omni Element</span> ×2, then discard this card.",
     "type": "support",
     "num1": "",
     "cost_type1_icon": "",
@@ -3403,7 +3403,7 @@
   {
     "id": 322009,
     "name": "Chang the Ninth",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen either side uses a Skill:\u003c/color\u003e If \u003ccolor=#FFFFFFFF\u003ePhysical DMG\u003c/color\u003e or \u003ccolor=#FFFFFFFF\u003ePiercing DMG\u003c/color\u003e was dealt, or an \u003ccolor=#FFFFFFFF\u003eElemental Reaction\u003c/color\u003e was triggered, this card gains \u003ccolor=#FFFFFFFF\u003e1 Inspiration\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Inspiration\u003c/color\u003e, discard this card, then draw 2 cards.",
+    "content": "<span style='color:#FFFFFFFF'>When either side uses a Skill:</span> If <span style='color:#FFFFFFFF'>Physical DMG</span> or <span style='color:#FFFFFFFF'>Piercing DMG</span> was dealt, or an <span style='color:#FFFFFFFF'>Elemental Reaction</span> was triggered, this card gains <span style='color:#FFFFFFFF'>1 Inspiration</span>.\\nWhen this card gains <span style='color:#FFFFFFFF'>3 Inspiration</span>, discard this card, then draw 2 cards.",
     "type": "support",
     "num1": "",
     "cost_type1_icon": "",
@@ -3420,7 +3420,7 @@
   {
     "id": 322010,
     "name": "Ellin",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen you use a Skill that has already been used in this Round:\u003c/color\u003e Spend 1 less Elemental Die. (Once per Round)",
+    "content": "<span style='color:#FFFFFFFF'>When you use a Skill that has already been used in this Round:</span> Spend 1 less Elemental Die. (Once per Round)",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3437,7 +3437,7 @@
   {
     "id": 322011,
     "name": "Iron Tongue Tian",
-    "content": "\u003ccolor=#FFFFFFFF\u003eEnd Phase:\u003c/color\u003e One of your characters without maximum Energy gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Active Character prioritized)\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
+    "content": "<span style='color:#FFFFFFFF'>End Phase:</span> One of your characters without maximum Energy gains 1 <span style='color:#FFFFFFFF'>Energy</span>. (Active Character prioritized)\\n<span style='color:#FFFFFFFF'><span style='color:#FFFFFFFF'>Usage(s)</span>: 2</span>",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -3454,7 +3454,7 @@
   {
     "id": 322012,
     "name": "Liu Su",
-    "content": "\u003ccolor=#FFFFFFFF\u003eAfter you switch characters:\u003c/color\u003e If the character you switched to does not have \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e, they will gain 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Once per Round)\\n\u003ccolor=#FFFFFFFF\u003e\u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e: 2\u003c/color\u003e",
+    "content": "<span style='color:#FFFFFFFF'>After you switch characters:</span> If the character you switched to does not have <span style='color:#FFFFFFFF'>Energy</span>, they will gain 1 <span style='color:#FFFFFFFF'>Energy</span>. (Once per Round)\\n<span style='color:#FFFFFFFF'><span style='color:#FFFFFFFF'>Usage(s)</span>: 2</span>",
     "type": "support",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -3471,7 +3471,7 @@
   {
     "id": 323001,
     "name": "Parametric Transformer",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen either side uses a Skill:\u003c/color\u003e If Elemental DMG was dealt, this card gains \u003ccolor=#FFFFFFFF\u003e1 Qualitative Progress\u003c/color\u003e.\\nWhen this card gains \u003ccolor=#FFFFFFFF\u003e3 Qualitative Progress\u003c/color\u003e, discard this card, then create 3 different Basic Elemental Dice.",
+    "content": "<span style='color:#FFFFFFFF'>When either side uses a Skill:</span> If Elemental DMG was dealt, this card gains <span style='color:#FFFFFFFF'>1 Qualitative Progress</span>.\\nWhen this card gains <span style='color:#FFFFFFFF'>3 Qualitative Progress</span>, discard this card, then create 3 different Basic Elemental Dice.",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -3488,7 +3488,7 @@
   {
     "id": 323002,
     "name": "NRE",
-    "content": "\u003ccolor=#FFFFFFFF\u003eWhen played:\u003c/color\u003e Draw 1 Food Event Card from your deck.\\n\u003ccolor=#FFFFFFFF\u003eWhen you play a Food Event Card:\u003c/color\u003e Draw 1 Food Event Card from your deck. (Once per Round)",
+    "content": "<span style='color:#FFFFFFFF'>When played:</span> Draw 1 Food Event Card from your deck.\\n<span style='color:#FFFFFFFF'>When you play a Food Event Card:</span> Draw 1 Food Event Card from your deck. (Once per Round)",
     "type": "support",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -3505,7 +3505,7 @@
   {
     "id": 331101,
     "name": "Elemental Resonance: Woven Ice",
-    "content": "Create 1 \u003ccolor=#99FFFFFF\u003eCryo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Create 1 <span style='color:#99FFFFFF'>Cryo Die</span>.\\n(You must have at least 2 <span style='color:#99FFFFFF'>Cryo</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3522,7 +3522,7 @@
   {
     "id": 331102,
     "name": "Elemental Resonance: Shattering Ice",
-    "content": "During this Round, your current active character will deal +2 DMG for the next instance.\\n(You must have at least 2 \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "During this Round, your current active character will deal +2 DMG for the next instance.\\n(You must have at least 2 <span style='color:#99FFFFFF'>Cryo</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "11",
@@ -3539,7 +3539,7 @@
   {
     "id": 331201,
     "name": "Elemental Resonance: Woven Waters",
-    "content": "Create 1 \u003ccolor=#80C0FFFF\u003eHydro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Create 1 <span style='color:#80C0FFFF'>Hydro Die</span>.\\n(You must have at least 2 <span style='color:#80C0FFFF'>Hydro</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3556,7 +3556,7 @@
   {
     "id": 331202,
     "name": "Elemental Resonance: Soothing Water",
-    "content": "Heal your active character for 2 HP and all your characters on standby for 1 HP.\\n(You must have at least 2 \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Heal your active character for 2 HP and all your characters on standby for 1 HP.\\n(You must have at least 2 <span style='color:#80C0FFFF'>Hydro</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "12",
@@ -3573,7 +3573,7 @@
   {
     "id": 331301,
     "name": "Elemental Resonance: Woven Flames",
-    "content": "Create 1 \u003ccolor=#FF9999FF\u003ePyro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Create 1 <span style='color:#FF9999FF'>Pyro Die</span>.\\n(You must have at least 2 <span style='color:#FF9999FF'>Pyro</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3590,7 +3590,7 @@
   {
     "id": 331302,
     "name": "Elemental Resonance: Fervent Flames",
-    "content": "During this round, the next instance of \u003ccolor=#FF9999FF\u003ePyro-Related Reactions\u003c/color\u003e your current active character triggers deals +3 DMG.\\n(You must have at least 2 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "During this round, the next instance of <span style='color:#FF9999FF'>Pyro-Related Reactions</span> your current active character triggers deals +3 DMG.\\n(You must have at least 2 <span style='color:#FF9999FF'>Pyro</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "13",
@@ -3607,7 +3607,7 @@
   {
     "id": 331401,
     "name": "Elemental Resonance: Woven Thunder",
-    "content": "Create 1 \u003ccolor=#FFACFFFF\u003eElectro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Create 1 <span style='color:#FFACFFFF'>Electro Die</span>.\\n(You must have at least 2 <span style='color:#FFACFFFF'>Electro</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3624,7 +3624,7 @@
   {
     "id": 331402,
     "name": "Elemental Resonance: High Voltage",
-    "content": "One of your characters without maximum Energy gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e. (Active Character prioritized)\\n(You must have at least 2 \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "One of your characters without maximum Energy gains 1 <span style='color:#FFFFFFFF'>Energy</span>. (Active Character prioritized)\\n(You must have at least 2 <span style='color:#FFACFFFF'>Electro</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "14",
@@ -3641,7 +3641,7 @@
   {
     "id": 331501,
     "name": "Elemental Resonance: Woven Winds",
-    "content": "Create 1 \u003ccolor=#80FFD7FF\u003eAnemo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#80FFD7FF\u003eAnemo\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Create 1 <span style='color:#80FFD7FF'>Anemo Die</span>.\\n(You must have at least 2 <span style='color:#80FFD7FF'>Anemo</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3658,7 +3658,7 @@
   {
     "id": 331502,
     "name": "Elemental Resonance: Impetuous Winds",
-    "content": "Switch to the target character and create \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1.\\n(You must have at least 2 \u003ccolor=#80FFD7FF\u003eAnemo\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Switch to the target character and create <span style='color:#FFFFFFFF'>Omni Element</span> ×1.\\n(You must have at least 2 <span style='color:#80FFD7FF'>Anemo</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "17",
@@ -3675,7 +3675,7 @@
   {
     "id": 331601,
     "name": "Elemental Resonance: Woven Stone",
-    "content": "Create 1 \u003ccolor=#FFE699FF\u003eGeo Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Create 1 <span style='color:#FFE699FF'>Geo Die</span>.\\n(You must have at least 2 <span style='color:#FFE699FF'>Geo</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3692,7 +3692,7 @@
   {
     "id": 331602,
     "name": "Elemental Resonance: Enduring Rock",
-    "content": "During this round, after your character deals \u003ccolor=#FFE699FF\u003eGeo DMG\u003c/color\u003e next time: Should there be any Combat Status on your side that provides \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e, grant one such Status with 3 \u003ccolor=#FFFFFFFF\u003eShield\u003c/color\u003e points. \\n(You must have at least 2 \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "During this round, after your character deals <span style='color:#FFE699FF'>Geo DMG</span> next time: Should there be any Combat Status on your side that provides <span style='color:#FFFFFFFF'>Shield</span>, grant one such Status with 3 <span style='color:#FFFFFFFF'>Shield</span> points. \\n(You must have at least 2 <span style='color:#FFE699FF'>Geo</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "15",
@@ -3709,7 +3709,7 @@
   {
     "id": 331701,
     "name": "Elemental Resonance: Woven Weeds",
-    "content": "Create 1 \u003ccolor=#99FF88FF\u003eDendro Die\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FF88FF\u003eDendro\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "Create 1 <span style='color:#99FF88FF'>Dendro Die</span>.\\n(You must have at least 2 <span style='color:#99FF88FF'>Dendro</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3726,7 +3726,7 @@
   {
     "id": 331702,
     "name": "Elemental Resonance: Sprawling Greenery",
-    "content": "During this round, the next Elemental Reaction your active character triggers deals +2 DMG.\\nYour \u003ccolor=#FFFFFFFF\u003eBurning Flame, Dendro Core, and Catalyzing Field\u003c/color\u003e gain +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.\\n(You must have at least 2 \u003ccolor=#99FF88FF\u003eDendro\u003c/color\u003e characters in your deck to add this card to your deck.)",
+    "content": "During this round, the next Elemental Reaction your active character triggers deals +2 DMG.\\nYour <span style='color:#FFFFFFFF'>Burning Flame, Dendro Core, and Catalyzing Field</span> gain +1 <span style='color:#FFFFFFFF'>Usage(s)</span>.\\n(You must have at least 2 <span style='color:#99FF88FF'>Dendro</span> characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "16",
@@ -3743,7 +3743,7 @@
   {
     "id": 332001,
     "name": "The Bestest Travel Companion!",
-    "content": "Convert the Elemental Dice spent to \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×2.",
+    "content": "Convert the Elemental Dice spent to <span style='color:#FFFFFFFF'>Omni Element</span> ×2.",
     "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -3760,7 +3760,7 @@
   {
     "id": 332002,
     "name": "Changing Shifts",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you perform \"Switch Character\":\u003c/color\u003e Spend 1 less Elemental Die.",
+    "content": "<span style='color:#FFFFFFFF'>The next time you perform \"Switch Character\":</span> Spend 1 less Elemental Die.",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3777,7 +3777,7 @@
   {
     "id": 332003,
     "name": "Toss-Up",
-    "content": "Select any Elemental Die to \u003ccolor=#FFFFFFFF\u003ereroll\u003c/color\u003e. Can reroll 2 times.",
+    "content": "Select any Elemental Die to <span style='color:#FFFFFFFF'>reroll</span>. Can reroll 2 times.",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3811,7 +3811,7 @@
   {
     "id": 332005,
     "name": "I Haven't Lost Yet!",
-    "content": "Only playable if one of your characters is defeated this Round:\\nCreate \u003ccolor=#FFFFFFFF\u003eOmni Element\u003c/color\u003e ×1 and your current active character gains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e.",
+    "content": "Only playable if one of your characters is defeated this Round:\\nCreate <span style='color:#FFFFFFFF'>Omni Element</span> ×1 and your current active character gains 1 <span style='color:#FFFFFFFF'>Energy</span>.",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3828,7 +3828,7 @@
   {
     "id": 332006,
     "name": "Leave It to Me!",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you perform \"Switch Character\":\u003c/color\u003e This switch will be considered a \u003ccolor=#FFFFFFFF\u003eFast Action\u003c/color\u003e instead of a \u003ccolor=#FFFFFFFF\u003eCombat Action\u003c/color\u003e.",
+    "content": "<span style='color:#FFFFFFFF'>The next time you perform \"Switch Character\":</span> This switch will be considered a <span style='color:#FFFFFFFF'>Fast Action</span> instead of a <span style='color:#FFFFFFFF'>Combat Action</span>.",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -3845,7 +3845,7 @@
   {
     "id": 332007,
     "name": "When the Crane Returned",
-    "content": "\u003ccolor=#FFFFFFFF\u003eThe next time you use a Skill:\u003c/color\u003e Switch your next character in to be the active character.",
+    "content": "<span style='color:#FFFFFFFF'>The next time you use a Skill:</span> Switch your next character in to be the active character.",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -3862,7 +3862,7 @@
   {
     "id": 332008,
     "name": "Starsigns",
-    "content": "Your current Active Character \u003ccolor=#FFFFFFFF\u003egains 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e\u003c/color\u003e.",
+    "content": "Your current Active Character <span style='color:#FFFFFFFF'>gains 1 <span style='color:#FFFFFFFF'>Energy</span></span>.",
     "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -3879,7 +3879,7 @@
   {
     "id": 332009,
     "name": "Calx's Arts",
-    "content": "Shift 1 \u003ccolor=#FFFFFFFF\u003eEnergy\u003c/color\u003e from at most 2 of your characters on standby to your active character.",
+    "content": "Shift 1 <span style='color:#FFFFFFFF'>Energy</span> from at most 2 of your characters on standby to your active character.",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -3930,7 +3930,7 @@
   {
     "id": 332012,
     "name": "Quick Knit",
-    "content": "Choose one Summon on your side and grant it +1 \u003ccolor=#FFFFFFFF\u003eUsage(s)\u003c/color\u003e.",
+    "content": "Choose one Summon on your side and grant it +1 <span style='color:#FFFFFFFF'>Usage(s)</span>.",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
@@ -3981,7 +3981,7 @@
   {
     "id": 332015,
     "name": "Abyssal Summons",
-    "content": "Summon 1 \u003ccolor=#FFFFFFFF\u003eRandom Hilichurl Summon\u003c/color\u003e!\\n(You must have at least 2 Monster characters in your deck to add this card to your deck.)",
+    "content": "Summon 1 <span style='color:#FFFFFFFF'>Random Hilichurl Summon</span>!\\n(You must have at least 2 Monster characters in your deck to add this card to your deck.)",
     "type": "event",
     "num1": "2",
     "cost_type1_icon": "3",
@@ -3998,7 +3998,7 @@
   {
     "id": 333001,
     "name": "Jueyun Guoba",
-    "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e deals +1 DMG.\\n(A character can consume at most 1 Food per Round)",
+    "content": "During this Round, the target character's next <span style='color:#FFFFFFFF'>Normal Attack</span> deals +1 DMG.\\n(A character can consume at most 1 Food per Round)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -4015,7 +4015,7 @@
   {
     "id": 333002,
     "name": "Adeptus' Temptation",
-    "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eElemental Burst\u003c/color\u003e deals +3 DMG.\\n(A character can consume at most 1 Food per Round)",
+    "content": "During this Round, the target character's next <span style='color:#FFFFFFFF'>Elemental Burst</span> deals +3 DMG.\\n(A character can consume at most 1 Food per Round)",
     "type": "event",
     "num1": "2",
     "cost_type1_icon": "10",
@@ -4049,7 +4049,7 @@
   {
     "id": 333004,
     "name": "Northern Smoked Chicken",
-    "content": "During this Round, the target character's next \u003ccolor=#FFFFFFFF\u003eNormal Attack\u003c/color\u003e costs 1 less \u003ccolor=#FFFFFFFF\u003eUnaligned Element\u003c/color\u003e.\\n(A character can consume at most 1 Food per Round)",
+    "content": "During this Round, the target character's next <span style='color:#FFFFFFFF'>Normal Attack</span> costs 1 less <span style='color:#FFFFFFFF'>Unaligned Element</span>.\\n(A character can consume at most 1 Food per Round)",
     "type": "event",
     "num1": "",
     "cost_type1_icon": "",
@@ -4117,7 +4117,7 @@
   {
     "id": 333008,
     "name": "Minty Meat Rolls",
-    "content": "Before this Round ends, the target character's \u003ccolor=#FFFFFFFF\u003eNormal Attacks\u003c/color\u003e cost 1 less \u003ccolor=#FFFFFFFF\u003eUnaligned Element\u003c/color\u003e.\\n(A character can consume at most 1 Food per Round)",
+    "content": "Before this Round ends, the target character's <span style='color:#FFFFFFFF'>Normal Attacks</span> cost 1 less <span style='color:#FFFFFFFF'>Unaligned Element</span>.\\n(A character can consume at most 1 Food per Round)",
     "type": "event",
     "num1": "1",
     "cost_type1_icon": "3",
